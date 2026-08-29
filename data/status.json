@@ -1,0 +1,28 @@
+{
+ "ranAt": "2026-08-29T09:36:38Z",
+ "set": {
+  "ok": true,
+  "number": 18.0,
+  "units": 85,
+  "traits": 36,
+  "items": 4147
+ },
+ "comps": {
+  "ok": false,
+  "source": null,
+  "tried": [
+   {
+    "url": "https://api.metatft.com/tft-stats/general/comps?queue=1100&days=3&rank=CHALLENGER,GRANDMASTER,MASTER&patch=current",
+    "error": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://api2.metatft.com/tft-stats/general/comps?queue=1100&days=3&rank=CHALLENGER,GRANDMASTER,MASTER&patch=current",
+    "error": "HTTPError: HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://www.metatft.com/api/comps?queue=1100&days=3",
+    "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+   }
+  ]
+ }
+}
