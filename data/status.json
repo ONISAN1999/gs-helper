@@ -1,28 +1,22 @@
 {
- "ranAt": "2026-08-29T09:36:38Z",
+ "ranAt": "2026-08-29T09:58:41Z",
  "set": {
   "ok": true,
   "number": 18.0,
-  "units": 85,
+  "units": 65,
+  "byCost": {
+   "1": 14,
+   "2": 13,
+   "3": 14,
+   "4": 14,
+   "5": 10
+  },
   "traits": 36,
-  "items": 4147
+  "items": 65
  },
  "comps": {
   "ok": false,
-  "source": null,
-  "tried": [
-   {
-    "url": "https://api.metatft.com/tft-stats/general/comps?queue=1100&days=3&rank=CHALLENGER,GRANDMASTER,MASTER&patch=current",
-    "error": "HTTPError: HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://api2.metatft.com/tft-stats/general/comps?queue=1100&days=3&rank=CHALLENGER,GRANDMASTER,MASTER&patch=current",
-    "error": "HTTPError: HTTP Error 404: Not Found"
-   },
-   {
-    "url": "https://www.metatft.com/api/comps?queue=1100&days=3",
-    "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-   }
-  ]
+  "keptOld": true,
+  "error": "RuntimeError: parse ได้แค่ 0 คอมพ์ — หน้าเว็บอาจเปลี่ยนโครงสร้าง"
  }
 }
