@@ -2,6 +2,52 @@ name: update-data
 
 on:
   schedule:
+    - cron: "0 2 * * *"    # 09:00 เวลาไทยทุกวัน
+  workflow_dispatch:        # กดรันเองได้จากแท็บ Actions
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # ---- ข้อมูลจากไฟล์เกม (ยูนิต ไอเทม เผ่า) ----
+      - name: ดึงข้อมูลเซ็ตจากไฟล์เกม
+        run: python tools/fetch_data.py
+
+      # ---- ข้อมูลเมต้าจาก metatft.com (ต้องใช้เบราว์เซอร์จริง) ----
+      - name: ติดตั้ง Playwright
+        run: |
+          pip install playwright
+          playwright install --with-deps chromium
+
+      - name: ดึงคอมพ์และอาร์ติแฟกต์จาก MetaTFT
+        id: meta
+        continue-on-error: true      # เว็บล่ม/เปลี่ยนโครงสร้าง อย่าให้ทั้ง job ล้ม
+        run: python tools/fetch_meta.py
+
+      - name: แจ้งถ้าดึงเมต้าไม่สำเร็จ
+        if: steps.meta.outcome == 'failure'
+        run: echo "::warning::ดึงข้อมูลจาก MetaTFT ไม่สำเร็จ ใช้ meta.json เดิมต่อไป"
+
+      - name: commit ถ้ามีอะไรเปลี่ยน
+        run: |
+          git config user.name "gs-data-bot"
+          git config user.email "actions@github.com"
+          git add data
+          git diff --staged --quiet || git commit -m "data: $(date -u +%Y-%m-%d)"
+          git push
+name: update-data
+
+on:
+  schedule:
     - cron: "0 2 * * *"   # 09:00 เวลาไทยทุกวัน
   workflow_dispatch:       # กดรันเองได้จากแท็บ Actions
 
