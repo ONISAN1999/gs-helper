@@ -1,5 +1,5 @@
 {
- "ranAt": "2026-09-02T06:29:56Z",
+ "ranAt": "2026-09-02T07:33:45Z",
  "set": {
   "ok": true,
   "number": 18.0,
@@ -12,7 +12,41 @@
    "5": 10
   },
   "traits": 36,
-  "items": 65
+  "items": 96,
+  "artifacts": 31,
+  "artifactNames": [
+   "Aegis of Dawn",
+   "Aegis of Dusk",
+   "Blighting Jewel",
+   "Dawncore",
+   "Death's Defiance",
+   "Eternal Pact",
+   "Fishbones",
+   "Flickerblades",
+   "Forbidden Idol",
+   "Gambler's Blade",
+   "Gold Collector",
+   "Hellfire Hatchet",
+   "Horizon Focus",
+   "Hullcrusher",
+   "Infinity Force",
+   "Lich Bane",
+   "Lightshield Crest",
+   "Luden's Tempest",
+   "Manazane",
+   "Mittens",
+   "Mogul'sMail",
+   "Rapid Firecannon",
+   "Seeker's Armguard",
+   "Silvermere Dawn",
+   "Statikk Shiv",
+   "Talisman of Ascension",
+   "The Indomitable",
+   "Titanic Hydra",
+   "Void Gauntlet",
+   "Wit's End",
+   "Zhonya's Paradox"
+  ]
  },
  "comps": {
   "ok": false,
