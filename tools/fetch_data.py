@@ -20,6 +20,26 @@ TIERLIST = "https://emblemcomp.gg/tier-list"
 # ยูนิตของเซ็ตปัจจุบันใช้ id ขึ้นต้น DA_ ; TFT_/TFT17_ ฯลฯ คือของเก่าและตัวอสูรที่ถูกเรียก
 SET_PREFIX = "DA_"
 
+# อาร์ติแฟกต์ไม่มีสูตรปั้น (composition ว่าง) เลยหลุดจากตัวกรองไอเทมปกติ
+# จับจาก id ที่ขึ้นต้น DA_Artifact_ (เช่น DA_Artifact_WitsEnd, DA_Artifact_NavoriFlickerblade)
+# ชื่อที่เกมโชว์กับชื่อใน id ไม่ตรงกันเสมอ จึงห้ามจับจากชื่อ
+ARTIFACT_PREFIX = "DA_Artifact_"
+
+# รายชื่อจาก MetaTFT ใช้เป็นตัวสำรองกรณี id เปลี่ยนรูปแบบ
+ARTIFACTS = [
+    "Lightshield Crest", "Zhonya's Paradox", "Flickerblades", "The Indomitable",
+    "Mittens", "Gold Collector", "Blighting Jewel", "Wit's End", "Eternal Pact",
+    "Dawncore", "Seeker's Armguard", "Manazane", "Statikk Shiv", "Fishbones",
+    "Aegis of Dusk", "Void Gauntlet", "Aegis of Dawn", "Hellfire Hatchet",
+    "Horizon Focus", "Titanic Hydra", "Luden's Tempest", "Rapid Firecannon",
+    "Gambler's Blade", "Forbidden Idol", "Lich Bane", "Infinity Force",
+    "Silvermere Dawn", "Mogul's Mail", "Talisman of Ascension",
+]
+
+
+def norm(x):
+    return "".join(c for c in x.lower() if c.isalnum())
+
 
 def now():
     return datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
@@ -75,7 +95,11 @@ def build_set():
     traits = [{
         "id": t.get("apiName"), "name": t.get("name"),
         "desc": (t.get("desc") or "")[:400],
-        "tiers": [e.get("minUnits") for e in (t.get("effects") or [])],
+        # ระดับที่ติด: กรอง None ออก บางเผ่ามี effect ที่ไม่ระบุ minUnits
+        "tiers": [e["minUnits"] for e in (t.get("effects") or [])
+                  if isinstance(e.get("minUnits"), int)],
+        # โลโก้เผ่าจากไฟล์เกม (ใช้แสดงในแถบเผ่าของแอป)
+        "icon": t.get("icon"),
     } for t in s.get("traits", []) if t.get("name")]
 
     # ไอเทม: เอาเฉพาะของเซ็ตนี้ แยกเป็นของหลัก / ตราเผ่า / ชิ้นส่วน
@@ -89,8 +113,27 @@ def build_set():
                 "from": i.get("composition") or [], "desc": (i.get("desc") or "")[:300],
                 "icon": i.get("icon")}
 
+    # อาร์ติแฟกต์: จับจาก id ก่อน แล้วค่อยเสริมด้วยรายชื่อถ้าตกหล่น
+    by_id = [i for i in raw.get("items", [])
+             if (i.get("apiName") or "").startswith(ARTIFACT_PREFIX) and i.get("name")]
+    want = {norm(a) for a in ARTIFACTS}
+    have_names = {norm(i["name"]) for i in by_id}
+    by_name = [i for i in raw.get("items", [])
+               if i.get("name") and norm(i["name"]) in want
+               and norm(i["name"]) not in have_names
+               and (i.get("apiName") or "").startswith(SET_PREFIX)]
+
+    seen, arts_u = set(), []
+    for i in by_id + by_name:
+        k = (i.get("apiName") or i["name"]).lower()
+        if k in seen:
+            continue
+        seen.add(k)
+        arts_u.append(i)
+
     items = ([row(i, "component") for i in parts] +
-             [row(i, "emblem" if "Emblem" in i["name"] else "core") for i in craft])
+             [row(i, "emblem" if "Emblem" in i["name"] else "core") for i in craft] +
+             [row(i, "artifact") for i in arts_u])
 
     return {"set": num, "fetchedAt": now(),
             "units": sorted(units, key=lambda u: (u["cost"], u["name"])),
@@ -183,7 +226,10 @@ def main():
         for u in st["units"]:
             by_cost[u["cost"]] = by_cost.get(u["cost"], 0) + 1
         status["set"] = {"ok": True, "number": st["set"], "units": len(st["units"]),
-                         "byCost": by_cost, "traits": len(st["traits"]), "items": len(st["items"])}
+                         "byCost": by_cost, "traits": len(st["traits"]), "items": len(st["items"]),
+                         "artifacts": sum(1 for i in st["items"] if i["kind"] == "artifact"),
+                         "artifactNames": sorted(i["name"] for i in st["items"]
+                                                 if i["kind"] == "artifact")}
         print("set ok:", status["set"])
     except Exception as e:  # noqa: BLE001
         status["set"] = {"ok": False, "error": f"{type(e).__name__}: {e}"[:300]}
