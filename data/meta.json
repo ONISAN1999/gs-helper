@@ -1,0 +1,9815 @@
+{
+ "fetchedAt": "2026-09-02T07:44:31Z",
+ "source": "metatft.com",
+ "filter": "แพลตตินัม+ · 3 วัน",
+ "comps": [
+  {
+   "name": "Riftbeast Sentinel",
+   "tier": "S",
+   "avg": 4.09,
+   "win": 15.4,
+   "plan": "Standard",
+   "steps": [],
+   "early": [
+    [
+     [
+      "S",
+      "Riftbeast Sentinel",
+      "Standard",
+      "Easy",
+      "7",
+      "2",
+      "2",
+      "2",
+      "2",
+      "1",
+      "1",
+      "Sentinel",
+      "Elder Dragon",
+      "Brambleback",
+      "Pebbles",
+      "Gnar",
+      "Taric",
+      "Krug",
+      "Murkwolf",
+      "Avg Place",
+      "4.09",
+      "Pick Rate",
+      "0.24",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Pebbles",
+      "Cinderling",
+      "Murkwolf",
+      "Scuttlecrab"
+     ],
+     49.3
+    ],
+    [
+     [
+      "Pebbles",
+      "Cinderling",
+      "Gromp",
+      "Murkwolf",
+      "Scuttlecrab"
+     ],
+     56.3
+    ],
+    [
+     [
+      "Pebbles",
+      "Cinderling",
+      "Gromp",
+      "Murkwolf",
+      "Scuttlecrab",
+      "Krug"
+     ],
+     50.6
+    ],
+    [
+     [
+      "Pebbles",
+      "Cinderling",
+      "Gromp",
+      "Murkwolf",
+      "Scuttlecrab",
+      "Mama Beak",
+      "Krug"
+     ],
+     76
+    ]
+   ],
+   "board": [
+    [
+     "Murkwolf",
+     0,
+     1
+    ],
+    [
+     "Brambleback",
+     0,
+     3
+    ],
+    [
+     "Sentinel",
+     0,
+     4
+    ],
+    [
+     "Krug",
+     0,
+     5
+    ],
+    [
+     "Taric",
+     0,
+     7
+    ],
+    [
+     "Gnar",
+     1,
+     5
+    ],
+    [
+     "Pebbles",
+     3,
+     1
+    ]
+   ],
+   "three": [
+    "Pebbles"
+   ],
+   "units": [
+    "Brambleback",
+    "Gnar",
+    "Krug",
+    "Murkwolf",
+    "Pebbles",
+    "Sentinel",
+    "Taric"
+   ]
+  },
+  {
+   "name": "Sprykin Veigar",
+   "tier": "S",
+   "avg": 4.12,
+   "win": 12.9,
+   "plan": "lvl 5",
+   "steps": [],
+   "early": [
+    [
+     [
+      "S",
+      "Sprykin Veigar",
+      "lvl 5",
+      "Medium",
+      "5",
+      "4",
+      "2",
+      "2",
+      "2",
+      "1",
+      "Veigar",
+      "Rek'Sai",
+      "Teemo",
+      "Fiddlesticks",
+      "Gnar",
+      "Sett",
+      "Rammus",
+      "Kobuko",
+      "Avg Place",
+      "4.12",
+      "Pick Rate",
+      "0.34",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Teemo"
+     ],
+     61.5
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Teemo",
+      "Fiddlesticks"
+     ],
+     69.2
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Teemo",
+      "Rammus",
+      "Fiddlesticks"
+     ],
+     70.8
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Teemo",
+      "Rammus",
+      "Tristana",
+      "Fiddlesticks"
+     ],
+     66.8
+    ]
+   ],
+   "board": [
+    [
+     "Sett",
+     0,
+     1
+    ],
+    [
+     "Kobuko",
+     0,
+     3
+    ],
+    [
+     "Rek'Sai",
+     0,
+     4
+    ],
+    [
+     "Rammus",
+     0,
+     5
+    ],
+    [
+     "Gnar",
+     1,
+     3
+    ],
+    [
+     "Fiddlesticks",
+     2,
+     4
+    ],
+    [
+     "Veigar",
+     3,
+     1
+    ],
+    [
+     "Teemo",
+     3,
+     2
+    ]
+   ],
+   "three": [
+    "Veigar",
+    "Rek'Sai",
+    "Teemo",
+    "Kobuko"
+   ],
+   "units": [
+    "Fiddlesticks",
+    "Gnar",
+    "Kobuko",
+    "Rammus",
+    "Rek'Sai",
+    "Sett",
+    "Teemo",
+    "Veigar"
+   ]
+  },
+  {
+   "name": "Adaptor Master Yi",
+   "tier": "S",
+   "avg": 4.24,
+   "win": 12.7,
+   "plan": "lvl 7",
+   "steps": [],
+   "early": [
+    [
+     [
+      "S",
+      "Adaptor Master Yi",
+      "lvl 7",
+      "Medium",
+      "3",
+      "3",
+      "2",
+      "2",
+      "2",
+      "1",
+      "Master Yi",
+      "Vi",
+      "Kog'Maw",
+      "Nidalee",
+      "Sett",
+      "Krug",
+      "Yorick",
+      "Avg Place",
+      "4.24",
+      "Pick Rate",
+      "0.47",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Master Yi"
+     ],
+     63.7
+    ],
+    [
+     [
+      "Yorick",
+      "Karma",
+      "Master Yi",
+      "Kog'Maw",
+      "Vi"
+     ],
+     77.1
+    ],
+    [
+     [
+      "Yorick",
+      "Gromp",
+      "Master Yi",
+      "Kog'Maw",
+      "Krug",
+      "Vi"
+     ],
+     67.5
+    ],
+    [
+     [
+      "Yorick",
+      "Master Yi",
+      "Kog'Maw",
+      "Krug",
+      "Vi",
+      "Sett",
+      "Nidalee"
+     ],
+     64.5
+    ]
+   ],
+   "board": [
+    [
+     "Krug",
+     0,
+     1
+    ],
+    [
+     "Yorick",
+     0,
+     3
+    ],
+    [
+     "Vi",
+     0,
+     4
+    ],
+    [
+     "Sett",
+     0,
+     5
+    ],
+    [
+     "Master Yi",
+     2,
+     8
+    ],
+    [
+     "Kog'Maw",
+     3,
+     1
+    ],
+    [
+     "Nidalee",
+     3,
+     2
+    ]
+   ],
+   "three": [
+    "Master Yi",
+    "Vi",
+    "Kog'Maw",
+    "Krug"
+   ],
+   "units": [
+    "Kog'Maw",
+    "Krug",
+    "Master Yi",
+    "Nidalee",
+    "Sett",
+    "Vi",
+    "Yorick"
+   ]
+  },
+  {
+   "name": "Invoker Ahri",
+   "tier": "A",
+   "avg": 4.26,
+   "win": 12.1,
+   "plan": "Fast 8",
+   "steps": [],
+   "early": [
+    [
+     [
+      "A",
+      "Invoker Ahri",
+      "Fast 8",
+      "Medium",
+      "3",
+      "3",
+      "3",
+      "2",
+      "2",
+      "2",
+      "1",
+      "Ahri",
+      "Morgana",
+      "Sett",
+      "Sentinel",
+      "Taric",
+      "Krug",
+      "Pebbles",
+      "Karma",
+      "Avg Place",
+      "4.26",
+      "Pick Rate",
+      "0.50",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia"
+     ],
+     30.7
+    ],
+    [
+     [
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
+      "Diana"
+     ],
+     53.2
+    ],
+    [
+     [
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
+      "Diana",
+      "Fiddlesticks"
+     ],
+     43.6
+    ],
+    [
+     [
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
+      "Diana",
+      "Fiddlesticks",
+      "Morgana"
+     ],
+     47.8
+    ]
+   ],
+   "board": [
+    [
+     "Krug",
+     0,
+     1
+    ],
+    [
+     "Taric",
+     0,
+     3
+    ],
+    [
+     "Sett",
+     0,
+     4
+    ],
+    [
+     "Sentinel",
+     0,
+     5
+    ],
+    [
+     "Morgana",
+     1,
+     3
+    ],
+    [
+     "Ahri",
+     3,
+     1
+    ],
+    [
+     "Karma",
+     3,
+     2
+    ],
+    [
+     "Pebbles",
+     3,
+     3
+    ]
+   ],
+   "three": [],
+   "units": [
+    "Ahri",
+    "Karma",
+    "Krug",
+    "Morgana",
+    "Pebbles",
+    "Sentinel",
+    "Sett",
+    "Taric"
+   ]
+  },
+  {
+   "name": "Hunter Caitlyn",
+   "tier": "A",
+   "avg": 4.29,
+   "win": 8.5,
+   "plan": "lvl 6",
+   "steps": [],
+   "early": [
+    [
+     [
+      "A",
+      "Hunter Caitlyn",
+      "lvl 6",
+      "Easy",
+      "4",
+      "4",
+      "2",
+      "2",
+      "Caitlyn",
+      "Scuttlecrab",
+      "Sivir",
+      "Sejuani",
+      "Ashe",
+      "Tristana",
+      "Vi",
+      "Rakan",
+      "Avg Place",
+      "4.29",
+      "Pick Rate",
+      "0.10",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Rakan",
+      "Caitlyn",
+      "Sejuani",
+      "Scuttlecrab"
+     ],
+     51.5
+    ],
+    [
+     [
+      "Rakan",
+      "Caitlyn",
+      "Sejuani",
+      "Scuttlecrab",
+      "Vi"
+     ],
+     63.3
+    ],
+    [
+     [
+      "Rakan",
+      "Caitlyn",
+      "Sejuani",
+      "Scuttlecrab",
+      "Tristana",
+      "Vi"
+     ],
+     69.5
+    ],
+    [
+     [
+      "Rakan",
+      "Caitlyn",
+      "Sejuani",
+      "Scuttlecrab",
+      "Tristana",
+      "Vi",
+      "Sivir"
+     ],
+     63.8
+    ]
+   ],
+   "board": [
+    [
+     "Scuttlecrab",
+     0,
+     4
+    ],
+    [
+     "Sejuani",
+     2,
+     1
+    ],
+    [
+     "Rakan",
+     2,
+     3
+    ],
+    [
+     "Vi",
+     2,
+     4
+    ],
+    [
+     "Caitlyn",
+     3,
+     1
+    ],
+    [
+     "Sivir",
+     3,
+     2
+    ],
+    [
+     "Tristana",
+     3,
+     3
+    ],
+    [
+     "Ashe",
+     3,
+     9
+    ]
+   ],
+   "three": [
+    "Caitlyn",
+    "Scuttlecrab",
+    "Sejuani"
+   ],
+   "units": [
+    "Ashe",
+    "Caitlyn",
+    "Rakan",
+    "Scuttlecrab",
+    "Sejuani",
+    "Sivir",
+    "Tristana",
+    "Vi"
+   ]
+  },
+  {
+   "name": "Executioner Draven",
+   "tier": "A",
+   "avg": 4.3,
+   "win": 22.5,
+   "plan": "Fast 9",
+   "steps": [],
+   "early": [
+    [
+     [
+      "A",
+      "Executioner Draven",
+      "Fast 9",
+      "Hard",
+      "3",
+      "2",
+      "2",
+      "2",
+      "2",
+      "1",
+      "1",
+      "1",
+      "1",
+      "Draven",
+      "Maokai",
+      "Ezreal",
+      "Kennen",
+      "Gnar",
+      "Ivern",
+      "Taric",
+      "Amumu",
+      "Alistar",
+      "Avg Place",
+      "4.30",
+      "Pick Rate",
+      "0.50",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Ornn",
+      "Varus",
+      "Xayah",
+      "Alistar"
+     ],
+     61.5
+    ],
+    [
+     [
+      "Ornn",
+      "Xayah",
+      "Alistar",
+      "LeBlanc",
+      "Hecarim"
+     ],
+     69.8
+    ],
+    [
+     [
+      "Ornn",
+      "Rakan",
+      "Xayah",
+      "Alistar",
+      "LeBlanc",
+      "Hecarim"
+     ],
+     56.2
+    ],
+    [
+     [
+      "Ornn",
+      "Varus",
+      "Xayah",
+      "Alistar",
+      "LeBlanc",
+      "Shen",
+      "Hecarim"
+     ],
+     64.2
+    ]
+   ],
+   "board": [
+    [
+     "Alistar",
+     0,
+     1
+    ],
+    [
+     "Taric",
+     0,
+     3
+    ],
+    [
+     "Maokai",
+     0,
+     4
+    ],
+    [
+     "Amumu",
+     0,
+     5
+    ],
+    [
+     "Kennen",
+     1,
+     3
+    ],
+    [
+     "Gnar",
+     1,
+     5
+    ],
+    [
+     "Draven",
+     3,
+     1
+    ],
+    [
+     "Ivern",
+     3,
+     3
+    ],
+    [
+     "Ezreal",
+     3,
+     9
+    ]
+   ],
+   "three": [],
+   "units": [
+    "Alistar",
+    "Amumu",
+    "Draven",
+    "Ezreal",
+    "Gnar",
+    "Ivern",
+    "Kennen",
+    "Maokai",
+    "Taric"
+   ]
+  },
+  {
+   "name": "Defender Cassiopeia",
+   "tier": "A",
+   "avg": 4.33,
+   "win": 10.6,
+   "plan": "lvl 7",
+   "steps": [],
+   "early": [
+    [
+     [
+      "A",
+      "Defender Cassiopeia",
+      "lvl 7",
+      "Easy",
+      "6",
+      "2",
+      "2",
+      "Cassiopeia",
+      "Fiddlesticks",
+      "Rammus",
+      "Lillia",
+      "Soraka",
+      "Shen",
+      "Leona",
+      "Ornn",
+      "Avg Place",
+      "4.33",
+      "Pick Rate",
+      "0.48",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia"
+     ],
+     32.6
+    ],
+    [
+     [
+      "Leona",
+      "Ornn",
+      "Shen",
+      "Cassiopeia",
+      "Fiddlesticks"
+     ],
+     77.8
+    ],
+    [
+     [
+      "Leona",
+      "Ornn",
+      "Shen",
+      "Cassiopeia",
+      "Rammus",
+      "Fiddlesticks"
+     ],
+     71.6
+    ],
+    [
+     [
+      "Leona",
+      "Ornn",
+      "Shen",
+      "Cassiopeia",
+      "Rammus",
+      "Fiddlesticks",
+      "Lillia"
+     ],
+     69.1
+    ]
+   ],
+   "board": [
+    [
+     "Leona",
+     0,
+     0
+    ],
+    [
+     "Shen",
+     0,
+     1
+    ],
+    [
+     "Lillia",
+     0,
+     3
+    ],
+    [
+     "Fiddlesticks",
+     0,
+     4
+    ],
+    [
+     "Rammus",
+     0,
+     5
+    ],
+    [
+     "Ornn",
+     0,
+     7
+    ],
+    [
+     "Cassiopeia",
+     3,
+     1
+    ],
+    [
+     "Soraka",
+     3,
+     2
+    ]
+   ],
+   "three": [
+    "Cassiopeia",
+    "Fiddlesticks",
+    "Rammus"
+   ],
+   "units": [
+    "Cassiopeia",
+    "Fiddlesticks",
+    "Leona",
+    "Lillia",
+    "Ornn",
+    "Rammus",
+    "Shen",
+    "Soraka"
+   ]
+  },
+  {
+   "name": "Fae Rengar",
+   "tier": "A",
+   "avg": 4.33,
+   "win": 22.1,
+   "plan": "lvl 7",
+   "steps": [],
+   "early": [
+    [
+     [
+      "A",
+      "Fae Rengar",
+      "lvl 7",
+      "Medium",
+      "4",
+      "1",
+      "3",
+      "2",
+      "2",
+      "Rengar",
+      "Tristana",
+      "Rammus",
+      "Vi",
+      "Lillia",
+      "Kobuko",
+      "Rakan",
+      "Avg Place",
+      "4.33",
+      "Pick Rate",
+      "0.13",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Kobuko",
+      "Rakan",
+      "Rengar",
+      "Tristana"
+     ],
+     49.1
+    ],
+    [
+     [
+      "Kobuko",
+      "Rakan",
+      "Rammus",
+      "Rengar",
+      "Tristana"
+     ],
+     57.4
+    ],
+    [
+     [
+      "Kobuko",
+      "Rakan",
+      "Rammus",
+      "Rengar",
+      "Tristana",
+      "Vi"
+     ],
+     59.5
+    ],
+    [
+     [
+      "Kobuko",
+      "Rakan",
+      "Rammus",
+      "Rengar",
+      "Tristana",
+      "Vi",
+      "Lillia"
+     ],
+     64.7
+    ]
+   ],
+   "board": [
+    [
+     "Kobuko",
+     0,
+     1
+    ],
+    [
+     "Lillia",
+     0,
+     3
+    ],
+    [
+     "Rammus",
+     0,
+     4
+    ],
+    [
+     "Vi",
+     0,
+     5
+    ],
+    [
+     "Rakan",
+     0,
+     7
+    ],
+    [
+     "Rengar",
+     2,
+     8
+    ],
+    [
+     "Tristana",
+     3,
+     1
+    ]
+   ],
+   "three": [
+    "Rengar",
+    "Tristana",
+    "Rammus",
+    "Vi"
+   ],
+   "units": [
+    "Kobuko",
+    "Lillia",
+    "Rakan",
+    "Rammus",
+    "Rengar",
+    "Tristana",
+    "Vi"
+   ]
+  },
+  {
+   "name": "Executioner Malphite",
+   "tier": "A",
+   "avg": 4.35,
+   "win": 11.6,
+   "plan": "Fast 8",
+   "steps": [],
+   "early": [
+    [
+     [
+      "A",
+      "Executioner Malphite",
+      "Fast 8",
+      "Medium",
+      "3",
+      "2",
+      "3",
+      "2",
+      "2",
+      "2",
+      "1",
+      "1",
+      "Malphite",
+      "Soraka",
+      "Zyra",
+      "Kennen",
+      "Amumu",
+      "Azir",
+      "Fiddlesticks",
+      "Yorick",
+      "Avg Place",
+      "4.35",
+      "Pick Rate",
+      "0.60",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara"
+     ],
+     54.8
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Azir"
+     ],
+     70
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Azir",
+      "Fiddlesticks"
+     ],
+     51.4
+    ],
+    [
+     [
+      "Yorick",
+      "Azir",
+      "Fiddlesticks",
+      "Malphite",
+      "Soraka",
+      "Zyra",
+      "Amumu"
+     ],
+     56.5
+    ]
+   ],
+   "board": [
+    [
+     "Malphite",
+     0,
+     4
+    ],
+    [
+     "Fiddlesticks",
+     2,
+     1
+    ],
+    [
+     "Kennen",
+     2,
+     3
+    ],
+    [
+     "Amumu",
+     2,
+     4
+    ],
+    [
+     "Yorick",
+     2,
+     7
+    ],
+    [
+     "Soraka",
+     3,
+     1
+    ],
+    [
+     "Azir",
+     3,
+     3
+    ],
+    [
+     "Zyra",
+     3,
+     9
+    ]
+   ],
+   "three": [],
+   "units": [
+    "Amumu",
+    "Azir",
+    "Fiddlesticks",
+    "Kennen",
+    "Malphite",
+    "Soraka",
+    "Yorick",
+    "Zyra"
+   ]
+  },
+  {
+   "name": "Hunter Sivir",
+   "tier": "A",
+   "avg": 4.39,
+   "win": 14,
+   "plan": "Fast 8",
+   "steps": [],
+   "early": [
+    [
+     [
+      "A",
+      "Hunter Sivir",
+      "Fast 8",
+      "Medium",
+      "3",
+      "3",
+      "2",
+      "2",
+      "2",
+      "2",
+      "1",
+      "Sivir",
+      "Amumu",
+      "Ashe",
+      "Lillia",
+      "Ivern",
+      "Kennen",
+      "Tristana",
+      "Vi",
+      "Shen",
+      "Avg Place",
+      "4.39",
+      "Pick Rate",
+      "0.15",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara"
+     ],
+     55.5
+    ],
+    [
+     [
+      "Akali",
+      "Ornn",
+      "Varus",
+      "Xayah",
+      "Shen"
+     ],
+     62.4
+    ],
+    [
+     [
+      "Rakan",
+      "Caitlyn",
+      "Sejuani",
+      "Scuttlecrab",
+      "Tristana",
+      "Vi"
+     ],
+     62.9
+    ],
+    [
+     [
+      "Rakan",
+      "Caitlyn",
+      "Sejuani",
+      "Scuttlecrab",
+      "Tristana",
+      "Vi",
+      "Sivir"
+     ],
+     75
+    ]
+   ],
+   "board": [
+    [
+     "Shen",
+     0,
+     1
+    ],
+    [
+     "Vi",
+     0,
+     3
+    ],
+    [
+     "Amumu",
+     0,
+     4
+    ],
+    [
+     "Lillia",
+     0,
+     5
+    ],
+    [
+     "Kennen",
+     1,
+     5
+    ],
+    [
+     "Sivir",
+     3,
+     1
+    ],
+    [
+     "Tristana",
+     3,
+     2
+    ],
+    [
+     "Ivern",
+     3,
+     5
+    ],
+    [
+     "Ashe",
+     3,
+     9
+    ]
+   ],
+   "three": [],
+   "units": [
+    "Amumu",
+    "Ashe",
+    "Ivern",
+    "Kennen",
+    "Lillia",
+    "Shen",
+    "Sivir",
+    "Tristana",
+    "Vi"
+   ]
+  },
+  {
+   "name": "Rival Kha'Zix",
+   "tier": "A",
+   "avg": 4.4,
+   "win": 13.9,
+   "plan": "lvl 7",
+   "steps": [],
+   "early": [
+    [
+     [
+      "A",
+      "Rival Kha'Zix",
+      "lvl 7",
+      "Easy",
+      "2",
+      "3",
+      "2",
+      "2",
+      "2",
+      "Kha'Zix",
+      "Rengar",
+      "Hecarim",
+      "Diana",
+      "Aphelios",
+      "Ezreal",
+      "LeBlanc",
+      "Avg Place",
+      "4.40",
+      "Pick Rate",
+      "0.19",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Leona",
+      "Ornn",
+      "Kha'Zix",
+      "Rengar"
+     ],
+     69.2
+    ],
+    [
+     [
+      "Ornn",
+      "LeBlanc",
+      "Hecarim",
+      "Kha'Zix",
+      "Rengar"
+     ],
+     64.9
+    ],
+    [
+     [
+      "Ornn",
+      "LeBlanc",
+      "Diana",
+      "Hecarim",
+      "Kha'Zix",
+      "Rengar"
+     ],
+     57.5
+    ],
+    [
+     [
+      "LeBlanc",
+      "Diana",
+      "Hecarim",
+      "Kha'Zix",
+      "Rengar",
+      "Aphelios",
+      "Ezreal"
+     ],
+     61.1
+    ]
+   ],
+   "board": [
+    [
+     "Rengar",
+     0,
+     3
+    ],
+    [
+     "Hecarim",
+     0,
+     4
+    ],
+    [
+     "Kha'Zix",
+     1,
+     2
+    ],
+    [
+     "Diana",
+     1,
+     3
+    ],
+    [
+     "Ezreal",
+     3,
+     1
+    ],
+    [
+     "Aphelios",
+     3,
+     2
+    ],
+    [
+     "LeBlanc",
+     3,
+     9
+    ]
+   ],
+   "three": [
+    "Kha'Zix",
+    "Rengar",
+    "Hecarim",
+    "Diana"
+   ],
+   "units": [
+    "Aphelios",
+    "Diana",
+    "Ezreal",
+    "Hecarim",
+    "Kha'Zix",
+    "LeBlanc",
+    "Rengar"
+   ]
+  },
+  {
+   "name": "Executioner Sett",
+   "tier": "A",
+   "avg": 4.42,
+   "win": 9.9,
+   "plan": "Fast 8",
+   "steps": [],
+   "early": [
+    [
+     [
+      "A",
+      "Executioner Sett",
+      "Fast 8",
+      "Easy",
+      "2",
+      "3",
+      "3",
+      "3",
+      "2",
+      "2",
+      "2",
+      "Sett",
+      "Ahri",
+      "Soraka",
+      "Ezreal",
+      "Gnar",
+      "Fiddlesticks",
+      "Yunara",
+      "Ornn",
+      "Avg Place",
+      "4.42",
+      "Pick Rate",
+      "0.05",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara"
+     ],
+     55.9
+    ],
+    [
+     [
+      "Ornn",
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara"
+     ],
+     61
+    ],
+    [
+     [
+      "Ornn",
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Fiddlesticks"
+     ],
+     56.6
+    ],
+    [
+     [
+      "Ornn",
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Azir",
+      "Fiddlesticks"
+     ],
+     59.3
+    ]
+   ],
+   "board": [
+    [
+     "Ornn",
+     0,
+     3
+    ],
+    [
+     "Sett",
+     0,
+     4
+    ],
+    [
+     "Gnar",
+     1,
+     5
+    ],
+    [
+     "Fiddlesticks",
+     2,
+     1
+    ],
+    [
+     "Ahri",
+     3,
+     1
+    ],
+    [
+     "Yunara",
+     3,
+     2
+    ],
+    [
+     "Ezreal",
+     3,
+     6
+    ],
+    [
+     "Soraka",
+     3,
+     9
+    ]
+   ],
+   "three": [],
+   "units": [
+    "Ahri",
+    "Ezreal",
+    "Fiddlesticks",
+    "Gnar",
+    "Ornn",
+    "Sett",
+    "Soraka",
+    "Yunara"
+   ]
+  },
+  {
+   "name": "Elderwood Aphelios",
+   "tier": "A",
+   "avg": 4.42,
+   "win": 12.4,
+   "plan": "Fast 8",
+   "steps": [],
+   "early": [
+    [
+     [
+      "A",
+      "Elderwood Aphelios",
+      "Fast 8",
+      "Easy",
+      "5",
+      "3",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "1",
+      "Aphelios",
+      "Lillia",
+      "Alune",
+      "Hecarim",
+      "Gnar",
+      "Diana",
+      "Alistar",
+      "Ornn",
+      "Xayah",
+      "Avg Place",
+      "4.42",
+      "Pick Rate",
+      "0.25",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Ornn",
+      "Xayah",
+      "Alistar",
+      "LeBlanc"
+     ],
+     52.3
+    ],
+    [
+     [
+      "Ornn",
+      "Xayah",
+      "Alistar",
+      "LeBlanc",
+      "Hecarim"
+     ],
+     68.3
+    ],
+    [
+     [
+      "Ornn",
+      "Rakan",
+      "Xayah",
+      "Alistar",
+      "LeBlanc",
+      "Hecarim"
+     ],
+     61.2
+    ],
+    [
+     [
+      "Ornn",
+      "Xayah",
+      "Alistar",
+      "LeBlanc",
+      "Hecarim",
+      "Aphelios",
+      "Lillia"
+     ],
+     67.8
+    ]
+   ],
+   "board": [
+    [
+     "Ornn",
+     0,
+     1
+    ],
+    [
+     "Hecarim",
+     0,
+     3
+    ],
+    [
+     "Lillia",
+     0,
+     4
+    ],
+    [
+     "Alistar",
+     0,
+     5
+    ],
+    [
+     "Gnar",
+     1,
+     3
+    ],
+    [
+     "Diana",
+     1,
+     5
+    ],
+    [
+     "Aphelios",
+     3,
+     1
+    ],
+    [
+     "Xayah",
+     3,
+     2
+    ],
+    [
+     "Alune",
+     3,
+     7
+    ]
+   ],
+   "three": [],
+   "units": [
+    "Alistar",
+    "Alune",
+    "Aphelios",
+    "Diana",
+    "Gnar",
+    "Hecarim",
+    "Lillia",
+    "Ornn",
+    "Xayah"
+   ]
+  },
+  {
+   "name": "Riftbeast Pebbles",
+   "tier": "A",
+   "avg": 4.5,
+   "win": 10.3,
+   "plan": "lvl 5",
+   "steps": [],
+   "early": [
+    [
+     [
+      "A",
+      "Riftbeast Pebbles",
+      "lvl 5",
+      "Easy",
+      "7",
+      "2",
+      "2",
+      "2",
+      "Pebbles",
+      "Krug",
+      "Cinderling",
+      "Gnar",
+      "Brambleback",
+      "Sentinel",
+      "Murkwolf",
+      "Scuttlecrab",
+      "Avg Place",
+      "4.50",
+      "Pick Rate",
+      "0.56",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Pebbles",
+      "Cinderling",
+      "Murkwolf",
+      "Scuttlecrab"
+     ],
+     48.7
+    ],
+    [
+     [
+      "Pebbles",
+      "Cinderling",
+      "Murkwolf",
+      "Scuttlecrab",
+      "Krug"
+     ],
+     54.7
+    ],
+    [
+     [
+      "Pebbles",
+      "Cinderling",
+      "Gromp",
+      "Murkwolf",
+      "Scuttlecrab",
+      "Krug"
+     ],
+     55.1
+    ],
+    [
+     [
+      "Pebbles",
+      "Cinderling",
+      "Murkwolf",
+      "Scuttlecrab",
+      "Krug",
+      "Brambleback",
+      "Sentinel"
+     ],
+     67.3
+    ]
+   ],
+   "board": [
+    [
+     "Scuttlecrab",
+     0,
+     3
+    ],
+    [
+     "Krug",
+     0,
+     4
+    ],
+    [
+     "Sentinel",
+     0,
+     5
+    ],
+    [
+     "Gnar",
+     1,
+     5
+    ],
+    [
+     "Murkwolf",
+     2,
+     4
+    ],
+    [
+     "Brambleback",
+     2,
+     8
+    ],
+    [
+     "Pebbles",
+     3,
+     1
+    ],
+    [
+     "Cinderling",
+     3,
+     9
+    ]
+   ],
+   "three": [
+    "Pebbles",
+    "Krug",
+    "Cinderling",
+    "Murkwolf",
+    "Scuttlecrab"
+   ],
+   "units": [
+    "Brambleback",
+    "Cinderling",
+    "Gnar",
+    "Krug",
+    "Murkwolf",
+    "Pebbles",
+    "Scuttlecrab",
+    "Sentinel"
+   ]
+  },
+  {
+   "name": "Hunter Sivir Nidalee",
+   "tier": "B",
+   "avg": 4.51,
+   "win": 7.8,
+   "plan": "Fast 8",
+   "steps": [],
+   "early": [
+    [
+     [
+      "B",
+      "Hunter Sivir Nidalee",
+      "Fast 8",
+      "Medium",
+      "3",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "1",
+      "1",
+      "Sivir",
+      "Nidalee",
+      "Malphite",
+      "Sentinel",
+      "Kog'Maw",
+      "Krug",
+      "Rek'Sai",
+      "Cinderling",
+      "Avg Place",
+      "4.51",
+      "Pick Rate",
+      "0.31",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara"
+     ],
+     55.1
+    ],
+    [
+     [
+      "Pebbles",
+      "Cinderling",
+      "Murkwolf",
+      "Scuttlecrab",
+      "Krug"
+     ],
+     53.8
+    ],
+    [
+     [
+      "Rek'Sai",
+      "Pebbles",
+      "Cinderling",
+      "Murkwolf",
+      "Scuttlecrab",
+      "Krug"
+     ],
+     56.1
+    ],
+    [
+     [
+      "Rek'Sai",
+      "Cinderling",
+      "Kog'Maw",
+      "Krug",
+      "Malphite",
+      "Sivir",
+      "Nidalee"
+     ],
+     65
+    ]
+   ],
+   "board": [
+    [
+     "Malphite",
+     0,
+     4
+    ],
+    [
+     "Nidalee",
+     2,
+     0
+    ],
+    [
+     "Krug",
+     2,
+     4
+    ],
+    [
+     "Sentinel",
+     2,
+     7
+    ],
+    [
+     "Rek'Sai",
+     2,
+     8
+    ],
+    [
+     "Sivir",
+     3,
+     1
+    ],
+    [
+     "Kog'Maw",
+     3,
+     2
+    ],
+    [
+     "Cinderling",
+     3,
+     9
+    ]
+   ],
+   "three": [],
+   "units": [
+    "Cinderling",
+    "Kog'Maw",
+    "Krug",
+    "Malphite",
+    "Nidalee",
+    "Rek'Sai",
+    "Sentinel",
+    "Sivir"
+   ]
+  },
+  {
+   "name": "Blossom Sett",
+   "tier": "B",
+   "avg": 4.54,
+   "win": 11.9,
+   "plan": "Fast 8",
+   "steps": [],
+   "early": [
+    [
+     [
+      "B",
+      "Blossom Sett",
+      "Fast 8",
+      "Easy",
+      "5",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "1",
+      "Sett",
+      "Ahri",
+      "Ashe",
+      "Sivir",
+      "Gnar",
+      "Zyra",
+      "Vi",
+      "Yorick",
+      "Karma",
+      "Avg Place",
+      "4.54",
+      "Pick Rate",
+      "0.21",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara"
+     ],
+     60.1
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Master Yi"
+     ],
+     70.5
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Master Yi",
+      "Vi"
+     ],
+     60.5
+    ],
+    [
+     [
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Master Yi",
+      "Vi",
+      "Sett",
+      "Sivir"
+     ],
+     61.6
+    ]
+   ],
+   "board": [
+    [
+     "Yorick",
+     0,
+     3
+    ],
+    [
+     "Sett",
+     0,
+     4
+    ],
+    [
+     "Vi",
+     0,
+     5
+    ],
+    [
+     "Gnar",
+     1,
+     3
+    ],
+    [
+     "Ahri",
+     3,
+     1
+    ],
+    [
+     "Sivir",
+     3,
+     2
+    ],
+    [
+     "Zyra",
+     3,
+     3
+    ],
+    [
+     "Karma",
+     3,
+     5
+    ],
+    [
+     "Ashe",
+     3,
+     9
+    ]
+   ],
+   "three": [],
+   "units": [
+    "Ahri",
+    "Ashe",
+    "Gnar",
+    "Karma",
+    "Sett",
+    "Sivir",
+    "Vi",
+    "Yorick",
+    "Zyra"
+   ]
+  },
+  {
+   "name": "Invoker Morgana",
+   "tier": "B",
+   "avg": 4.56,
+   "win": 12,
+   "plan": "Fast 8",
+   "steps": [],
+   "early": [
+    [
+     [
+      "B",
+      "Invoker Morgana",
+      "Fast 8",
+      "Easy",
+      "4",
+      "4",
+      "3",
+      "2",
+      "2",
+      "1",
+      "1",
+      "1",
+      "Morgana",
+      "Sentinel",
+      "Brambleback",
+      "Alune",
+      "Taric",
+      "Diana",
+      "Hecarim",
+      "Kog'Maw",
+      "Pebbles",
+      "Avg Place",
+      "4.56",
+      "Pick Rate",
+      "0.12",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia"
+     ],
+     31.8
+    ],
+    [
+     [
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
+      "Diana"
+     ],
+     53.3
+    ],
+    [
+     [
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
+      "Diana",
+      "Hecarim"
+     ],
+     42.4
+    ],
+    [
+     [
+      "Camille",
+      "Pebbles",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
+      "Diana",
+      "Kog'Maw"
+     ],
+     47.9
+    ]
+   ],
+   "board": [
+    [
+     "Hecarim",
+     0,
+     1
+    ],
+    [
+     "Taric",
+     0,
+     3
+    ],
+    [
+     "Sentinel",
+     0,
+     4
+    ],
+    [
+     "Diana",
+     0,
+     5
+    ],
+    [
+     "Morgana",
+     1,
+     3
+    ],
+    [
+     "Brambleback",
+     2,
+     7
+    ],
+    [
+     "Kog'Maw",
+     3,
+     1
+    ],
+    [
+     "Alune",
+     3,
+     2
+    ],
+    [
+     "Pebbles",
+     3,
+     3
+    ]
+   ],
+   "three": [],
+   "units": [
+    "Alune",
+    "Brambleback",
+    "Diana",
+    "Hecarim",
+    "Kog'Maw",
+    "Morgana",
+    "Pebbles",
+    "Sentinel",
+    "Taric"
+   ]
+  },
+  {
+   "name": "Vanguard Aphelios",
+   "tier": "B",
+   "avg": 4.56,
+   "win": 7.3,
+   "plan": "Fast 8",
+   "steps": [],
+   "early": [
+    [
+     [
+      "B",
+      "Vanguard Aphelios",
+      "Fast 8",
+      "Medium",
+      "4",
+      "3",
+      "2",
+      "2",
+      "2",
+      "2",
+      "1",
+      "1",
+      "Aphelios",
+      "Sentinel",
+      "Brambleback",
+      "Zyra",
+      "Taric",
+      "Diana",
+      "Hecarim",
+      "Mama Beak",
+      "Avg Place",
+      "4.56",
+      "Pick Rate",
+      "0.48",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Rakan",
+      "Varus",
+      "Xayah",
+      "Yorick"
+     ],
+     57.1
+    ],
+    [
+     [
+      "Ornn",
+      "Varus",
+      "Xayah",
+      "Alistar",
+      "Shen"
+     ],
+     75.6
+    ],
+    [
+     [
+      "Ornn",
+      "Rakan",
+      "Varus",
+      "Xayah",
+      "Shen",
+      "Hecarim"
+     ],
+     65.2
+    ],
+    [
+     [
+      "Diana",
+      "Hecarim",
+      "Mama Beak",
+      "Aphelios",
+      "Zyra",
+      "Brambleback",
+      "Sentinel"
+     ],
+     60.6
+    ]
+   ],
+   "board": [
+    [
+     "Taric",
+     0,
+     3
+    ],
+    [
+     "Sentinel",
+     0,
+     4
+    ],
+    [
+     "Brambleback",
+     1,
+     2
+    ],
+    [
+     "Diana",
+     1,
+     3
+    ],
+    [
+     "Hecarim",
+     1,
+     5
+    ],
+    [
+     "Aphelios",
+     3,
+     1
+    ],
+    [
+     "Mama Beak",
+     3,
+     2
+    ],
+    [
+     "Zyra",
+     3,
+     9
+    ]
+   ],
+   "three": [],
+   "units": [
+    "Aphelios",
+    "Brambleback",
+    "Diana",
+    "Hecarim",
+    "Mama Beak",
+    "Sentinel",
+    "Taric",
+    "Zyra"
+   ]
+  },
+  {
+   "name": "Fae Tristana",
+   "tier": "B",
+   "avg": 4.57,
+   "win": 13.1,
+   "plan": "lvl 7",
+   "steps": [],
+   "early": [
+    [
+     [
+      "B",
+      "Fae Tristana",
+      "lvl 7",
+      "Easy",
+      "4",
+      "3",
+      "2",
+      "2",
+      "2",
+      "2",
+      "Tristana",
+      "Sivir",
+      "Rammus",
+      "Vi",
+      "Lillia",
+      "Kobuko",
+      "Rakan",
+      "Xayah",
+      "Avg Place",
+      "4.57",
+      "Pick Rate",
+      "0.14",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Kobuko",
+      "Rakan",
+      "Xayah",
+      "Tristana"
+     ],
+     34.5
+    ],
+    [
+     [
+      "Kobuko",
+      "Rakan",
+      "Xayah",
+      "Rammus",
+      "Tristana"
+     ],
+     58.8
+    ],
+    [
+     [
+      "Kobuko",
+      "Rakan",
+      "Xayah",
+      "Rammus",
+      "Tristana",
+      "Vi"
+     ],
+     60.2
+    ],
+    [
+     [
+      "Kobuko",
+      "Rakan",
+      "Rammus",
+      "Tristana",
+      "Vi",
+      "Lillia",
+      "Sivir"
+     ],
+     67.4
+    ]
+   ],
+   "board": [
+    [
+     "Kobuko",
+     0,
+     1
+    ],
+    [
+     "Vi",
+     0,
+     3
+    ],
+    [
+     "Rammus",
+     0,
+     4
+    ],
+    [
+     "Lillia",
+     0,
+     5
+    ],
+    [
+     "Rakan",
+     0,
+     7
+    ],
+    [
+     "Tristana",
+     3,
+     1
+    ],
+    [
+     "Sivir",
+     3,
+     2
+    ],
+    [
+     "Xayah",
+     3,
+     3
+    ]
+   ],
+   "three": [
+    "Tristana",
+    "Rammus",
+    "Vi"
+   ],
+   "units": [
+    "Kobuko",
+    "Lillia",
+    "Rakan",
+    "Rammus",
+    "Sivir",
+    "Tristana",
+    "Vi",
+    "Xayah"
+   ]
+  },
+  {
+   "name": "Executioner Ezreal",
+   "tier": "B",
+   "avg": 4.59,
+   "win": 8.7,
+   "plan": "Fast 8",
+   "steps": [],
+   "early": [
+    [
+     [
+      "B",
+      "Executioner Ezreal",
+      "Fast 8",
+      "Easy",
+      "3",
+      "2",
+      "3",
+      "2",
+      "2",
+      "1",
+      "1",
+      "Malphite",
+      "Ezreal",
+      "Soraka",
+      "Zyra",
+      "Amumu",
+      "Azir",
+      "Fiddlesticks",
+      "Yorick",
+      "Avg Place",
+      "4.59",
+      "Pick Rate",
+      "0.05",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara"
+     ],
+     46.6
+    ],
+    [
+     [
+      "Rek'Sai",
+      "Veigar",
+      "Yorick",
+      "Warwick",
+      "Azir"
+     ],
+     55.1
+    ],
+    [
+     [
+      "Rek'Sai",
+      "Veigar",
+      "Yorick",
+      "Warwick",
+      "Azir",
+      "Fiddlesticks"
+     ],
+     40.7
+    ],
+    [
+     [
+      "Yorick",
+      "Azir",
+      "Fiddlesticks",
+      "Ezreal",
+      "Malphite",
+      "Soraka",
+      "Amumu"
+     ],
+     79.3
+    ]
+   ],
+   "board": [
+    [
+     "Malphite",
+     0,
+     4
+    ],
+    [
+     "Fiddlesticks",
+     1,
+     5
+    ],
+    [
+     "Amumu",
+     2,
+     4
+    ],
+    [
+     "Yorick",
+     2,
+     5
+    ],
+    [
+     "Ezreal",
+     3,
+     1
+    ],
+    [
+     "Azir",
+     3,
+     2
+    ],
+    [
+     "Zyra",
+     3,
+     3
+    ],
+    [
+     "Soraka",
+     3,
+     9
+    ]
+   ],
+   "three": [],
+   "units": [
+    "Amumu",
+    "Azir",
+    "Ezreal",
+    "Fiddlesticks",
+    "Malphite",
+    "Soraka",
+    "Yorick",
+    "Zyra"
+   ]
+  },
+  {
+   "name": "Rapidfire Kayle",
+   "tier": "B",
+   "avg": 4.61,
+   "win": 16.2,
+   "plan": "lvl 6",
+   "steps": [],
+   "early": [
+    [
+     [
+      "B",
+      "Rapidfire Kayle",
+      "lvl 6",
+      "Medium",
+      "3",
+      "3",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "Kayle",
+      "Ornn",
+      "Xayah",
+      "Sejuani",
+      "Hecarim",
+      "Leona",
+      "Rakan",
+      "Avg Place",
+      "4.61",
+      "Pick Rate",
+      "0.58",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Leona",
+      "Ornn",
+      "Xayah",
+      "Kayle"
+     ],
+     42.6
+    ],
+    [
+     [
+      "Leona",
+      "Ornn",
+      "Xayah",
+      "Kayle",
+      "Sejuani"
+     ],
+     49.4
+    ],
+    [
+     [
+      "Leona",
+      "Ornn",
+      "Rakan",
+      "Xayah",
+      "Kayle",
+      "Sejuani"
+     ],
+     65.5
+    ],
+    [
+     [
+      "Leona",
+      "Ornn",
+      "Rakan",
+      "Xayah",
+      "Kayle",
+      "Sejuani",
+      "Hecarim"
+     ],
+     72.2
+    ]
+   ],
+   "board": [
+    [
+     "Leona",
+     0,
+     3
+    ],
+    [
+     "Ornn",
+     0,
+     4
+    ],
+    [
+     "Sejuani",
+     1,
+     5
+    ],
+    [
+     "Rakan",
+     2,
+     4
+    ],
+    [
+     "Hecarim",
+     2,
+     5
+    ],
+    [
+     "Kayle",
+     3,
+     1
+    ],
+    [
+     "Xayah",
+     3,
+     2
+    ]
+   ],
+   "three": [
+    "Kayle",
+    "Ornn",
+    "Xayah",
+    "Sejuani",
+    "Leona",
+    "Rakan"
+   ],
+   "units": [
+    "Hecarim",
+    "Kayle",
+    "Leona",
+    "Ornn",
+    "Rakan",
+    "Sejuani",
+    "Xayah"
+   ]
+  },
+  {
+   "name": "Sprykin Teemo",
+   "tier": "B",
+   "avg": 4.62,
+   "win": 6.1,
+   "plan": "lvl 6",
+   "steps": [],
+   "early": [
+    [
+     [
+      "B",
+      "Sprykin Teemo",
+      "lvl 6",
+      "Easy",
+      "5",
+      "3",
+      "2",
+      "2",
+      "Teemo",
+      "Rammus",
+      "Tristana",
+      "Morgana",
+      "Lillia",
+      "Sentinel",
+      "Kobuko",
+      "Veigar",
+      "Avg Place",
+      "4.62",
+      "Pick Rate",
+      "0.04",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Teemo"
+     ],
+     64.5
+    ],
+    [
+     [
+      "Kobuko",
+      "Veigar",
+      "Teemo",
+      "Rammus",
+      "Tristana"
+     ],
+     74.2
+    ],
+    [
+     [
+      "Kobuko",
+      "Veigar",
+      "Teemo",
+      "Rammus",
+      "Tristana",
+      "Lillia"
+     ],
+     68.6
+    ],
+    [
+     [
+      "Kobuko",
+      "Veigar",
+      "Teemo",
+      "Rammus",
+      "Tristana",
+      "Lillia",
+      "Morgana"
+     ],
+     57.3
+    ]
+   ],
+   "board": [
+    [
+     "Kobuko",
+     0,
+     1
+    ],
+    [
+     "Lillia",
+     0,
+     3
+    ],
+    [
+     "Rammus",
+     0,
+     4
+    ],
+    [
+     "Sentinel",
+     0,
+     5
+    ],
+    [
+     "Morgana",
+     1,
+     3
+    ],
+    [
+     "Teemo",
+     3,
+     1
+    ],
+    [
+     "Tristana",
+     3,
+     2
+    ],
+    [
+     "Veigar",
+     3,
+     3
+    ]
+   ],
+   "three": [
+    "Teemo",
+    "Rammus",
+    "Tristana",
+    "Kobuko"
+   ],
+   "units": [
+    "Kobuko",
+    "Lillia",
+    "Morgana",
+    "Rammus",
+    "Sentinel",
+    "Teemo",
+    "Tristana",
+    "Veigar"
+   ]
+  },
+  {
+   "name": "Invoker Pebbles",
+   "tier": "B",
+   "avg": 4.63,
+   "win": 10.3,
+   "plan": "lvl 5",
+   "steps": [],
+   "early": [
+    [
+     [
+      "B",
+      "Invoker Pebbles",
+      "lvl 5",
+      "Medium",
+      "5",
+      "3",
+      "2",
+      "2",
+      "1",
+      "1",
+      "1",
+      "Pebbles",
+      "Sentinel",
+      "Morgana",
+      "Scuttlecrab",
+      "Maokai",
+      "Taric",
+      "Kog'Maw",
+      "Teemo",
+      "Avg Place",
+      "4.63",
+      "Pick Rate",
+      "0.03",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Rakan",
+      "Pebbles",
+      "Cinderling",
+      "Scuttlecrab"
+     ],
+     59.5
+    ],
+    [
+     [
+      "Pebbles",
+      "Cinderling",
+      "Gromp",
+      "Murkwolf",
+      "Scuttlecrab"
+     ],
+     49.5
+    ],
+    [
+     [
+      "Pebbles",
+      "Cinderling",
+      "Scuttlecrab",
+      "Krug",
+      "Sentinel"
+     ],
+     63.8
+    ],
+    [
+     [
+      "Pebbles",
+      "Cinderling",
+      "Gromp",
+      "Murkwolf",
+      "Scuttlecrab",
+      "Krug",
+      "Sentinel"
+     ],
+     79.8
+    ]
+   ],
+   "board": [
+    [
+     "Taric",
+     0,
+     1
+    ],
+    [
+     "Maokai",
+     0,
+     3
+    ],
+    [
+     "Sentinel",
+     0,
+     4
+    ],
+    [
+     "Scuttlecrab",
+     0,
+     5
+    ],
+    [
+     "Morgana",
+     1,
+     3
+    ],
+    [
+     "Pebbles",
+     3,
+     1
+    ],
+    [
+     "Kog'Maw",
+     3,
+     2
+    ],
+    [
+     "Teemo",
+     3,
+     3
+    ]
+   ],
+   "three": [
+    "Pebbles",
+    "Scuttlecrab",
+    "Teemo"
+   ],
+   "units": [
+    "Kog'Maw",
+    "Maokai",
+    "Morgana",
+    "Pebbles",
+    "Scuttlecrab",
+    "Sentinel",
+    "Taric",
+    "Teemo"
+   ]
+  },
+  {
+   "name": "Executioner Yunara",
+   "tier": "B",
+   "avg": 4.64,
+   "win": 8,
+   "plan": "lvl 6",
+   "steps": [],
+   "early": [
+    [
+     [
+      "B",
+      "Executioner Yunara",
+      "lvl 6",
+      "Easy",
+      "4",
+      "3",
+      "3",
+      "2",
+      "2",
+      "1",
+      "Yunara",
+      "Alistar",
+      "Ezreal",
+      "Sett",
+      "Ahri",
+      "Soraka",
+      "Azir",
+      "LeBlanc",
+      "Avg Place",
+      "4.64",
+      "Pick Rate",
+      "0.02",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Ornn",
+      "Alistar",
+      "LeBlanc",
+      "Yunara"
+     ],
+     50.6
+    ],
+    [
+     [
+      "Yorick",
+      "Karma",
+      "Alistar",
+      "LeBlanc",
+      "Yunara"
+     ],
+     59.7
+    ],
+    [
+     [
+      "Alistar",
+      "LeBlanc",
+      "Yunara",
+      "Azir",
+      "Ezreal",
+      "Sett"
+     ],
+     73
+    ],
+    [
+     [
+      "Alistar",
+      "LeBlanc",
+      "Yunara",
+      "Azir",
+      "Ahri",
+      "Ezreal",
+      "Sett"
+     ],
+     69.5
+    ]
+   ],
+   "board": [
+    [
+     "Sett",
+     0,
+     3
+    ],
+    [
+     "Alistar",
+     0,
+     4
+    ],
+    [
+     "Yunara",
+     3,
+     1
+    ],
+    [
+     "Ezreal",
+     3,
+     2
+    ],
+    [
+     "Azir",
+     3,
+     3
+    ],
+    [
+     "LeBlanc",
+     3,
+     6
+    ],
+    [
+     "Ahri",
+     3,
+     7
+    ],
+    [
+     "Soraka",
+     3,
+     9
+    ]
+   ],
+   "three": [
+    "Yunara",
+    "Alistar",
+    "LeBlanc"
+   ],
+   "units": [
+    "Ahri",
+    "Alistar",
+    "Azir",
+    "Ezreal",
+    "LeBlanc",
+    "Sett",
+    "Soraka",
+    "Yunara"
+   ]
+  },
+  {
+   "name": "Lunar Kayle",
+   "tier": "B",
+   "avg": 4.67,
+   "win": 12,
+   "plan": "lvl 6",
+   "steps": [],
+   "early": [
+    [
+     [
+      "B",
+      "Lunar Kayle",
+      "lvl 6",
+      "Easy",
+      "3",
+      "3",
+      "2",
+      "2",
+      "2",
+      "2",
+      "1",
+      "0",
+      "Kayle",
+      "Aphelios",
+      "Sejuani",
+      "Leona",
+      "Alune",
+      "Amumu",
+      "Diana",
+      "Shen",
+      "Avg Place",
+      "4.67",
+      "Pick Rate",
+      "0.03",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Leona",
+      "Xayah",
+      "Kayle",
+      "Sejuani"
+     ],
+     45.3
+    ],
+    [
+     [
+      "Leona",
+      "Varus",
+      "Kayle",
+      "Sejuani",
+      "Shen"
+     ],
+     61.7
+    ],
+    [
+     [
+      "Leona",
+      "Kayle",
+      "Sejuani",
+      "Shen",
+      "Diana",
+      "Aphelios"
+     ],
+     65.6
+    ],
+    [
+     [
+      "Leona",
+      "Kayle",
+      "Sejuani",
+      "Shen",
+      "Diana",
+      "Aphelios",
+      "Amumu"
+     ],
+     70.1
+    ]
+   ],
+   "board": [
+    [
+     "Leona",
+     0,
+     3
+    ],
+    [
+     "Sejuani",
+     0,
+     4
+    ],
+    [
+     "Amumu",
+     0,
+     5
+    ],
+    [
+     "Diana",
+     1,
+     3
+    ],
+    [
+     "Shen",
+     1,
+     5
+    ],
+    [
+     "Kayle",
+     3,
+     1
+    ],
+    [
+     "Aphelios",
+     3,
+     2
+    ],
+    [
+     "Alune",
+     3,
+     3
+    ]
+   ],
+   "three": [
+    "Kayle",
+    "Sejuani",
+    "Leona",
+    "Shen"
+   ],
+   "units": [
+    "Alune",
+    "Amumu",
+    "Aphelios",
+    "Diana",
+    "Kayle",
+    "Leona",
+    "Sejuani",
+    "Shen"
+   ]
+  },
+  {
+   "name": "Elderwood Ezreal",
+   "tier": "B",
+   "avg": 4.71,
+   "win": 12.8,
+   "plan": "Standard",
+   "steps": [],
+   "early": [
+    [
+     [
+      "B",
+      "Elderwood Ezreal",
+      "Standard",
+      "Easy",
+      "7",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "Ezreal",
+      "Hecarim",
+      "Soraka",
+      "Gnar",
+      "Fiddlesticks",
+      "Alistar",
+      "LeBlanc",
+      "Ornn",
+      "Xayah",
+      "Avg Place",
+      "4.71",
+      "Pick Rate",
+      "0.14",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Ornn",
+      "Xayah",
+      "Alistar",
+      "LeBlanc"
+     ],
+     52.7
+    ],
+    [
+     [
+      "Ornn",
+      "Xayah",
+      "Alistar",
+      "LeBlanc",
+      "Hecarim"
+     ],
+     65.4
+    ],
+    [
+     [
+      "Ornn",
+      "Xayah",
+      "Alistar",
+      "LeBlanc",
+      "Hecarim",
+      "Fiddlesticks"
+     ],
+     65.4
+    ],
+    [
+     [
+      "Ornn",
+      "Xayah",
+      "Alistar",
+      "LeBlanc",
+      "Hecarim",
+      "Fiddlesticks",
+      "Ezreal"
+     ],
+     53.8
+    ]
+   ],
+   "board": [
+    [
+     "Ornn",
+     0,
+     1
+    ],
+    [
+     "Alistar",
+     0,
+     3
+    ],
+    [
+     "Hecarim",
+     0,
+     4
+    ],
+    [
+     "Fiddlesticks",
+     0,
+     5
+    ],
+    [
+     "Gnar",
+     1,
+     3
+    ],
+    [
+     "Ezreal",
+     3,
+     1
+    ],
+    [
+     "LeBlanc",
+     3,
+     2
+    ],
+    [
+     "Soraka",
+     3,
+     3
+    ],
+    [
+     "Xayah",
+     3,
+     9
+    ]
+   ],
+   "three": [],
+   "units": [
+    "Alistar",
+    "Ezreal",
+    "Fiddlesticks",
+    "Gnar",
+    "Hecarim",
+    "LeBlanc",
+    "Ornn",
+    "Soraka",
+    "Xayah"
+   ]
+  },
+  {
+   "name": "Invoker Nidalee",
+   "tier": "B",
+   "avg": 4.71,
+   "win": 6.9,
+   "plan": "Fast 8",
+   "steps": [],
+   "early": [
+    [
+     [
+      "B",
+      "Invoker Nidalee",
+      "Fast 8",
+      "Easy",
+      "4",
+      "3",
+      "2",
+      "2",
+      "2",
+      "2",
+      "1",
+      "1",
+      "Nidalee",
+      "Sentinel",
+      "Morgana",
+      "Kog'Maw",
+      "Taric",
+      "Vi",
+      "Scuttlecrab",
+      "Pebbles",
+      "Avg Place",
+      "4.71",
+      "Pick Rate",
+      "0.05",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia"
+     ],
+     31
+    ],
+    [
+     [
+      "Camille",
+      "Rakan",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia"
+     ],
+     52
+    ],
+    [
+     [
+      "Camille",
+      "Rakan",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
+      "Vi"
+     ],
+     44
+    ],
+    [
+     [
+      "Pebbles",
+      "Scuttlecrab",
+      "Kog'Maw",
+      "Vi",
+      "Morgana",
+      "Nidalee",
+      "Sentinel"
+     ],
+     60.2
+    ]
+   ],
+   "board": [
+    [
+     "Vi",
+     0,
+     1
+    ],
+    [
+     "Taric",
+     0,
+     3
+    ],
+    [
+     "Sentinel",
+     0,
+     4
+    ],
+    [
+     "Scuttlecrab",
+     0,
+     5
+    ],
+    [
+     "Morgana",
+     1,
+     3
+    ],
+    [
+     "Nidalee",
+     3,
+     1
+    ],
+    [
+     "Kog'Maw",
+     3,
+     2
+    ],
+    [
+     "Pebbles",
+     3,
+     9
+    ]
+   ],
+   "three": [],
+   "units": [
+    "Kog'Maw",
+    "Morgana",
+    "Nidalee",
+    "Pebbles",
+    "Scuttlecrab",
+    "Sentinel",
+    "Taric",
+    "Vi"
+   ]
+  },
+  {
+   "name": "Spellweaver Cassiopeia",
+   "tier": "B",
+   "avg": 4.75,
+   "win": 7.6,
+   "plan": "lvl 7",
+   "steps": [],
+   "early": [
+    [
+     [
+      "B",
+      "Spellweaver Cassiopeia",
+      "lvl 7",
+      "Easy",
+      "6",
+      "2",
+      "1",
+      "Cassiopeia",
+      "Ahri",
+      "Fiddlesticks",
+      "Rammus",
+      "Lillia",
+      "Shen",
+      "Leona",
+      "Ornn",
+      "Avg Place",
+      "4.75",
+      "Pick Rate",
+      "0.03",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia"
+     ],
+     39.5
+    ],
+    [
+     [
+      "Leona",
+      "Ornn",
+      "Shen",
+      "Cassiopeia",
+      "Fiddlesticks"
+     ],
+     81.6
+    ],
+    [
+     [
+      "Leona",
+      "Ornn",
+      "Shen",
+      "Cassiopeia",
+      "Rammus",
+      "Fiddlesticks"
+     ],
+     78.2
+    ],
+    [
+     [
+      "Leona",
+      "Ornn",
+      "Shen",
+      "Cassiopeia",
+      "Rammus",
+      "Fiddlesticks",
+      "Lillia"
+     ],
+     78.4
+    ]
+   ],
+   "board": [
+    [
+     "Leona",
+     0,
+     0
+    ],
+    [
+     "Shen",
+     0,
+     1
+    ],
+    [
+     "Rammus",
+     0,
+     3
+    ],
+    [
+     "Fiddlesticks",
+     0,
+     4
+    ],
+    [
+     "Lillia",
+     0,
+     5
+    ],
+    [
+     "Ornn",
+     0,
+     7
+    ],
+    [
+     "Cassiopeia",
+     3,
+     1
+    ],
+    [
+     "Ahri",
+     3,
+     2
+    ]
+   ],
+   "three": [
+    "Cassiopeia",
+    "Fiddlesticks",
+    "Rammus"
+   ],
+   "units": [
+    "Ahri",
+    "Cassiopeia",
+    "Fiddlesticks",
+    "Leona",
+    "Lillia",
+    "Ornn",
+    "Rammus",
+    "Shen"
+   ]
+  },
+  {
+   "name": "Vanguard Rengar",
+   "tier": "B",
+   "avg": 4.75,
+   "win": 11.8,
+   "plan": "lvl 7",
+   "steps": [],
+   "early": [
+    [
+     [
+      "B",
+      "Vanguard Rengar",
+      "lvl 7",
+      "Medium",
+      "1",
+      "4",
+      "3",
+      "2",
+      "2",
+      "2",
+      "1",
+      "Rengar",
+      "Hecarim",
+      "Mama Beak",
+      "Diana",
+      "Taric",
+      "Aphelios",
+      "Brambleback",
+      "Sentinel",
+      "Avg Place",
+      "4.75",
+      "Pick Rate",
+      "0.04",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Rakan",
+      "Xayah",
+      "Yorick",
+      "Rengar"
+     ],
+     52.4
+    ],
+    [
+     [
+      "Rengar"
+     ],
+     72.2
+    ],
+    [
+     [
+      "Ornn",
+      "Xayah",
+      "Diana",
+      "Hecarim",
+      "Rengar",
+      "Mama Beak"
+     ],
+     58.5
+    ],
+    [
+     [
+      "Diana",
+      "Hecarim",
+      "Rengar",
+      "Mama Beak",
+      "Aphelios",
+      "Brambleback",
+      "Sentinel"
+     ],
+     64.5
+    ]
+   ],
+   "board": [
+    [
+     "Rengar",
+     0,
+     0
+    ],
+    [
+     "Brambleback",
+     0,
+     1
+    ],
+    [
+     "Sentinel",
+     0,
+     3
+    ],
+    [
+     "Hecarim",
+     0,
+     4
+    ],
+    [
+     "Taric",
+     0,
+     5
+    ],
+    [
+     "Diana",
+     1,
+     1
+    ],
+    [
+     "Mama Beak",
+     3,
+     1
+    ],
+    [
+     "Aphelios",
+     3,
+     2
+    ]
+   ],
+   "three": [
+    "Rengar",
+    "Hecarim",
+    "Mama Beak",
+    "Diana"
+   ],
+   "units": [
+    "Aphelios",
+    "Brambleback",
+    "Diana",
+    "Hecarim",
+    "Mama Beak",
+    "Rengar",
+    "Sentinel",
+    "Taric"
+   ]
+  },
+  {
+   "name": "Adaptor Nidalee",
+   "tier": "C",
+   "avg": 4.78,
+   "win": 4.8,
+   "plan": "Fast 8",
+   "steps": [],
+   "early": [
+    [
+     [
+      "C",
+      "Adaptor Nidalee",
+      "Fast 8",
+      "Easy",
+      "4",
+      "3",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "1",
+      "Nidalee",
+      "Brambleback",
+      "Amumu",
+      "Sentinel",
+      "Kog'Maw",
+      "Vi",
+      "Gromp",
+      "Akali",
+      "Avg Place",
+      "4.78",
+      "Pick Rate",
+      "0.02",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Akali",
+      "Leona",
+      "Varus",
+      "Shen"
+     ],
+     66.7
+    ],
+    [
+     [
+      "Akali",
+      "Ornn",
+      "Varus",
+      "Shen",
+      "Gromp"
+     ],
+     65.1
+    ],
+    [
+     [
+      "Akali",
+      "Ornn",
+      "Varus",
+      "Shen",
+      "Gromp",
+      "Kog'Maw"
+     ],
+     54.5
+    ],
+    [
+     [
+      "Akali",
+      "Gromp",
+      "Kog'Maw",
+      "Vi",
+      "Amumu",
+      "Brambleback",
+      "Nidalee"
+     ],
+     61.5
+    ]
+   ],
+   "board": [
+    [
+     "Akali",
+     0,
+     0
+    ],
+    [
+     "Brambleback",
+     0,
+     1
+    ],
+    [
+     "Amumu",
+     0,
+     4
+    ],
+    [
+     "Sentinel",
+     0,
+     5
+    ],
+    [
+     "Vi",
+     0,
+     7
+    ],
+    [
+     "Nidalee",
+     3,
+     1
+    ],
+    [
+     "Kog'Maw",
+     3,
+     2
+    ],
+    [
+     "Gromp",
+     3,
+     9
+    ]
+   ],
+   "three": [
+    "Akali"
+   ],
+   "units": [
+    "Akali",
+    "Amumu",
+    "Brambleback",
+    "Gromp",
+    "Kog'Maw",
+    "Nidalee",
+    "Sentinel",
+    "Vi"
+   ]
+  },
+  {
+   "name": "Inferno Kayle",
+   "tier": "C",
+   "avg": 4.81,
+   "win": 10.3,
+   "plan": "lvl 6",
+   "steps": [],
+   "early": [
+    [
+     [
+      "C",
+      "Inferno Kayle",
+      "lvl 6",
+      "Easy",
+      "3",
+      "3",
+      "2",
+      "2",
+      "2",
+      "Kayle",
+      "Sejuani",
+      "Varus",
+      "Leona",
+      "Amumu",
+      "Shen",
+      "Akali",
+      "Avg Place",
+      "4.81",
+      "Pick Rate",
+      "0.05",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Leona",
+      "Varus",
+      "Kayle",
+      "Sejuani"
+     ],
+     44.6
+    ],
+    [
+     [
+      "Leona",
+      "Varus",
+      "Kayle",
+      "Sejuani",
+      "Shen"
+     ],
+     61.2
+    ],
+    [
+     [
+      "Akali",
+      "Leona",
+      "Varus",
+      "Kayle",
+      "Sejuani",
+      "Shen"
+     ],
+     62.2
+    ],
+    [
+     [
+      "Akali",
+      "Leona",
+      "Varus",
+      "Kayle",
+      "Sejuani",
+      "Shen",
+      "Amumu"
+     ],
+     62.5
+    ]
+   ],
+   "board": [
+    [
+     "Amumu",
+     0,
+     1
+    ],
+    [
+     "Shen",
+     0,
+     3
+    ],
+    [
+     "Sejuani",
+     0,
+     4
+    ],
+    [
+     "Leona",
+     0,
+     5
+    ],
+    [
+     "Akali",
+     1,
+     2
+    ],
+    [
+     "Kayle",
+     3,
+     1
+    ],
+    [
+     "Varus",
+     3,
+     2
+    ]
+   ],
+   "three": [
+    "Kayle",
+    "Sejuani",
+    "Varus",
+    "Leona",
+    "Shen",
+    "Akali"
+   ],
+   "units": [
+    "Akali",
+    "Amumu",
+    "Kayle",
+    "Leona",
+    "Sejuani",
+    "Shen",
+    "Varus"
+   ]
+  },
+  {
+   "name": "Spellweaver Ahri Lillia",
+   "tier": "C",
+   "avg": 4.91,
+   "win": 9.2,
+   "plan": "Fast 8",
+   "steps": [],
+   "early": [
+    [
+     [
+      "C",
+      "Spellweaver Ahri Lillia",
+      "Fast 8",
+      "Easy",
+      "4",
+      "3",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "1",
+      "1",
+      "Ahri",
+      "Lillia",
+      "Alune",
+      "Fiddlesticks",
+      "Diana",
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Avg Place",
+      "4.91",
+      "Pick Rate",
+      "0.02",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara"
+     ],
+     54.9
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Fiddlesticks"
+     ],
+     78.2
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Diana",
+      "Fiddlesticks"
+     ],
+     62.7
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Diana",
+      "Fiddlesticks",
+      "Lillia"
+     ],
+     62.1
+    ]
+   ],
+   "board": [
+    [
+     "Lillia",
+     0,
+     4
+    ],
+    [
+     "Rakan",
+     1,
+     2
+    ],
+    [
+     "Diana",
+     1,
+     3
+    ],
+    [
+     "Fiddlesticks",
+     1,
+     5
+    ],
+    [
+     "Yorick",
+     2,
+     4
+    ],
+    [
+     "Ahri",
+     3,
+     1
+    ],
+    [
+     "Alune",
+     3,
+     2
+    ],
+    [
+     "Karma",
+     3,
+     9
+    ]
+   ],
+   "three": [],
+   "units": [
+    "Ahri",
+    "Alune",
+    "Diana",
+    "Fiddlesticks",
+    "Karma",
+    "Lillia",
+    "Rakan",
+    "Yorick"
+   ]
+  },
+  {
+   "name": "Blossom Ahri",
+   "tier": "C",
+   "avg": 4.92,
+   "win": 11.1,
+   "plan": "Fast 8",
+   "steps": [],
+   "early": [
+    [
+     [
+      "C",
+      "Blossom Ahri",
+      "Fast 8",
+      "Easy",
+      "7",
+      "2",
+      "2",
+      "2",
+      "1",
+      "Ahri",
+      "Sett",
+      "Ashe",
+      "Gnar",
+      "Maokai",
+      "Master Yi",
+      "Yunara",
+      "Yorick",
+      "Karma",
+      "Avg Place",
+      "4.92",
+      "Pick Rate",
+      "0.10",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara"
+     ],
+     60.2
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Master Yi"
+     ],
+     72.9
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Master Yi",
+      "Ahri"
+     ],
+     68.7
+    ],
+    [
+     [
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Master Yi",
+      "Vi",
+      "Ahri",
+      "Sett"
+     ],
+     62
+    ]
+   ],
+   "board": [
+    [
+     "Master Yi",
+     0,
+     1
+    ],
+    [
+     "Yorick",
+     0,
+     3
+    ],
+    [
+     "Sett",
+     0,
+     4
+    ],
+    [
+     "Maokai",
+     0,
+     5
+    ],
+    [
+     "Gnar",
+     1,
+     3
+    ],
+    [
+     "Ahri",
+     3,
+     1
+    ],
+    [
+     "Karma",
+     3,
+     2
+    ],
+    [
+     "Yunara",
+     3,
+     3
+    ],
+    [
+     "Ashe",
+     3,
+     9
+    ]
+   ],
+   "three": [],
+   "units": [
+    "Ahri",
+    "Ashe",
+    "Gnar",
+    "Karma",
+    "Maokai",
+    "Master Yi",
+    "Sett",
+    "Yorick",
+    "Yunara"
+   ]
+  },
+  {
+   "name": "Flora Fatalis Soraka",
+   "tier": "C",
+   "avg": 4.92,
+   "win": 10.5,
+   "plan": "Fast 8",
+   "steps": [],
+   "early": [
+    [
+     [
+      "C",
+      "Flora Fatalis Soraka",
+      "Fast 8",
+      "Medium",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "1",
+      "1",
+      "1",
+      "1",
+      "Soraka",
+      "Kennen",
+      "Alune",
+      "Amumu",
+      "Ivern",
+      "Maokai",
+      "Taric",
+      "Diana",
+      "Fiddlesticks",
+      "Avg Place",
+      "4.92",
+      "Pick Rate",
+      "0.03",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia"
+     ],
+     38
+    ],
+    [
+     [
+      "Camille",
+      "Rakan",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia"
+     ],
+     55.6
+    ],
+    [
+     [
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
+      "Diana",
+      "Fiddlesticks"
+     ],
+     46.7
+    ],
+    [
+     [
+      "Leona",
+      "Ornn",
+      "Shen",
+      "Cassiopeia",
+      "Rammus",
+      "Fiddlesticks",
+      "Lillia"
+     ],
+     87
+    ]
+   ],
+   "board": [
+    [
+     "Fiddlesticks",
+     0,
+     1
+    ],
+    [
+     "Taric",
+     0,
+     3
+    ],
+    [
+     "Amumu",
+     0,
+     4
+    ],
+    [
+     "Maokai",
+     0,
+     5
+    ],
+    [
+     "Kennen",
+     1,
+     3
+    ],
+    [
+     "Diana",
+     1,
+     5
+    ],
+    [
+     "Soraka",
+     3,
+     1
+    ],
+    [
+     "Alune",
+     3,
+     2
+    ],
+    [
+     "Ivern",
+     3,
+     9
+    ]
+   ],
+   "three": [],
+   "units": [
+    "Alune",
+    "Amumu",
+    "Diana",
+    "Fiddlesticks",
+    "Ivern",
+    "Kennen",
+    "Maokai",
+    "Soraka",
+    "Taric"
+   ]
+  },
+  {
+   "name": "Lunar Aphelios",
+   "tier": "C",
+   "avg": 4.92,
+   "win": 9.9,
+   "plan": "Fast 9",
+   "steps": [],
+   "early": [
+    [
+     [
+      "C",
+      "Lunar Aphelios",
+      "Fast 9",
+      "Easy",
+      "3",
+      "3",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "1",
+      "1",
+      "1",
+      "1",
+      "0",
+      "Aphelios",
+      "Alune",
+      "Maokai",
+      "Diana",
+      "Taric",
+      "Fiddlesticks",
+      "Kayle",
+      "Sejuani",
+      "Leona",
+      "Avg Place",
+      "4.92",
+      "Pick Rate",
+      "0.04",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Leona",
+      "Varus",
+      "Kayle",
+      "Sejuani"
+     ],
+     44.4
+    ],
+    [
+     [
+      "Leona",
+      "Varus",
+      "Kayle",
+      "Sejuani",
+      "Shen"
+     ],
+     69.9
+    ],
+    [
+     [
+      "Leona",
+      "Varus",
+      "Kayle",
+      "Sejuani",
+      "Diana",
+      "Fiddlesticks"
+     ],
+     38
+    ],
+    [
+     [
+      "Ornn",
+      "Rakan",
+      "Xayah",
+      "LeBlanc",
+      "Diana",
+      "Kha'Zix",
+      "Fiddlesticks"
+     ],
+     58.8
+    ]
+   ],
+   "board": [
+    [
+     "Leona",
+     0,
+     1
+    ],
+    [
+     "Taric",
+     0,
+     3
+    ],
+    [
+     "Maokai",
+     0,
+     4
+    ],
+    [
+     "Fiddlesticks",
+     0,
+     5
+    ],
+    [
+     "Sejuani",
+     0,
+     7
+    ],
+    [
+     "Diana",
+     1,
+     3
+    ],
+    [
+     "Aphelios",
+     3,
+     1
+    ],
+    [
+     "Alune",
+     3,
+     2
+    ],
+    [
+     "Kayle",
+     3,
+     3
+    ]
+   ],
+   "three": [],
+   "units": [
+    "Alune",
+    "Aphelios",
+    "Diana",
+    "Fiddlesticks",
+    "Kayle",
+    "Leona",
+    "Maokai",
+    "Sejuani",
+    "Taric"
+   ]
+  },
+  {
+   "name": "Blackthorn Warwick",
+   "tier": "C",
+   "avg": 4.96,
+   "win": 3.7,
+   "plan": "lvl 6",
+   "steps": [],
+   "early": [
+    [
+     [
+      "C",
+      "Blackthorn Warwick",
+      "lvl 6",
+      "Medium",
+      "4",
+      "4",
+      "3",
+      "2",
+      "1",
+      "Warwick",
+      "Murkwolf",
+      "Malphite",
+      "Brambleback",
+      "Azir",
+      "Diana",
+      "Krug",
+      "Rek'Sai",
+      "Avg Place",
+      "4.96",
+      "Pick Rate",
+      "0.05",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Kobuko",
+      "Rek'Sai",
+      "Warwick",
+      "Murkwolf"
+     ],
+     71
+    ],
+    [
+     [
+      "Rek'Sai",
+      "Veigar",
+      "Warwick",
+      "Murkwolf",
+      "Azir"
+     ],
+     52.6
+    ],
+    [
+     [
+      "Rek'Sai",
+      "Warwick",
+      "Murkwolf",
+      "Azir",
+      "Krug",
+      "Malphite"
+     ],
+     66.5
+    ],
+    [
+     [
+      "Rek'Sai",
+      "Warwick",
+      "Murkwolf",
+      "Azir",
+      "Krug",
+      "Malphite",
+      "Brambleback"
+     ],
+     58.9
+    ]
+   ],
+   "board": [
+    [
+     "Rek'Sai",
+     0,
+     3
+    ],
+    [
+     "Malphite",
+     0,
+     4
+    ],
+    [
+     "Warwick",
+     2,
+     0
+    ],
+    [
+     "Brambleback",
+     2,
+     1
+    ],
+    [
+     "Murkwolf",
+     2,
+     3
+    ],
+    [
+     "Krug",
+     2,
+     4
+    ],
+    [
+     "Diana",
+     2,
+     5
+    ],
+    [
+     "Azir",
+     3,
+     1
+    ]
+   ],
+   "three": [
+    "Warwick",
+    "Murkwolf",
+    "Rek'Sai"
+   ],
+   "units": [
+    "Azir",
+    "Brambleback",
+    "Diana",
+    "Krug",
+    "Malphite",
+    "Murkwolf",
+    "Rek'Sai",
+    "Warwick"
+   ]
+  },
+  {
+   "name": "Inferno Amumu",
+   "tier": "C",
+   "avg": 4.99,
+   "win": 9.2,
+   "plan": "Standard",
+   "steps": [],
+   "early": [
+    [
+     [
+      "C",
+      "Inferno Amumu",
+      "Standard",
+      "Easy",
+      "5",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "1",
+      "1",
+      "Amumu",
+      "Aphelios",
+      "Kennen",
+      "Maokai",
+      "Taric",
+      "Diana",
+      "Shen",
+      "Akali",
+      "Varus",
+      "Avg Place",
+      "4.99",
+      "Pick Rate",
+      "0.03",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Akali",
+      "Leona",
+      "Varus",
+      "Shen"
+     ],
+     58.2
+    ],
+    [
+     [
+      "Akali",
+      "Leona",
+      "Varus",
+      "Kayle",
+      "Shen"
+     ],
+     61.8
+    ],
+    [
+     [
+      "Akali",
+      "Leona",
+      "Varus",
+      "Kayle",
+      "Sejuani",
+      "Shen"
+     ],
+     57.9
+    ],
+    [
+     [
+      "Akali",
+      "Leona",
+      "Varus",
+      "Kayle",
+      "Sejuani",
+      "Shen",
+      "Diana"
+     ],
+     61.7
+    ]
+   ],
+   "board": [
+    [
+     "Shen",
+     0,
+     1
+    ],
+    [
+     "Taric",
+     0,
+     3
+    ],
+    [
+     "Amumu",
+     0,
+     4
+    ],
+    [
+     "Maokai",
+     0,
+     5
+    ],
+    [
+     "Akali",
+     1,
+     2
+    ],
+    [
+     "Kennen",
+     1,
+     3
+    ],
+    [
+     "Diana",
+     1,
+     5
+    ],
+    [
+     "Aphelios",
+     3,
+     1
+    ],
+    [
+     "Varus",
+     3,
+     2
+    ]
+   ],
+   "three": [],
+   "units": [
+    "Akali",
+    "Amumu",
+    "Aphelios",
+    "Diana",
+    "Kennen",
+    "Maokai",
+    "Shen",
+    "Taric",
+    "Varus"
+   ]
+  },
+  {
+   "name": "Vanguard Caitlyn",
+   "tier": "D",
+   "avg": 5.02,
+   "win": 6.7,
+   "plan": "lvl 6",
+   "steps": [],
+   "early": [
+    [
+     [
+      "D",
+      "Vanguard Caitlyn",
+      "lvl 6",
+      "Medium",
+      "4",
+      "3",
+      "2",
+      "2",
+      "2",
+      "Caitlyn",
+      "Elise",
+      "Sivir",
+      "Sentinel",
+      "Hecarim",
+      "Tristana",
+      "Vi",
+      "Rakan",
+      "Avg Place",
+      "5.02",
+      "Pick Rate",
+      "0.03",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Camille",
+      "Rakan",
+      "Caitlyn",
+      "Elise"
+     ],
+     51.8
+    ],
+    [
+     [
+      "Camille",
+      "Rakan",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia"
+     ],
+     49.9
+    ],
+    [
+     [
+      "Rakan",
+      "Caitlyn",
+      "Elise",
+      "Hecarim",
+      "Tristana",
+      "Vi"
+     ],
+     69.8
+    ],
+    [
+     [
+      "Rakan",
+      "Caitlyn",
+      "Elise",
+      "Hecarim",
+      "Tristana",
+      "Vi",
+      "Sivir"
+     ],
+     66.3
+    ]
+   ],
+   "board": [
+    [
+     "Vi",
+     0,
+     1
+    ],
+    [
+     "Sentinel",
+     0,
+     3
+    ],
+    [
+     "Elise",
+     0,
+     4
+    ],
+    [
+     "Hecarim",
+     0,
+     5
+    ],
+    [
+     "Rakan",
+     0,
+     7
+    ],
+    [
+     "Caitlyn",
+     3,
+     1
+    ],
+    [
+     "Sivir",
+     3,
+     2
+    ],
+    [
+     "Tristana",
+     3,
+     3
+    ]
+   ],
+   "three": [
+    "Caitlyn",
+    "Elise"
+   ],
+   "units": [
+    "Caitlyn",
+    "Elise",
+    "Hecarim",
+    "Rakan",
+    "Sentinel",
+    "Sivir",
+    "Tristana",
+    "Vi"
+   ]
+  },
+  {
+   "name": "Executioner Ahri",
+   "tier": "D",
+   "avg": 5.02,
+   "win": 6.8,
+   "plan": "Fast 8",
+   "steps": [],
+   "early": [
+    [
+     [
+      "D",
+      "Executioner Ahri",
+      "Fast 8",
+      "Medium",
+      "3",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "1",
+      "1",
+      "Ahri",
+      "Malphite",
+      "Soraka",
+      "Zyra",
+      "Amumu",
+      "Azir",
+      "Fiddlesticks",
+      "Yorick",
+      "Avg Place",
+      "5.02",
+      "Pick Rate",
+      "0.03",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara"
+     ],
+     52.5
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Azir"
+     ],
+     67.9
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Yorick",
+      "Karma",
+      "Yunara"
+     ],
+     46.3
+    ],
+    [
+     [
+      "Yorick",
+      "Azir",
+      "Fiddlesticks",
+      "Ahri",
+      "Malphite",
+      "Soraka",
+      "Amumu"
+     ],
+     59.1
+    ]
+   ],
+   "board": [
+    [
+     "Malphite",
+     0,
+     4
+    ],
+    [
+     "Fiddlesticks",
+     2,
+     3
+    ],
+    [
+     "Amumu",
+     2,
+     4
+    ],
+    [
+     "Yorick",
+     2,
+     5
+    ],
+    [
+     "Ahri",
+     3,
+     1
+    ],
+    [
+     "Azir",
+     3,
+     2
+    ],
+    [
+     "Zyra",
+     3,
+     3
+    ],
+    [
+     "Soraka",
+     3,
+     9
+    ]
+   ],
+   "three": [],
+   "units": [
+    "Ahri",
+    "Amumu",
+    "Azir",
+    "Fiddlesticks",
+    "Malphite",
+    "Soraka",
+    "Yorick",
+    "Zyra"
+   ]
+  },
+  {
+   "name": "Spellweaver Ahri",
+   "tier": "D",
+   "avg": 5.02,
+   "win": 9.1,
+   "plan": "Fast 8",
+   "steps": [],
+   "early": [
+    [
+     [
+      "D",
+      "Spellweaver Ahri",
+      "Fast 8",
+      "Medium",
+      "3",
+      "3",
+      "3",
+      "2",
+      "2",
+      "1",
+      "Ahri",
+      "Sett",
+      "Alune",
+      "Morgana",
+      "Sentinel",
+      "Krug",
+      "Pebbles",
+      "Karma",
+      "Avg Place",
+      "5.02",
+      "Pick Rate",
+      "0.04",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara"
+     ],
+     61.3
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Karma",
+      "Teemo"
+     ],
+     79.2
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Karma",
+      "Rammus",
+      "Fiddlesticks"
+     ],
+     73.1
+    ],
+    [
+     [
+      "Ornn",
+      "Karma",
+      "Alistar",
+      "LeBlanc",
+      "Fiddlesticks",
+      "Ahri",
+      "Sett"
+     ],
+     71
+    ]
+   ],
+   "board": [
+    [
+     "Krug",
+     0,
+     3
+    ],
+    [
+     "Sett",
+     0,
+     4
+    ],
+    [
+     "Sentinel",
+     0,
+     5
+    ],
+    [
+     "Morgana",
+     1,
+     3
+    ],
+    [
+     "Ahri",
+     3,
+     1
+    ],
+    [
+     "Alune",
+     3,
+     2
+    ],
+    [
+     "Pebbles",
+     3,
+     3
+    ],
+    [
+     "Karma",
+     3,
+     9
+    ]
+   ],
+   "three": [],
+   "units": [
+    "Ahri",
+    "Alune",
+    "Karma",
+    "Krug",
+    "Morgana",
+    "Pebbles",
+    "Sentinel",
+    "Sett"
+   ]
+  },
+  {
+   "name": "Rival Rengar",
+   "tier": "D",
+   "avg": 5.03,
+   "win": 7.1,
+   "plan": "lvl 7",
+   "steps": [],
+   "early": [
+    [
+     [
+      "D",
+      "Rival Rengar",
+      "lvl 7",
+      "Easy",
+      "2",
+      "2",
+      "2",
+      "2",
+      "1",
+      "Rengar",
+      "Kha'Zix",
+      "Fiddlesticks",
+      "Rammus",
+      "Cassiopeia",
+      "Diana",
+      "Hecarim",
+      "Avg Place",
+      "5.03",
+      "Pick Rate",
+      "0.01",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Kobuko",
+      "Rek'Sai",
+      "Kha'Zix",
+      "Rengar"
+     ],
+     71.7
+    ],
+    [
+     [
+      "Akali",
+      "Varus",
+      "Shen",
+      "Kha'Zix",
+      "Rengar"
+     ],
+     78.5
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Alistar",
+      "Kha'Zix",
+      "Rengar",
+      "Krug"
+     ],
+     63
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Alistar",
+      "Kha'Zix",
+      "Rengar",
+      "Krug",
+      "Sett"
+     ],
+     53
+    ]
+   ],
+   "board": [
+    [
+     "Kha'Zix",
+     0,
+     1
+    ],
+    [
+     "Rengar",
+     0,
+     3
+    ],
+    [
+     "Fiddlesticks",
+     0,
+     4
+    ],
+    [
+     "Rammus",
+     0,
+     5
+    ],
+    [
+     "Hecarim",
+     0,
+     7
+    ],
+    [
+     "Diana",
+     1,
+     3
+    ],
+    [
+     "Cassiopeia",
+     3,
+     1
+    ]
+   ],
+   "three": [
+    "Rengar",
+    "Kha'Zix",
+    "Fiddlesticks",
+    "Rammus"
+   ],
+   "units": [
+    "Cassiopeia",
+    "Diana",
+    "Fiddlesticks",
+    "Hecarim",
+    "Kha'Zix",
+    "Rammus",
+    "Rengar"
+   ]
+  },
+  {
+   "name": "Juggernaut Nidalee",
+   "tier": "D",
+   "avg": 5.04,
+   "win": 7.5,
+   "plan": "Fast 8",
+   "steps": [],
+   "early": [
+    [
+     [
+      "D",
+      "Juggernaut Nidalee",
+      "Fast 8",
+      "Easy",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "1",
+      "Nidalee",
+      "Amumu",
+      "Sivir",
+      "Lillia",
+      "Sentinel",
+      "Kog'Maw",
+      "Shen",
+      "Rakan",
+      "Avg Place",
+      "5.04",
+      "Pick Rate",
+      "0.03",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Akali",
+      "Ornn",
+      "Varus",
+      "Shen"
+     ],
+     38.5
+    ],
+    [
+     [
+      "Ornn",
+      "Xayah",
+      "Alistar",
+      "LeBlanc",
+      "Hecarim"
+     ],
+     52
+    ],
+    [
+     [
+      "Akali",
+      "Varus",
+      "Shen",
+      "Kha'Zix",
+      "Fiddlesticks",
+      "Vi"
+     ],
+     78.6
+    ],
+    [
+     [
+      "Yorick",
+      "Master Yi",
+      "Kog'Maw",
+      "Krug",
+      "Vi",
+      "Sett",
+      "Nidalee"
+     ],
+     80.6
+    ]
+   ],
+   "board": [
+    [
+     "Shen",
+     0,
+     1
+    ],
+    [
+     "Lillia",
+     0,
+     3
+    ],
+    [
+     "Amumu",
+     0,
+     4
+    ],
+    [
+     "Sentinel",
+     0,
+     5
+    ],
+    [
+     "Rakan",
+     0,
+     7
+    ],
+    [
+     "Nidalee",
+     3,
+     1
+    ],
+    [
+     "Kog'Maw",
+     3,
+     2
+    ],
+    [
+     "Sivir",
+     3,
+     9
+    ]
+   ],
+   "three": [],
+   "units": [
+    "Amumu",
+    "Kog'Maw",
+    "Lillia",
+    "Nidalee",
+    "Rakan",
+    "Sentinel",
+    "Shen",
+    "Sivir"
+   ]
+  },
+  {
+   "name": "Brawler Sett",
+   "tier": "D",
+   "avg": 5.14,
+   "win": 6.8,
+   "plan": "Fast 8",
+   "steps": [],
+   "early": [
+    [
+     [
+      "D",
+      "Brawler Sett",
+      "Fast 8",
+      "Easy",
+      "3",
+      "2",
+      "2",
+      "2",
+      "1",
+      "1",
+      "1",
+      "Sett",
+      "Ezreal",
+      "Gnar",
+      "Draven",
+      "Ivern",
+      "Kennen",
+      "Taric",
+      "Amumu",
+      "Alistar",
+      "Avg Place",
+      "5.14",
+      "Pick Rate",
+      "0.02",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara"
+     ],
+     57.6
+    ],
+    [
+     [
+      "Ornn",
+      "Xayah",
+      "Alistar",
+      "LeBlanc",
+      "Hecarim"
+     ],
+     57.6
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Teemo",
+      "Rammus",
+      "Fiddlesticks"
+     ],
+     92.3
+    ],
+    [
+     [
+      "Alistar",
+      "Azir",
+      "Rengar",
+      "Krug",
+      "Ezreal",
+      "Sett",
+      "Gnar"
+     ],
+     69.2
+    ]
+   ],
+   "board": [
+    [
+     "Alistar",
+     0,
+     1
+    ],
+    [
+     "Amumu",
+     0,
+     3
+    ],
+    [
+     "Sett",
+     0,
+     4
+    ],
+    [
+     "Taric",
+     0,
+     5
+    ],
+    [
+     "Gnar",
+     1,
+     3
+    ],
+    [
+     "Kennen",
+     1,
+     5
+    ],
+    [
+     "Ezreal",
+     3,
+     1
+    ],
+    [
+     "Ivern",
+     3,
+     6
+    ],
+    [
+     "Draven",
+     3,
+     9
+    ]
+   ],
+   "three": [],
+   "units": [
+    "Alistar",
+    "Amumu",
+    "Draven",
+    "Ezreal",
+    "Gnar",
+    "Ivern",
+    "Kennen",
+    "Sett",
+    "Taric"
+   ]
+  },
+  {
+   "name": "Blackthorn Malphite",
+   "tier": "D",
+   "avg": 5.14,
+   "win": 8.5,
+   "plan": "Standard",
+   "steps": [],
+   "early": [
+    [
+     [
+      "D",
+      "Blackthorn Malphite",
+      "Standard",
+      "Medium",
+      "2",
+      "4",
+      "3",
+      "2",
+      "2",
+      "2",
+      "2",
+      "1",
+      "Malphite",
+      "Azir",
+      "Veigar",
+      "Rek'Sai",
+      "Soraka",
+      "Rammus",
+      "Fiddlesticks",
+      "Kobuko",
+      "Avg Place",
+      "5.14",
+      "Pick Rate",
+      "0.02",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Teemo"
+     ],
+     58.5
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Rammus",
+      "Fiddlesticks"
+     ],
+     76.4
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Azir",
+      "Rammus",
+      "Fiddlesticks"
+     ],
+     77.2
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Azir",
+      "Rammus",
+      "Fiddlesticks",
+      "Malphite"
+     ],
+     64.4
+    ]
+   ],
+   "board": [
+    [
+     "Kobuko",
+     0,
+     1
+    ],
+    [
+     "Fiddlesticks",
+     0,
+     3
+    ],
+    [
+     "Malphite",
+     0,
+     4
+    ],
+    [
+     "Rek'Sai",
+     0,
+     5
+    ],
+    [
+     "Rammus",
+     2,
+     4
+    ],
+    [
+     "Azir",
+     3,
+     1
+    ],
+    [
+     "Soraka",
+     3,
+     2
+    ],
+    [
+     "Veigar",
+     3,
+     9
+    ]
+   ],
+   "three": [
+    "Veigar",
+    "Rek'Sai",
+    "Kobuko"
+   ],
+   "units": [
+    "Azir",
+    "Fiddlesticks",
+    "Kobuko",
+    "Malphite",
+    "Rammus",
+    "Rek'Sai",
+    "Soraka",
+    "Veigar"
+   ]
+  },
+  {
+   "name": "Blackthorn Kha'Zix",
+   "tier": "D",
+   "avg": 5.26,
+   "win": 6.6,
+   "plan": "lvl 7",
+   "steps": [],
+   "early": [
+    [
+     [
+      "D",
+      "Blackthorn Kha'Zix",
+      "lvl 7",
+      "Medium",
+      "4",
+      "3",
+      "2",
+      "2",
+      "2",
+      "1",
+      "Azir",
+      "Malphite",
+      "Warwick",
+      "Sett",
+      "Yunara",
+      "Rek'Sai",
+      "Yorick",
+      "Avg Place",
+      "5.26",
+      "Pick Rate",
+      "0.03",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Rek'Sai",
+      "Veigar",
+      "Warwick",
+      "Azir"
+     ],
+     41.6
+    ],
+    [
+     [
+      "Rek'Sai",
+      "Veigar",
+      "Warwick",
+      "Azir",
+      "Kha'Zix"
+     ],
+     56.3
+    ],
+    [
+     [
+      "Rek'Sai",
+      "Veigar",
+      "Yorick",
+      "Warwick",
+      "Yunara",
+      "Azir"
+     ],
+     51.6
+    ],
+    [
+     [
+      "Rek'Sai",
+      "Veigar",
+      "Warwick",
+      "Azir",
+      "Kha'Zix",
+      "Krug",
+      "Malphite"
+     ],
+     63.9
+    ]
+   ],
+   "board": [
+    [
+     "Warwick",
+     0,
+     3
+    ],
+    [
+     "Malphite",
+     0,
+     4
+    ],
+    [
+     "Rek'Sai",
+     0,
+     5
+    ],
+    [
+     "Yorick",
+     0,
+     7
+    ],
+    [
+     "Sett",
+     2,
+     3
+    ],
+    [
+     "Yunara",
+     2,
+     4
+    ],
+    [
+     "Azir",
+     3,
+     1
+    ]
+   ],
+   "three": [
+    "Azir"
+   ],
+   "units": [
+    "Azir",
+    "Malphite",
+    "Rek'Sai",
+    "Sett",
+    "Warwick",
+    "Yorick",
+    "Yunara"
+   ]
+  },
+  {
+   "name": "Flora Fatalis Kha'Zix",
+   "tier": "D",
+   "avg": 5.37,
+   "win": 8.9,
+   "plan": "lvl 7",
+   "steps": [],
+   "early": [
+    [
+     [
+      "D",
+      "Flora Fatalis Kha'Zix",
+      "lvl 7",
+      "Easy",
+      "1",
+      "3",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "1",
+      "Kha'Zix",
+      "Aphelios",
+      "Fiddlesticks",
+      "Diana",
+      "Amumu",
+      "LeBlanc",
+      "Ornn",
+      "Rakan",
+      "Xayah",
+      "Avg Place",
+      "5.37",
+      "Pick Rate",
+      "0.02",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Ornn",
+      "Rakan",
+      "Xayah",
+      "Kha'Zix"
+     ],
+     47.1
+    ],
+    [
+     [
+      "Ornn",
+      "Rakan",
+      "Xayah",
+      "LeBlanc",
+      "Kha'Zix"
+     ],
+     57.1
+    ],
+    [
+     [
+      "Ornn",
+      "Rakan",
+      "Xayah",
+      "LeBlanc",
+      "Kha'Zix",
+      "Fiddlesticks"
+     ],
+     56.6
+    ],
+    [
+     [
+      "Ornn",
+      "Rakan",
+      "Xayah",
+      "LeBlanc",
+      "Diana",
+      "Kha'Zix",
+      "Fiddlesticks"
+     ],
+     58.9
+    ]
+   ],
+   "board": [
+    [
+     "Rakan",
+     0,
+     1
+    ],
+    [
+     "Diana",
+     0,
+     3
+    ],
+    [
+     "Fiddlesticks",
+     0,
+     4
+    ],
+    [
+     "Amumu",
+     0,
+     5
+    ],
+    [
+     "Ornn",
+     0,
+     7
+    ],
+    [
+     "Kha'Zix",
+     1,
+     2
+    ],
+    [
+     "Aphelios",
+     3,
+     1
+    ],
+    [
+     "LeBlanc",
+     3,
+     2
+    ],
+    [
+     "Xayah",
+     3,
+     3
+    ]
+   ],
+   "three": [
+    "Kha'Zix"
+   ],
+   "units": [
+    "Amumu",
+    "Aphelios",
+    "Diana",
+    "Fiddlesticks",
+    "Kha'Zix",
+    "LeBlanc",
+    "Ornn",
+    "Rakan",
+    "Xayah"
+   ]
+  },
+  {
+   "name": "Fae Tristana Lillia",
+   "tier": "D",
+   "avg": 5.53,
+   "win": 5.4,
+   "plan": "lvl 7",
+   "steps": [],
+   "early": [
+    [
+     [
+      "D",
+      "Fae Tristana Lillia",
+      "lvl 7",
+      "Easy",
+      "4",
+      "3",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "Tristana",
+      "Lillia",
+      "Rakan",
+      "Xayah",
+      "Sivir",
+      "Hecarim",
+      "Vi",
+      "Ornn",
+      "Avg Place",
+      "5.53",
+      "Pick Rate",
+      "0.01",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Ornn",
+      "Rakan",
+      "Xayah",
+      "Alistar"
+     ],
+     53.2
+    ],
+    [
+     [
+      "Ornn",
+      "Rakan",
+      "Xayah",
+      "Hecarim",
+      "Tristana"
+     ],
+     65.1
+    ],
+    [
+     [
+      "Rakan",
+      "Xayah",
+      "Elise",
+      "Diana",
+      "Hecarim",
+      "Tristana"
+     ],
+     56.9
+    ],
+    [
+     [
+      "Ornn",
+      "Rakan",
+      "Xayah",
+      "Alistar",
+      "LeBlanc",
+      "Hecarim",
+      "Tristana"
+     ],
+     55
+    ]
+   ],
+   "board": [
+    [
+     "Vi",
+     0,
+     1
+    ],
+    [
+     "Rakan",
+     0,
+     3
+    ],
+    [
+     "Lillia",
+     0,
+     4
+    ],
+    [
+     "Hecarim",
+     0,
+     5
+    ],
+    [
+     "Ornn",
+     0,
+     7
+    ],
+    [
+     "Tristana",
+     3,
+     1
+    ],
+    [
+     "Xayah",
+     3,
+     2
+    ],
+    [
+     "Sivir",
+     3,
+     3
+    ]
+   ],
+   "three": [
+    "Tristana",
+    "Rakan",
+    "Xayah"
+   ],
+   "units": [
+    "Hecarim",
+    "Lillia",
+    "Ornn",
+    "Rakan",
+    "Sivir",
+    "Tristana",
+    "Vi",
+    "Xayah"
+   ]
+  },
+  {
+   "name": "Elderwood LeBlanc",
+   "tier": "D",
+   "avg": 5.63,
+   "win": 5.6,
+   "plan": "lvl 6",
+   "steps": [],
+   "early": [
+    [
+     [
+      "D",
+      "Elderwood LeBlanc",
+      "lvl 6",
+      "Easy",
+      "7",
+      "2",
+      "2",
+      "2",
+      "1",
+      "LeBlanc",
+      "Ornn",
+      "Alistar",
+      "Fiddlesticks",
+      "Gnar",
+      "Ezreal",
+      "Hecarim",
+      "Xayah",
+      "Avg Place",
+      "5.63",
+      "Pick Rate",
+      "0.02",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Ornn",
+      "Xayah",
+      "Alistar",
+      "LeBlanc"
+     ],
+     52.1
+    ],
+    [
+     [
+      "Ornn",
+      "Xayah",
+      "Alistar",
+      "LeBlanc",
+      "Hecarim"
+     ],
+     63.8
+    ],
+    [
+     [
+      "Ornn",
+      "Xayah",
+      "Alistar",
+      "LeBlanc",
+      "Hecarim",
+      "Fiddlesticks"
+     ],
+     64.1
+    ],
+    [
+     [
+      "Ornn",
+      "Xayah",
+      "Alistar",
+      "LeBlanc",
+      "Hecarim",
+      "Fiddlesticks",
+      "Ezreal"
+     ],
+     43.5
+    ]
+   ],
+   "board": [
+    [
+     "Fiddlesticks",
+     0,
+     1
+    ],
+    [
+     "Alistar",
+     0,
+     3
+    ],
+    [
+     "Ornn",
+     0,
+     4
+    ],
+    [
+     "Hecarim",
+     0,
+     5
+    ],
+    [
+     "Gnar",
+     1,
+     3
+    ],
+    [
+     "LeBlanc",
+     3,
+     1
+    ],
+    [
+     "Xayah",
+     3,
+     2
+    ],
+    [
+     "Ezreal",
+     3,
+     3
+    ]
+   ],
+   "three": [
+    "LeBlanc",
+    "Ornn",
+    "Alistar",
+    "Xayah"
+   ],
+   "units": [
+    "Alistar",
+    "Ezreal",
+    "Fiddlesticks",
+    "Gnar",
+    "Hecarim",
+    "LeBlanc",
+    "Ornn",
+    "Xayah"
+   ]
+  },
+  {
+   "name": "Fae Xayah",
+   "tier": "D",
+   "avg": 5.67,
+   "win": 4.8,
+   "plan": "lvl 5",
+   "steps": [],
+   "early": [
+    [
+     [
+      "D",
+      "Fae Xayah",
+      "lvl 5",
+      "Easy",
+      "4",
+      "3",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "Xayah",
+      "Ornn",
+      "Varus",
+      "Rakan",
+      "Lillia",
+      "Amumu",
+      "Hecarim",
+      "Tristana",
+      "Avg Place",
+      "5.67",
+      "Pick Rate",
+      "0.02",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Ornn",
+      "Rakan",
+      "Varus",
+      "Xayah"
+     ],
+     43
+    ],
+    [
+     [
+      "Ornn",
+      "Rakan",
+      "Varus",
+      "Xayah",
+      "Hecarim"
+     ],
+     63.5
+    ],
+    [
+     [
+      "Ornn",
+      "Rakan",
+      "Varus",
+      "Xayah",
+      "Hecarim",
+      "Tristana"
+     ],
+     62
+    ],
+    [
+     [
+      "Ornn",
+      "Rakan",
+      "Varus",
+      "Xayah",
+      "Hecarim",
+      "Tristana",
+      "Lillia"
+     ],
+     62.5
+    ]
+   ],
+   "board": [
+    [
+     "Hecarim",
+     0,
+     1
+    ],
+    [
+     "Rakan",
+     0,
+     3
+    ],
+    [
+     "Ornn",
+     0,
+     4
+    ],
+    [
+     "Lillia",
+     0,
+     5
+    ],
+    [
+     "Amumu",
+     2,
+     3
+    ],
+    [
+     "Xayah",
+     3,
+     1
+    ],
+    [
+     "Varus",
+     3,
+     2
+    ],
+    [
+     "Tristana",
+     3,
+     3
+    ]
+   ],
+   "three": [
+    "Xayah",
+    "Ornn",
+    "Varus",
+    "Rakan"
+   ],
+   "units": [
+    "Amumu",
+    "Hecarim",
+    "Lillia",
+    "Ornn",
+    "Rakan",
+    "Tristana",
+    "Varus",
+    "Xayah"
+   ]
+  },
+  {
+   "name": "Coven Morgana",
+   "tier": "D",
+   "avg": 5.91,
+   "win": 5.8,
+   "plan": "Standard",
+   "steps": [],
+   "early": [
+    [
+     [
+      "D",
+      "Coven Morgana",
+      "Standard",
+      "Easy",
+      "5",
+      "4",
+      "2",
+      "2",
+      "Morgana",
+      "Cassiopeia",
+      "Elise",
+      "Sentinel",
+      "Diana",
+      "Hecarim",
+      "Caitlyn",
+      "Camille",
+      "Avg Place",
+      "5.91",
+      "Pick Rate",
+      "0.12",
+      "Win Rate",
+      "Top 4 Rate",
+      "Options & Quick Start",
+      "Units & Items",
+      "Traits & Stats",
+      "Counters & Vods",
+      "Lvl 7",
+      "Lvl 8",
+      "Lvl 9",
+      "Lvl 10",
+      "Lvl 4",
+      "Lvl 5",
+      "Lvl 6",
+      "Lvl 7",
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia"
+     ],
+     36.3
+    ],
+    [
+     [
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
+      "Diana"
+     ],
+     58.6
+    ],
+    [
+     [
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
+      "Diana",
+      "Fiddlesticks"
+     ],
+     50.7
+    ],
+    [
+     [
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
+      "Diana",
+      "Morgana",
+      "Sentinel"
+     ],
+     52.8
+    ]
+   ],
+   "board": [
+    [
+     "Camille",
+     0,
+     1
+    ],
+    [
+     "Diana",
+     0,
+     3
+    ],
+    [
+     "Elise",
+     0,
+     4
+    ],
+    [
+     "Sentinel",
+     0,
+     5
+    ],
+    [
+     "Hecarim",
+     0,
+     7
+    ],
+    [
+     "Morgana",
+     1,
+     3
+    ],
+    [
+     "Cassiopeia",
+     3,
+     1
+    ],
+    [
+     "Caitlyn",
+     3,
+     2
+    ]
+   ],
+   "three": [],
+   "units": [
+    "Caitlyn",
+    "Camille",
+    "Cassiopeia",
+    "Diana",
+    "Elise",
+    "Hecarim",
+    "Morgana",
+    "Sentinel"
+   ]
+  }
+ ],
+ "artifacts": [
+  {
+   "id": "DA_Artifact_RapidFireCannon",
+   "name": "Rapid Firecannon",
+   "tier": "A",
+   "avg": 4.29,
+   "delta": -0.21,
+   "win": 15.3,
+   "games": 16881,
+   "freq": 1.3,
+   "units": [
+    "Master Yi",
+    "Kayle",
+    "Aphelios",
+    "Xayah",
+    "Rengar"
+   ]
+  },
+  {
+   "id": "DA_Artifact_VoidGauntlet",
+   "name": "Void Gauntlet",
+   "tier": "A",
+   "avg": 4.29,
+   "delta": -0.21,
+   "win": 14,
+   "games": 11805,
+   "freq": 0.9,
+   "units": [
+    "Ornn",
+    "Sett",
+    "Sentinel",
+    "Malphite",
+    "Sejuani"
+   ]
+  },
+  {
+   "id": "DA_Artifact_StatikkShiv",
+   "name": "Statikk Shiv",
+   "tier": "A",
+   "avg": 4.29,
+   "delta": -0.21,
+   "win": 15.2,
+   "games": 13804,
+   "freq": 1,
+   "units": [
+    "Kayle",
+    "Nidalee",
+    "Xayah",
+    "Master Yi",
+    "Aphelios"
+   ]
+  },
+  {
+   "id": "DA_Artifact_HorizonFocus",
+   "name": "Horizon Focus",
+   "tier": "B",
+   "avg": 4.31,
+   "delta": -0.19,
+   "win": 13.7,
+   "games": 5168,
+   "freq": 0.4,
+   "units": [
+    "Sentinel",
+    "Hecarim",
+    "Lillia",
+    "Leona",
+    "Amumu"
+   ]
+  },
+  {
+   "id": "DA_Artifact_TitanicHydra",
+   "name": "Titanic Hydra",
+   "tier": "B",
+   "avg": 4.33,
+   "delta": -0.17,
+   "win": 13.9,
+   "games": 8043,
+   "freq": 0.6,
+   "units": [
+    "Master Yi",
+    "Xayah",
+    "Brambleback",
+    "Rengar",
+    "Elder Dragon"
+   ]
+  },
+  {
+   "id": "DA_Artifact_TheIndomitable",
+   "name": "The Indomitable",
+   "tier": "B",
+   "avg": 4.33,
+   "delta": -0.17,
+   "win": 13.7,
+   "games": 23136,
+   "freq": 1.7,
+   "units": [
+    "Ornn",
+    "Sentinel",
+    "Sett",
+    "Malphite",
+    "Sejuani"
+   ]
+  },
+  {
+   "id": "DA_Artifact_AegisOfDusk",
+   "name": "Aegis of Dusk",
+   "tier": "B",
+   "avg": 4.33,
+   "delta": -0.17,
+   "win": 13.8,
+   "games": 14180,
+   "freq": 1.1,
+   "units": [
+    "Ornn",
+    "Sentinel",
+    "Sett",
+    "Malphite",
+    "Sejuani"
+   ]
+  },
+  {
+   "id": "DA_Artifact_Mittens",
+   "name": "Mittens",
+   "tier": "B",
+   "avg": 4.34,
+   "delta": -0.16,
+   "win": 14.4,
+   "games": 12522,
+   "freq": 0.9,
+   "units": [
+    "Kayle",
+    "Master Yi",
+    "Rengar",
+    "Brambleback",
+    "Xayah"
+   ]
+  },
+  {
+   "id": "DA_Artifact_Fishbones",
+   "name": "Fishbones",
+   "tier": "B",
+   "avg": 4.35,
+   "delta": -0.15,
+   "win": 14.8,
+   "games": 14183,
+   "freq": 1.1,
+   "units": [
+    "Aphelios",
+    "Xayah",
+    "Master Yi",
+    "Draven",
+    "Sivir"
+   ]
+  },
+  {
+   "id": "DA_Artifact_ZhonyasParadox",
+   "name": "Zhonya's Paradox",
+   "tier": "B",
+   "avg": 4.36,
+   "delta": -0.14,
+   "win": 14.5,
+   "games": 8480,
+   "freq": 0.6,
+   "units": [
+    "Kayle",
+    "Morgana",
+    "Kennen",
+    "Kha'Zix",
+    "Fiddlesticks"
+   ]
+  },
+  {
+   "id": "DA_Artifact_InfinityForce",
+   "name": "Infinity Force",
+   "tier": "B",
+   "avg": 4.37,
+   "delta": -0.13,
+   "win": 13.1,
+   "games": 12464,
+   "freq": 0.9,
+   "units": [
+    "Brambleback",
+    "Rengar",
+    "Master Yi",
+    "Elder Dragon",
+    "Gnar"
+   ]
+  },
+  {
+   "id": "DA_Artifact_AegisOfDawn",
+   "name": "Aegis of Dawn",
+   "tier": "B",
+   "avg": 4.39,
+   "delta": -0.11,
+   "win": 13.2,
+   "games": 14631,
+   "freq": 1.1,
+   "units": [
+    "Ornn",
+    "Sentinel",
+    "Sett",
+    "Sejuani",
+    "Malphite"
+   ]
+  },
+  {
+   "id": "DA_Artifact_MogulsMail",
+   "name": "Mogul'sMail",
+   "tier": "C",
+   "avg": 4.41,
+   "delta": -0.09,
+   "win": 13.7,
+   "games": 22027,
+   "freq": 1.7,
+   "units": [
+    "Malphite",
+    "Sentinel",
+    "Sett",
+    "Ornn",
+    "Maokai"
+   ]
+  },
+  {
+   "id": "DA_Artifact_LudensTempest",
+   "name": "Luden's Tempest",
+   "tier": "C",
+   "avg": 4.43,
+   "delta": -0.07,
+   "win": 11.3,
+   "games": 9876,
+   "freq": 0.7,
+   "units": [
+    "Ahri",
+    "Veigar",
+    "Soraka",
+    "Nidalee",
+    "Kayle"
+   ]
+  },
+  {
+   "id": "DA_Artifact_GamblersBlade",
+   "name": "Gambler's Blade",
+   "tier": "C",
+   "avg": 4.46,
+   "delta": -0.04,
+   "win": 13.8,
+   "games": 9262,
+   "freq": 0.7,
+   "units": [
+    "Aphelios",
+    "Draven",
+    "Xayah",
+    "Kayle",
+    "Tristana"
+   ]
+  },
+  {
+   "id": "DA_Artifact_ForbiddenIdol",
+   "name": "Forbidden Idol",
+   "tier": "C",
+   "avg": 4.48,
+   "delta": -0.02,
+   "win": 13.4,
+   "games": 10946,
+   "freq": 0.8,
+   "units": [
+    "Ornn",
+    "Sentinel",
+    "Malphite",
+    "Sejuani",
+    "Rammus"
+   ]
+  },
+  {
+   "id": "DA_Artifact_Manazane",
+   "name": "Manazane",
+   "tier": "C",
+   "avg": 4.49,
+   "delta": -0.01,
+   "win": 11.3,
+   "games": 16336,
+   "freq": 1.2,
+   "units": [
+    "Ahri",
+    "Cassiopeia",
+    "Alune",
+    "Soraka",
+    "Veigar"
+   ]
+  },
+  {
+   "id": "DA_Artifact_SilvermereDawn",
+   "name": "Silvermere Dawn",
+   "tier": "D",
+   "avg": 4.57,
+   "delta": 0.07,
+   "win": 11.7,
+   "games": 6843,
+   "freq": 0.5,
+   "units": [
+    "Nidalee",
+    "Elder Dragon",
+    "Brambleback",
+    "Sett",
+    "Gnar"
+   ]
+  }
+ ],
+ "unitItems": [
+  {
+   "unit": "Sentinel",
+   "items": [
+    "ProtectorsVow",
+    "GargoyleStoneplate",
+    "WarmogsArmor"
+   ],
+   "avg": 4.33,
+   "games": 1231096
+  },
+  {
+   "unit": "Krug",
+   "items": [
+    "GargoyleStoneplate",
+    "WarmogsArmor",
+    "SpiritVisage"
+   ],
+   "avg": 4.3123,
+   "games": 893245
+  },
+  {
+   "unit": "Taric",
+   "items": [
+    "GargoyleStoneplate",
+    "WarmogsArmor",
+    "ThiefsGloves"
+   ],
+   "avg": 3.8665,
+   "games": 854067
+  },
+  {
+   "unit": "Fiddlesticks",
+   "items": [
+    "IonicSpark",
+    "GargoyleStoneplate",
+    "WarmogsArmor"
+   ],
+   "avg": 4.4736,
+   "games": 769202
+  },
+  {
+   "unit": "Sett",
+   "items": [
+    "GargoyleStoneplate",
+    "WarmogsArmor",
+    "SpiritVisage"
+   ],
+   "avg": 4.2465,
+   "games": 742905
+  },
+  {
+   "unit": "Hecarim",
+   "items": [
+    "GargoyleStoneplate",
+    "WarmogsArmor",
+    "SpiritVisage"
+   ],
+   "avg": 4.5697,
+   "games": 681712
+  },
+  {
+   "unit": "GnarSmall",
+   "items": [
+    "ThiefsGloves",
+    "SteraksGage",
+    "Bloodthirster"
+   ],
+   "avg": 3.7035,
+   "games": 676446
+  },
+  {
+   "unit": "Ornn",
+   "items": [
+    "GargoyleStoneplate",
+    "SpiritVisage",
+    "WarmogsArmor"
+   ],
+   "avg": 4.5777,
+   "games": 656041
+  },
+  {
+   "unit": "Amumu",
+   "items": [
+    "GargoyleStoneplate",
+    "WarmogsArmor",
+    "SpiritVisage"
+   ],
+   "avg": 4.4247,
+   "games": 652412
+  },
+  {
+   "unit": "Diana",
+   "items": [
+    "ThiefsGloves",
+    "GargoyleStoneplate",
+    "SunfireCape"
+   ],
+   "avg": 4.6499,
+   "games": 651035
+  },
+  {
+   "unit": "Sentry",
+   "items": [
+    "JeweledGauntlet",
+    "BlueBuff",
+    "RabadonsDeathcap"
+   ],
+   "avg": 4.2642,
+   "games": 641703
+  },
+  {
+   "unit": "Brambleback",
+   "items": [
+    "EdgeOfNight",
+    "SteraksGage",
+    "Quicksilver"
+   ],
+   "avg": 4.3901,
+   "games": 565232
+  },
+  {
+   "unit": "Morgana",
+   "items": [
+    "VoidStaff",
+    "Morellonomicon",
+    "RabadonsDeathcap"
+   ],
+   "avg": 4.4647,
+   "games": 559378
+  },
+  {
+   "unit": "Vi",
+   "items": [
+    "GargoyleStoneplate",
+    "WarmogsArmor",
+    "SpiritVisage"
+   ],
+   "avg": 4.5094,
+   "games": 546275
+  },
+  {
+   "unit": "Ahri",
+   "items": [
+    "JeweledGauntlet",
+    "SpearOfShojin",
+    "StrikersFlail"
+   ],
+   "avg": 4.4076,
+   "games": 538664
+  },
+  {
+   "unit": "Lillia",
+   "items": [
+    "GargoyleStoneplate",
+    "ProtectorsVow",
+    "WarmogsArmor"
+   ],
+   "avg": 4.3088,
+   "games": 534017
+  },
+  {
+   "unit": "Kennen",
+   "items": [
+    "ThiefsGloves",
+    "HandOfJustice",
+    "JeweledGauntlet"
+   ],
+   "avg": 3.9666,
+   "games": 529836
+  },
+  {
+   "unit": "Rammus",
+   "items": [
+    "GargoyleStoneplate",
+    "WarmogsArmor",
+    "SpiritVisage"
+   ],
+   "avg": 4.3119,
+   "games": 518378
+  },
+  {
+   "unit": "Yorick",
+   "items": [
+    "GargoyleStoneplate",
+    "ThiefsGloves",
+    "WarmogsArmor"
+   ],
+   "avg": 4.5296,
+   "games": 512165
+  },
+  {
+   "unit": "Aphelios",
+   "items": [
+    "GuinsoosRageblade",
+    "KrakensFury",
+    "InfinityEdge"
+   ],
+   "avg": 4.4123,
+   "games": 496078
+  },
+  {
+   "unit": "Rakan",
+   "items": [
+    "ThiefsGloves",
+    "GargoyleStoneplate",
+    "SpiritVisage"
+   ],
+   "avg": 4.6851,
+   "games": 487466
+  },
+  {
+   "unit": "Leona",
+   "items": [
+    "GargoyleStoneplate",
+    "SpiritVisage",
+    "WarmogsArmor"
+   ],
+   "avg": 4.4916,
+   "games": 477341
+  },
+  {
+   "unit": "Ivern",
+   "items": [
+    "SpearOfShojin",
+    "GuinsoosRageblade",
+    "BlueBuff"
+   ],
+   "avg": 3.8354,
+   "games": 469268
+  },
+  {
+   "unit": "Maokai",
+   "items": [
+    "GargoyleStoneplate",
+    "WarmogsArmor",
+    "SpiritVisage"
+   ],
+   "avg": 4.1476,
+   "games": 467957
+  },
+  {
+   "unit": "Zyra",
+   "items": [
+    "SpearOfShojin",
+    "JeweledGauntlet",
+    "VoidStaff"
+   ],
+   "avg": 4.4764,
+   "games": 442881
+  },
+  {
+   "unit": "Xayah",
+   "items": [
+    "GuinsoosRageblade",
+    "Deathblade",
+    "InfinityEdge"
+   ],
+   "avg": 4.7436,
+   "games": 441483
+  },
+  {
+   "unit": "Soraka",
+   "items": [
+    "SpearOfShojin",
+    "RabadonsDeathcap",
+    "JeweledGauntlet"
+   ],
+   "avg": 4.2909,
+   "games": 429651
+  },
+  {
+   "unit": "Ezreal",
+   "items": [
+    "SpearOfShojin",
+    "LastWhisper",
+    "InfinityEdge"
+   ],
+   "avg": 4.4815,
+   "games": 417252
+  },
+  {
+   "unit": "Scuttlecrab",
+   "items": [
+    "GargoyleStoneplate",
+    "WarmogsArmor",
+    "SpiritVisage"
+   ],
+   "avg": 4.4365,
+   "games": 413473
+  },
+  {
+   "unit": "Alistar",
+   "items": [
+    "GargoyleStoneplate",
+    "WarmogsArmor",
+    "SpiritVisage"
+   ],
+   "avg": 4.5951,
+   "games": 390616
+  },
+  {
+   "unit": "Sivir",
+   "items": [
+    "InfinityEdge",
+    "SpearOfShojin",
+    "LastWhisper"
+   ],
+   "avg": 4.3919,
+   "games": 380735
+  },
+  {
+   "unit": "Alune",
+   "items": [
+    "SpearOfShojin",
+    "JeweledGauntlet",
+    "BlueBuff"
+   ],
+   "avg": 3.7607,
+   "games": 380334
+  },
+  {
+   "unit": "Shen",
+   "items": [
+    "ThiefsGloves",
+    "GargoyleStoneplate",
+    "WarmogsArmor"
+   ],
+   "avg": 4.4449,
+   "games": 368258
+  },
+  {
+   "unit": "KogMaw",
+   "items": [
+    "SpearOfShojin",
+    "InfinityEdge",
+    "RedBuff"
+   ],
+   "avg": 4.2967,
+   "games": 367825
+  },
+  {
+   "unit": "Karma",
+   "items": [
+    "SpearOfShojin",
+    "JeweledGauntlet",
+    "VoidStaff"
+   ],
+   "avg": 4.4849,
+   "games": 367433
+  },
+  {
+   "unit": "Malphite",
+   "items": [
+    "GargoyleStoneplate",
+    "WarmogsArmor",
+    "Crownguard"
+   ],
+   "avg": 4.6089,
+   "games": 366898
+  },
+  {
+   "unit": "Cinderling",
+   "items": [
+    "InfinityEdge",
+    "LastWhisper",
+    "BlueBuff"
+   ],
+   "avg": 4.3143,
+   "games": 363273
+  },
+  {
+   "unit": "Cassiopeia",
+   "items": [
+    "ArchangelsStaff",
+    "HextechGunblade",
+    "BlueBuff"
+   ],
+   "avg": 4.5613,
+   "games": 357319
+  },
+  {
+   "unit": "CrimsonRaptor",
+   "items": [
+    "LastWhisper",
+    "GuinsoosRageblade",
+    "InfinityEdge"
+   ],
+   "avg": 4.588,
+   "games": 326075
+  },
+  {
+   "unit": "Murkwolf",
+   "items": [
+    "EdgeOfNight",
+    "HandOfJustice",
+    "ThiefsGloves"
+   ],
+   "avg": 4.3788,
+   "games": 325465
+  },
+  {
+   "unit": "ElderDragon",
+   "items": [
+    "InfinityEdge",
+    "LastWhisper",
+    "Deathblade"
+   ],
+   "avg": 3.8241,
+   "games": 308541
+  },
+  {
+   "unit": "Sejuani",
+   "items": [
+    "GargoyleStoneplate",
+    "SpiritVisage",
+    "WarmogsArmor"
+   ],
+   "avg": 4.6326,
+   "games": 307349
+  },
+  {
+   "unit": "Azir",
+   "items": [
+    "GuinsoosRageblade",
+    "VoidStaff",
+    "GiantSlayer"
+   ],
+   "avg": 4.6667,
+   "games": 298147
+  },
+  {
+   "unit": "Nidalee",
+   "items": [
+    "GuinsoosRageblade",
+    "SpearOfShojin",
+    "JeweledGauntlet"
+   ],
+   "avg": 4.3384,
+   "games": 298010
+  },
+  {
+   "unit": "Ashe",
+   "items": [
+    "SpearOfShojin",
+    "RedBuff",
+    "LastWhisper"
+   ],
+   "avg": 3.8712,
+   "games": 290411
+  },
+  {
+   "unit": "Tristana",
+   "items": [
+    "GuinsoosRageblade",
+    "HextechGunblade",
+    "InfinityEdge"
+   ],
+   "avg": 4.5307,
+   "games": 274809
+  },
+  {
+   "unit": "Draven",
+   "items": [
+    "GuinsoosRageblade",
+    "KrakensFury",
+    "Deathblade"
+   ],
+   "avg": 4.2783,
+   "games": 274071
+  },
+  {
+   "unit": "LeBlanc",
+   "items": [
+    "JeweledGauntlet",
+    "SpearOfShojin",
+    "VoidStaff"
+   ],
+   "avg": 4.6367,
+   "games": 273710
+  },
+  {
+   "unit": "RekSai",
+   "items": [
+    "GargoyleStoneplate",
+    "WarmogsArmor",
+    "SpiritVisage"
+   ],
+   "avg": 4.5223,
+   "games": 267064
+  },
+  {
+   "unit": "Lux",
+   "items": [
+    "SpearOfShojin",
+    "JeweledGauntlet",
+    "RabadonsDeathcap"
+   ],
+   "avg": 3.5497,
+   "games": 266253
+  },
+  {
+   "unit": "Kayle",
+   "items": [
+    "GuinsoosRageblade",
+    "JeweledGauntlet",
+    "RabadonsDeathcap"
+   ],
+   "avg": 4.6843,
+   "games": 265652
+  },
+  {
+   "unit": "Kobuko",
+   "items": [
+    "GargoyleStoneplate",
+    "WarmogsArmor",
+    "SpiritVisage"
+   ],
+   "avg": 4.4523,
+   "games": 239514
+  },
+  {
+   "unit": "MasterYi",
+   "items": [
+    "GuinsoosRageblade",
+    "EdgeOfNight",
+    "TitansResolve"
+   ],
+   "avg": 4.4527,
+   "games": 238495
+  },
+  {
+   "unit": "Rengar",
+   "items": [
+    "GuinsoosRageblade",
+    "EdgeOfNight",
+    "TitansResolve"
+   ],
+   "avg": 4.3368,
+   "games": 203045
+  },
+  {
+   "unit": "Elise",
+   "items": [
+    "GargoyleStoneplate",
+    "WarmogsArmor",
+    "SpiritVisage"
+   ],
+   "avg": 5.2716,
+   "games": 192629
+  },
+  {
+   "unit": "Veigar",
+   "items": [
+    "JeweledGauntlet",
+    "BlueBuff",
+    "18_EmblemFloraFatalisAugment"
+   ],
+   "avg": 4.4504,
+   "games": 190388
+  },
+  {
+   "unit": "Teemo",
+   "items": [
+    "VoidStaff",
+    "SpearOfShojin",
+    "Morellonomicon"
+   ],
+   "avg": 4.2288,
+   "games": 158881
+  },
+  {
+   "unit": "Gromp",
+   "items": [
+    "JeweledGauntlet",
+    "SpearOfShojin",
+    "VoidStaff"
+   ],
+   "avg": 4.3498,
+   "games": 158053
+  },
+  {
+   "unit": "KhaZix",
+   "items": [
+    "HandOfJustice",
+    "EdgeOfNight",
+    "RabadonsDeathcap"
+   ],
+   "avg": 4.6958,
+   "games": 121141
+  },
+  {
+   "unit": "Yunara",
+   "items": [
+    "SpearOfShojin",
+    "Deathblade",
+    "StrikersFlail"
+   ],
+   "avg": 4.9194,
+   "games": 101959
+  },
+  {
+   "unit": "Caitlyn",
+   "items": [
+    "GuinsoosRageblade",
+    "KrakensFury",
+    "Deathblade"
+   ],
+   "avg": 5.2239,
+   "games": 93735
+  },
+  {
+   "unit": "Varus",
+   "items": [
+    "SpearOfShojin",
+    "InfinityEdge",
+    "Deathblade"
+   ],
+   "avg": 4.9958,
+   "games": 70949
+  },
+  {
+   "unit": "Akali",
+   "items": [
+    "HandOfJustice",
+    "EdgeOfNight",
+    "ThiefsGloves"
+   ],
+   "avg": 5.1288,
+   "games": 55474
+  },
+  {
+   "unit": "Warwick",
+   "items": [
+    "TitansResolve",
+    "SpearOfShojin",
+    "SteraksGage"
+   ],
+   "avg": 5.2168,
+   "games": 51383
+  },
+  {
+   "unit": "Camille",
+   "items": [
+    "ThiefsGloves",
+    "Bloodthirster",
+    "TitansResolve"
+   ],
+   "avg": 6.2227,
+   "games": 50908
+  },
+  {
+   "unit": "Gromp",
+   "items": [
+    "JeweledGauntlet",
+    "SpearOfShojin",
+    "AdaptiveHelm"
+   ],
+   "avg": 5.2069,
+   "games": 116
+  },
+  {
+   "unit": "Akali",
+   "items": [
+    "BlueBuff",
+    "EdgeOfNight",
+    "HandOfJustice"
+   ],
+   "avg": 5.2143,
+   "games": 56
+  }
+ ],
+ "unitTiers": [
+  {
+   "unit": "Lux",
+   "tier": "S",
+   "avg": 3.53,
+   "win": 25.5,
+   "freq": 8.4,
+   "items": [
+    "Spear of Shojin",
+    "Jeweled Gauntlet",
+    "Rabadon's Deathcap",
+    "Void Staff",
+    "Blue Buff"
+   ]
+  },
+  {
+   "unit": "Gnar",
+   "tier": "S",
+   "avg": 3.71,
+   "win": 21.7,
+   "freq": 21.8,
+   "items": [
+    "Thief's Gloves",
+    "Sterak's Gage",
+    "Bloodthirster",
+    "Titan's Resolve",
+    "Edge of Night"
+   ]
+  },
+  {
+   "unit": "Alune",
+   "tier": "S",
+   "avg": 3.74,
+   "win": 19.2,
+   "freq": 11.4,
+   "items": [
+    "Spear of Shojin",
+    "Jeweled Gauntlet",
+    "Blue Buff",
+    "Void Staff",
+    "Rabadon's Deathcap"
+   ]
+  },
+  {
+   "unit": "Ivern",
+   "tier": "S",
+   "avg": 3.83,
+   "win": 24,
+   "freq": 15.2,
+   "items": [
+    "Spear of Shojin",
+    "Guinsoo's Rageblade",
+    "Blue Buff",
+    "Adaptive Helm",
+    "Thief's Gloves"
+   ]
+  },
+  {
+   "unit": "Ashe",
+   "tier": "S",
+   "avg": 3.87,
+   "win": 18.2,
+   "freq": 9.2,
+   "items": [
+    "Spear of Shojin",
+    "Red Buff",
+    "Last Whisper",
+    "Infinity Edge",
+    "Guinsoo's Rageblade"
+   ]
+  },
+  {
+   "unit": "Taric",
+   "tier": "S",
+   "avg": 3.87,
+   "win": 19.9,
+   "freq": 26.4,
+   "items": [
+    "Gargoyle Stoneplate",
+    "Warmogs Armor",
+    "Thief's Gloves",
+    "Spirit Visage",
+    "Protector's Vow"
+   ]
+  },
+  {
+   "unit": "Elder Dragon",
+   "tier": "S",
+   "avg": 3.88,
+   "win": 20.5,
+   "freq": 9.8,
+   "items": [
+    "Infinity Edge",
+    "Last Whisper",
+    "Deathblade",
+    "Sterak's Gage",
+    "Striker's Flail"
+   ]
+  },
+  {
+   "unit": "Kennen",
+   "tier": "S",
+   "avg": 3.9,
+   "win": 21.1,
+   "freq": 18.8,
+   "items": [
+    "Thief's Gloves",
+    "Hand Of Justice",
+    "Jeweled Gauntlet",
+    "Edge of Night",
+    "Rabadon's Deathcap"
+   ]
+  },
+  {
+   "unit": "Maokai",
+   "tier": "S",
+   "avg": 4.1,
+   "win": 21.3,
+   "freq": 15.9,
+   "items": [
+    "Gargoyle Stoneplate",
+    "Warmogs Armor",
+    "Spirit Visage",
+    "Protector's Vow",
+    "Dragon's Claw"
+   ]
+  },
+  {
+   "unit": "Draven",
+   "tier": "S",
+   "avg": 4.18,
+   "win": 23.3,
+   "freq": 9.8,
+   "items": [
+    "Guinsoo's Rageblade",
+    "Kraken's Fury",
+    "Deathblade",
+    "Infinity Edge",
+    "Giant Slayer"
+   ]
+  },
+  {
+   "unit": "Teemo",
+   "tier": "S",
+   "avg": 4.19,
+   "win": 12.2,
+   "freq": 5.1,
+   "items": [
+    "Void Staff",
+    "Spear of Shojin",
+    "Morellonomicon",
+    "Jeweled Gauntlet",
+    "Red Buff"
+   ]
+  },
+  {
+   "unit": "Soraka",
+   "tier": "A",
+   "avg": 4.26,
+   "win": 12.5,
+   "freq": 14.8,
+   "items": [
+    "Spear of Shojin",
+    "Rabadon's Deathcap",
+    "Jeweled Gauntlet",
+    "Void Staff",
+    "Nashor's Tooth"
+   ]
+  },
+  {
+   "unit": "Sett",
+   "tier": "A",
+   "avg": 4.26,
+   "win": 12.8,
+   "freq": 21.1,
+   "items": [
+    "Gargoyle Stoneplate",
+    "Warmogs Armor",
+    "Spirit Visage",
+    "Dragon's Claw",
+    "Steadfast Heart"
+   ]
+  },
+  {
+   "unit": "Rengar",
+   "tier": "A",
+   "avg": 4.32,
+   "win": 16.8,
+   "freq": 7.1,
+   "items": [
+    "Guinsoo's Rageblade",
+    "Edge of Night",
+    "Titan's Resolve",
+    "Fae Emblem",
+    "Bloodthirster"
+   ]
+  },
+  {
+   "unit": "Kog'Maw",
+   "tier": "A",
+   "avg": 4.32,
+   "win": 10.9,
+   "freq": 12.5,
+   "items": [
+    "Spear of Shojin",
+    "Infinity Edge",
+    "Red Buff",
+    "Jeweled Gauntlet",
+    "Blue Buff"
+   ]
+  },
+  {
+   "unit": "Lillia",
+   "tier": "A",
+   "avg": 4.34,
+   "win": 13,
+   "freq": 15.6,
+   "items": [
+    "Gargoyle Stoneplate",
+    "Protector's Vow",
+    "Warmogs Armor",
+    "Thief's Gloves",
+    "Spirit Visage"
+   ]
+  },
+  {
+   "unit": "Rammus",
+   "tier": "A",
+   "avg": 4.34,
+   "win": 12.5,
+   "freq": 15,
+   "items": [
+    "Gargoyle Stoneplate",
+    "Warmogs Armor",
+    "Spirit Visage",
+    "Sunfire Cape",
+    "Steadfast Heart"
+   ]
+  },
+  {
+   "unit": "Amumu",
+   "tier": "A",
+   "avg": 4.35,
+   "win": 16.5,
+   "freq": 23.4,
+   "items": [
+    "Gargoyle Stoneplate",
+    "Warmogs Armor",
+    "Spirit Visage",
+    "Protector's Vow",
+    "Sunfire Cape"
+   ]
+  },
+  {
+   "unit": "Nidalee",
+   "tier": "A",
+   "avg": 4.35,
+   "win": 10.6,
+   "freq": 11.2,
+   "items": [
+    "Guinsoo's Rageblade",
+    "Spear of Shojin",
+    "Jeweled Gauntlet",
+    "Infinity Edge",
+    "Sterak's Gage"
+   ]
+  },
+  {
+   "unit": "Aphelios",
+   "tier": "A",
+   "avg": 4.37,
+   "win": 12.4,
+   "freq": 15.4,
+   "items": [
+    "Guinsoo's Rageblade",
+    "Kraken's Fury",
+    "Infinity Edge",
+    "Deathblade",
+    "Giant Slayer"
+   ]
+  },
+  {
+   "unit": "Pebbles",
+   "tier": "A",
+   "avg": 4.38,
+   "win": 11.4,
+   "freq": 16.9,
+   "items": [
+    "Jeweled Gauntlet",
+    "Blue Buff",
+    "Rabadon's Deathcap",
+    "Archangel's Staff",
+    "Void Staff"
+   ]
+  },
+  {
+   "unit": "Sentinel",
+   "tier": "A",
+   "avg": 4.38,
+   "win": 12,
+   "freq": 36.7,
+   "items": [
+    "Protector's Vow",
+    "Gargoyle Stoneplate",
+    "Warmogs Armor",
+    "Spirit Visage",
+    "Adaptive Helm"
+   ]
+  },
+  {
+   "unit": "Sivir",
+   "tier": "A",
+   "avg": 4.39,
+   "win": 12.4,
+   "freq": 13.4,
+   "items": [
+    "Infinity Edge",
+    "Spear of Shojin",
+    "Last Whisper",
+    "Red Buff",
+    "Deathblade"
+   ]
+  },
+  {
+   "unit": "Zyra",
+   "tier": "A",
+   "avg": 4.39,
+   "win": 10.8,
+   "freq": 15.4,
+   "items": [
+    "Spear of Shojin",
+    "Jeweled Gauntlet",
+    "Void Staff",
+    "Morellonomicon",
+    "Rabadon's Deathcap"
+   ]
+  },
+  {
+   "unit": "Veigar",
+   "tier": "B",
+   "avg": 4.4,
+   "win": 11.3,
+   "freq": 6.1,
+   "items": [
+    "Jeweled Gauntlet",
+    "Blue Buff",
+    "Flora Fatalis Emblem",
+    "Rabadon's Deathcap",
+    "Spear of Shojin"
+   ]
+  },
+  {
+   "unit": "Krug",
+   "tier": "B",
+   "avg": 4.41,
+   "win": 10.9,
+   "freq": 26.7,
+   "items": [
+    "Gargoyle Stoneplate",
+    "Warmogs Armor",
+    "Spirit Visage",
+    "Sunfire Cape",
+    "Dragon's Claw"
+   ]
+  },
+  {
+   "unit": "Kobuko",
+   "tier": "B",
+   "avg": 4.41,
+   "win": 12.3,
+   "freq": 7.6,
+   "items": [
+    "Gargoyle Stoneplate",
+    "Warmogs Armor",
+    "Spirit Visage",
+    "Thief's Gloves",
+    "Sunfire Cape"
+   ]
+  },
+  {
+   "unit": "Ezreal",
+   "tier": "B",
+   "avg": 4.41,
+   "win": 16.8,
+   "freq": 14.4,
+   "items": [
+    "Spear of Shojin",
+    "Last Whisper",
+    "Infinity Edge",
+    "Deathblade",
+    "Striker's Flail"
+   ]
+  },
+  {
+   "unit": "Gromp",
+   "tier": "B",
+   "avg": 4.44,
+   "win": 11.6,
+   "freq": 4.6,
+   "items": [
+    "Jeweled Gauntlet",
+    "Spear of Shojin",
+    "Void Staff",
+    "Blue Buff",
+    "Morellonomicon"
+   ]
+  },
+  {
+   "unit": "Master Yi",
+   "tier": "B",
+   "avg": 4.44,
+   "win": 11.8,
+   "freq": 7.8,
+   "items": [
+    "Guinsoo's Rageblade",
+    "Edge of Night",
+    "Titan's Resolve",
+    "Brawler Emblem",
+    "Quicksilver"
+   ]
+  },
+  {
+   "unit": "Ahri",
+   "tier": "B",
+   "avg": 4.45,
+   "win": 11.6,
+   "freq": 13.7,
+   "items": [
+    "Jeweled Gauntlet",
+    "Spear of Shojin",
+    "Striker's Flail",
+    "Rabadon's Deathcap",
+    "Nashor's Tooth"
+   ]
+  },
+  {
+   "unit": "Fiddlesticks",
+   "tier": "B",
+   "avg": 4.46,
+   "win": 11,
+   "freq": 24.2,
+   "items": [
+    "Ionic Spark",
+    "Gargoyle Stoneplate",
+    "Warmogs Armor",
+    "Adaptive Helm",
+    "Sunfire Cape"
+   ]
+  },
+  {
+   "unit": "Brambleback",
+   "tier": "B",
+   "avg": 4.46,
+   "win": 9.7,
+   "freq": 16.5,
+   "items": [
+    "Edge of Night",
+    "Sterak's Gage",
+    "Quicksilver",
+    "Bloodthirster",
+    "Titan's Resolve"
+   ]
+  },
+  {
+   "unit": "Yorick",
+   "tier": "B",
+   "avg": 4.47,
+   "win": 11.5,
+   "freq": 17.7,
+   "items": [
+    "Gargoyle Stoneplate",
+    "Thief's Gloves",
+    "Warmogs Armor",
+    "Sunfire Cape",
+    "Spirit Visage"
+   ]
+  },
+  {
+   "unit": "Rek'Sai",
+   "tier": "B",
+   "avg": 4.49,
+   "win": 9.6,
+   "freq": 10,
+   "items": [
+    "Gargoyle Stoneplate",
+    "Warmogs Armor",
+    "Spirit Visage",
+    "Dragon's Claw",
+    "Sunfire Cape"
+   ]
+  },
+  {
+   "unit": "Tristana",
+   "tier": "B",
+   "avg": 4.49,
+   "win": 12.4,
+   "freq": 8.8,
+   "items": [
+    "Guinsoo's Rageblade",
+    "Hextech Gunblade",
+    "Infinity Edge",
+    "Giant Slayer",
+    "Kraken's Fury"
+   ]
+  },
+  {
+   "unit": "Cinderling",
+   "tier": "B",
+   "avg": 4.49,
+   "win": 9.6,
+   "freq": 11.7,
+   "items": [
+    "Infinity Edge",
+    "Last Whisper",
+    "Blue Buff",
+    "Spear of Shojin",
+    "Deathblade"
+   ]
+  },
+  {
+   "unit": "Vi",
+   "tier": "B",
+   "avg": 4.5,
+   "win": 12.3,
+   "freq": 17.3,
+   "items": [
+    "Gargoyle Stoneplate",
+    "Warmogs Armor",
+    "Spirit Visage",
+    "Sunfire Cape",
+    "Evenshroud"
+   ]
+  },
+  {
+   "unit": "Malphite",
+   "tier": "B",
+   "avg": 4.5,
+   "win": 9.8,
+   "freq": 14.9,
+   "items": [
+    "Gargoyle Stoneplate",
+    "Warmogs Armor",
+    "Crownguard",
+    "Spirit Visage",
+    "Steadfast Heart"
+   ]
+  },
+  {
+   "unit": "Murkwolf",
+   "tier": "B",
+   "avg": 4.52,
+   "win": 10.2,
+   "freq": 9.3,
+   "items": [
+    "Edge of Night",
+    "Hand Of Justice",
+    "Thief's Gloves",
+    "Infinity Edge",
+    "Bloodthirster"
+   ]
+  },
+  {
+   "unit": "Hecarim",
+   "tier": "B",
+   "avg": 4.53,
+   "win": 11.8,
+   "freq": 21.2,
+   "items": [
+    "Gargoyle Stoneplate",
+    "Warmogs Armor",
+    "Spirit Visage",
+    "Sunfire Cape",
+    "Protector's Vow"
+   ]
+  },
+  {
+   "unit": "Morgana",
+   "tier": "B",
+   "avg": 4.53,
+   "win": 11.3,
+   "freq": 14.5,
+   "items": [
+    "Void Staff",
+    "Morellonomicon",
+    "Rabadon's Deathcap",
+    "Jeweled Gauntlet",
+    "Red Buff"
+   ]
+  },
+  {
+   "unit": "Shen",
+   "tier": "B",
+   "avg": 4.53,
+   "win": 10.6,
+   "freq": 10.5,
+   "items": [
+    "Thief's Gloves",
+    "Gargoyle Stoneplate",
+    "Warmogs Armor",
+    "Spirit Visage",
+    "Sunfire Cape"
+   ]
+  },
+  {
+   "unit": "Alistar",
+   "tier": "B",
+   "avg": 4.54,
+   "win": 16.1,
+   "freq": 13.1,
+   "items": [
+    "Gargoyle Stoneplate",
+    "Warmogs Armor",
+    "Spirit Visage",
+    "Sunfire Cape",
+    "Thief's Gloves"
+   ]
+  },
+  {
+   "unit": "Azir",
+   "tier": "B",
+   "avg": 4.54,
+   "win": 10.4,
+   "freq": 11.3,
+   "items": [
+    "Guinsoo's Rageblade",
+    "Void Staff",
+    "Giant Slayer",
+    "Jeweled Gauntlet",
+    "Thief's Gloves"
+   ]
+  },
+  {
+   "unit": "Leona",
+   "tier": "B",
+   "avg": 4.54,
+   "win": 13.5,
+   "freq": 14,
+   "items": [
+    "Gargoyle Stoneplate",
+    "Spirit Visage",
+    "Warmogs Armor",
+    "Thief's Gloves",
+    "Sunfire Cape"
+   ]
+  },
+  {
+   "unit": "Karma",
+   "tier": "B",
+   "avg": 4.55,
+   "win": 10.9,
+   "freq": 9.2,
+   "items": [
+    "Spear of Shojin",
+    "Jeweled Gauntlet",
+    "Void Staff",
+    "Giant Slayer",
+    "Recurve Bow"
+   ]
+  },
+  {
+   "unit": "Scuttlecrab",
+   "tier": "B",
+   "avg": 4.58,
+   "win": 9.7,
+   "freq": 11.8,
+   "items": [
+    "Gargoyle Stoneplate",
+    "Warmogs Armor",
+    "Spirit Visage",
+    "Sunfire Cape",
+    "Dragon's Claw"
+   ]
+  },
+  {
+   "unit": "Sejuani",
+   "tier": "B",
+   "avg": 4.58,
+   "win": 14.6,
+   "freq": 10.1,
+   "items": [
+    "Gargoyle Stoneplate",
+    "Spirit Visage",
+    "Warmogs Armor",
+    "Sunfire Cape",
+    "Protector's Vow"
+   ]
+  },
+  {
+   "unit": "Mama Beak",
+   "tier": "B",
+   "avg": 4.6,
+   "win": 9.2,
+   "freq": 9.8,
+   "items": [
+    "Last Whisper",
+    "Guinsoo's Rageblade",
+    "Infinity Edge",
+    "Kraken's Fury",
+    "Deathblade"
+   ]
+  },
+  {
+   "unit": "LeBlanc",
+   "tier": "C",
+   "avg": 4.6,
+   "win": 14.1,
+   "freq": 8.7,
+   "items": [
+    "Jeweled Gauntlet",
+    "Spear of Shojin",
+    "Void Staff",
+    "Blue Buff",
+    "Rabadon's Deathcap"
+   ]
+  },
+  {
+   "unit": "Ornn",
+   "tier": "C",
+   "avg": 4.61,
+   "win": 12.7,
+   "freq": 19.7,
+   "items": [
+    "Gargoyle Stoneplate",
+    "Spirit Visage",
+    "Warmogs Armor",
+    "Protector's Vow",
+    "Sunfire Cape"
+   ]
+  },
+  {
+   "unit": "Diana",
+   "tier": "C",
+   "avg": 4.62,
+   "win": 10.5,
+   "freq": 19.5,
+   "items": [
+    "Thief's Gloves",
+    "Gargoyle Stoneplate",
+    "Sunfire Cape",
+    "Ionic Spark",
+    "Hand Of Justice"
+   ]
+  },
+  {
+   "unit": "Kayle",
+   "tier": "C",
+   "avg": 4.64,
+   "win": 15.2,
+   "freq": 8.7,
+   "items": [
+    "Guinsoo's Rageblade",
+    "Jeweled Gauntlet",
+    "Rabadon's Deathcap",
+    "Giant Slayer",
+    "Hextech Gunblade"
+   ]
+  },
+  {
+   "unit": "Rakan",
+   "tier": "C",
+   "avg": 4.64,
+   "win": 13.9,
+   "freq": 15.5,
+   "items": [
+    "Thief's Gloves",
+    "Gargoyle Stoneplate",
+    "Spirit Visage",
+    "Protector's Vow",
+    "Sunfire Cape"
+   ]
+  },
+  {
+   "unit": "Kha'Zix",
+   "tier": "C",
+   "avg": 4.68,
+   "win": 11.8,
+   "freq": 4,
+   "items": [
+    "Hand Of Justice",
+    "Edge of Night",
+    "Rabadon's Deathcap",
+    "Jeweled Gauntlet",
+    "Striker's Flail"
+   ]
+  },
+  {
+   "unit": "Cassiopeia",
+   "tier": "C",
+   "avg": 4.7,
+   "win": 9.7,
+   "freq": 9.4,
+   "items": [
+    "Archangel's Staff",
+    "Hextech Gunblade",
+    "Blue Buff",
+    "Spear of Shojin",
+    "Flora Fatalis Emblem"
+   ]
+  },
+  {
+   "unit": "Xayah",
+   "tier": "C",
+   "avg": 4.7,
+   "win": 13.6,
+   "freq": 14.2,
+   "items": [
+    "Guinsoo's Rageblade",
+    "Deathblade",
+    "Infinity Edge",
+    "Kraken's Fury",
+    "Giant Slayer"
+   ]
+  },
+  {
+   "unit": "Yunara",
+   "tier": "D",
+   "avg": 4.88,
+   "win": 9.6,
+   "freq": 3.2,
+   "items": [
+    "Spear of Shojin",
+    "Deathblade",
+    "Striker's Flail",
+    "Last Whisper",
+    "Infinity Edge"
+   ]
+  },
+  {
+   "unit": "Varus",
+   "tier": "D",
+   "avg": 4.98,
+   "win": 10.7,
+   "freq": 2.3,
+   "items": [
+    "Spear of Shojin",
+    "Infinity Edge",
+    "Deathblade",
+    "Guinsoo's Rageblade",
+    "Last Whisper"
+   ]
+  },
+  {
+   "unit": "Akali",
+   "tier": "D",
+   "avg": 5.11,
+   "win": 7.3,
+   "freq": 1.8,
+   "items": [
+    "Hand Of Justice",
+    "Edge of Night",
+    "Thief's Gloves",
+    "Bloodthirster",
+    "Jeweled Gauntlet"
+   ]
+  },
+  {
+   "unit": "Warwick",
+   "tier": "D",
+   "avg": 5.19,
+   "win": 5.4,
+   "freq": 1.6,
+   "items": [
+    "Titan's Resolve",
+    "Spear of Shojin",
+    "Sterak's Gage",
+    "Bloodthirster",
+    "Guinsoo's Rageblade"
+   ]
+  },
+  {
+   "unit": "Caitlyn",
+   "tier": "D",
+   "avg": 5.2,
+   "win": 6.8,
+   "freq": 3,
+   "items": [
+    "Guinsoo's Rageblade",
+    "Kraken's Fury",
+    "Deathblade",
+    "Infinity Edge",
+    "Hextech Gunblade"
+   ]
+  },
+  {
+   "unit": "Elise",
+   "tier": "D",
+   "avg": 5.31,
+   "win": 8.1,
+   "freq": 5.5,
+   "items": [
+    "Gargoyle Stoneplate",
+    "Warmogs Armor",
+    "Spirit Visage",
+    "Thief's Gloves",
+    "Sunfire Cape"
+   ]
+  },
+  {
+   "unit": "Camille",
+   "tier": "D",
+   "avg": 6.2,
+   "win": 3.7,
+   "freq": 1.6,
+   "items": [
+    "Thief's Gloves",
+    "Bloodthirster",
+    "Titan's Resolve",
+    "Sterak's Gage",
+    "Edge of Night"
+   ]
+  }
+ ],
+ "augments": [
+  {
+   "name": "Branching Out",
+   "tier": "S",
+   "icon": "branchingout"
+  },
+  {
+   "name": "Branching Out+",
+   "tier": "S",
+   "icon": "branchingout"
+  },
+  {
+   "name": "Kingslayer",
+   "tier": "S",
+   "icon": "kingslayer_silver"
+  },
+  {
+   "name": "Latent Forge",
+   "tier": "S",
+   "icon": "latentforge_gold_big"
+  },
+  {
+   "name": "Pandora's Bench",
+   "tier": "S",
+   "icon": "pandorasbench"
+  },
+  {
+   "name": "Rolling For Days",
+   "tier": "S",
+   "icon": "rollingfordays_gold_big"
+  },
+  {
+   "name": "Silver Destiny++",
+   "tier": "S",
+   "icon": "destiny"
+  },
+  {
+   "name": "Calculated Loss",
+   "tier": "S",
+   "icon": "calculatedloss_gold_big"
+  },
+  {
+   "name": "Consuming Flora",
+   "tier": "S",
+   "icon": "floraaugment2"
+  },
+  {
+   "name": "Coven Acolyte",
+   "tier": "S",
+   "icon": "covenaugment"
+  },
+  {
+   "name": "Epic Rolldown",
+   "tier": "S",
+   "icon": "epicrolldown"
+  },
+  {
+   "name": "Item Extraction",
+   "tier": "S",
+   "icon": "eldritchaugment"
+  },
+  {
+   "name": "Magic Roll",
+   "tier": "S",
+   "icon": "magicalroll"
+  },
+  {
+   "name": "Portable Forge",
+   "tier": "S",
+   "icon": "portableforge_gold_big"
+  },
+  {
+   "name": "Spreading Roots",
+   "tier": "S",
+   "icon": "spreadingroots"
+  },
+  {
+   "name": "Spreading Roots+",
+   "tier": "S",
+   "icon": "spreadingroots"
+  },
+  {
+   "name": "Unrivaled",
+   "tier": "S",
+   "icon": "rivalstofriends"
+  },
+  {
+   "name": "Baron's Lair",
+   "tier": "S",
+   "icon": "thebaronslair"
+  },
+  {
+   "name": "Forged In Strength",
+   "tier": "S",
+   "icon": "forgedinstrength"
+  },
+  {
+   "name": "Living Forge",
+   "tier": "S",
+   "icon": "livingforge_gold_big"
+  },
+  {
+   "name": "Prismatic Ticket",
+   "tier": "S",
+   "icon": "prismaticticket_big"
+  },
+  {
+   "name": "Tactician's Kitchen",
+   "tier": "S",
+   "icon": "tacticians-kitchen"
+  },
+  {
+   "name": "The Trait Tree",
+   "tier": "S",
+   "icon": "thetraittree"
+  },
+  {
+   "name": "The Trait Tree+",
+   "tier": "S",
+   "icon": "thetraittree"
+  },
+  {
+   "name": "Band of Thieves",
+   "tier": "A",
+   "icon": "bandofthieves"
+  },
+  {
+   "name": "Caretaker's Ally",
+   "tier": "A",
+   "icon": "caretakersally"
+  },
+  {
+   "name": "Champ Delivery",
+   "tier": "A",
+   "icon": "champdelivery"
+  },
+  {
+   "name": "Champ Delivery+",
+   "tier": "A",
+   "icon": "champdelivery"
+  },
+  {
+   "name": "Champ Delivery++",
+   "tier": "A",
+   "icon": "champdelivery"
+  },
+  {
+   "name": "Component Buffet",
+   "tier": "A",
+   "icon": "componentbuffet_silver_big"
+  },
+  {
+   "name": "Expedition",
+   "tier": "A",
+   "icon": "expedition"
+  },
+  {
+   "name": "Good For Something I",
+   "tier": "A",
+   "icon": "goodforsomething"
+  },
+  {
+   "name": "Iron Assets",
+   "tier": "A",
+   "icon": "ironassets_silver_big"
+  },
+  {
+   "name": "Item Grab Bag I",
+   "tier": "A",
+   "icon": "itemgrabbag_gold_big"
+  },
+  {
+   "name": "Kick Start",
+   "tier": "A",
+   "icon": "kickstart"
+  },
+  {
+   "name": "Makeshift Armor I",
+   "tier": "A",
+   "icon": "makeshiftarmor"
+  },
+  {
+   "name": "Missed Connections",
+   "tier": "A",
+   "icon": "missedconnections_gold_big"
+  },
+  {
+   "name": "Pandora's Items I",
+   "tier": "A",
+   "icon": "pandorasitems"
+  },
+  {
+   "name": "Partial Ascension",
+   "tier": "A",
+   "icon": "ascension"
+  },
+  {
+   "name": "Patience Is A Virtue",
+   "tier": "A",
+   "icon": "patienceisavirtue"
+  },
+  {
+   "name": "Residual Magic",
+   "tier": "A",
+   "icon": "residual_magic"
+  },
+  {
+   "name": "Residual Magic +",
+   "tier": "A",
+   "icon": "residual_magic"
+  },
+  {
+   "name": "Residual Magic ++",
+   "tier": "A",
+   "icon": "residual_magic"
+  },
+  {
+   "name": "Silver Destiny",
+   "tier": "A",
+   "icon": "destiny"
+  },
+  {
+   "name": "Silver Destiny+",
+   "tier": "A",
+   "icon": "destiny"
+  },
+  {
+   "name": "Slice of Life",
+   "tier": "A",
+   "icon": "sliceoflife"
+  },
+  {
+   "name": "Slightly Magic Roll",
+   "tier": "A",
+   "icon": "slightlymagicroll_silver"
+  },
+  {
+   "name": "Small Grab Bag",
+   "tier": "A",
+   "icon": "smallgrabbag"
+  },
+  {
+   "name": "Stand United",
+   "tier": "A",
+   "icon": "standunited_gold_big"
+  },
+  {
+   "name": "Twin Guardians",
+   "tier": "A",
+   "icon": "twinguardians"
+  },
+  {
+   "name": "Verticality I",
+   "tier": "A",
+   "icon": "verticality"
+  },
+  {
+   "name": "Wisp Rebate",
+   "tier": "A",
+   "icon": "wisprebate"
+  },
+  {
+   "name": "Wisp Rebate+",
+   "tier": "A",
+   "icon": "wisprebate"
+  },
+  {
+   "name": "Big Grab Bag",
+   "tier": "A",
+   "icon": "biggrabbag_gold_big"
+  },
+  {
+   "name": "Birthday Reunion",
+   "tier": "A",
+   "icon": "birthdayreunion"
+  },
+  {
+   "name": "Bodyguard Training",
+   "tier": "A",
+   "icon": "bodyguardtraining"
+  },
+  {
+   "name": "Booster Pack",
+   "tier": "A",
+   "icon": "boosterpack1"
+  },
+  {
+   "name": "Booster Pack+",
+   "tier": "A",
+   "icon": "boosterpack3"
+  },
+  {
+   "name": "Booster Pack++",
+   "tier": "A",
+   "icon": "boosterpack2"
+  },
+  {
+   "name": "Caretaker's Favor",
+   "tier": "A",
+   "icon": "caretakersally"
+  },
+  {
+   "name": "Cluttered Mind",
+   "tier": "A",
+   "icon": "clutteredmind_gold_big"
+  },
+  {
+   "name": "Cooking Pot",
+   "tier": "A",
+   "icon": "cookingpot"
+  },
+  {
+   "name": "Cybernetic Implants",
+   "tier": "A",
+   "icon": "cybernetic_gold_big"
+  },
+  {
+   "name": "Cybernetic Uplink",
+   "tier": "A",
+   "icon": "cyberneticuplink"
+  },
+  {
+   "name": "Dark Ritual",
+   "tier": "A",
+   "icon": "covenaugment2"
+  },
+  {
+   "name": "Duo Queue",
+   "tier": "A",
+   "icon": "duoqueue"
+  },
+  {
+   "name": "Early Learnings",
+   "tier": "A",
+   "icon": "earlylearning"
+  },
+  {
+   "name": "Exclusive Customization",
+   "tier": "A",
+   "icon": "exclusivecustomization"
+  },
+  {
+   "name": "Explosive Growth",
+   "tier": "A",
+   "icon": "explosive-growth"
+  },
+  {
+   "name": "Explosive Growth+",
+   "tier": "A",
+   "icon": "explosive-growth"
+  },
+  {
+   "name": "Frontline Foundation",
+   "tier": "A",
+   "icon": "frontlinefoundation"
+  },
+  {
+   "name": "Gilded Steel",
+   "tier": "A",
+   "icon": "gildedsteel"
+  },
+  {
+   "name": "Gold Destiny",
+   "tier": "A",
+   "icon": "destiny"
+  },
+  {
+   "name": "Gold Destiny+",
+   "tier": "A",
+   "icon": "destiny"
+  },
+  {
+   "name": "Heroic Grab Bag",
+   "tier": "A",
+   "icon": "heroicgrabbag"
+  },
+  {
+   "name": "Heroic Grab Bag+",
+   "tier": "A",
+   "icon": "heroicgrabbag"
+  },
+  {
+   "name": "Heroic Grab Bag++",
+   "tier": "A",
+   "icon": "heroicgrabbag"
+  },
+  {
+   "name": "Infinity Protection",
+   "tier": "A",
+   "icon": "infinity-protection"
+  },
+  {
+   "name": "It's Me, Baby",
+   "tier": "A",
+   "icon": "itsmebaby"
+  },
+  {
+   "name": "Legion Of Threes",
+   "tier": "A",
+   "icon": "legionofthrees"
+  },
+  {
+   "name": "Max Build",
+   "tier": "A",
+   "icon": "maxbuild"
+  },
+  {
+   "name": "Money Hungry",
+   "tier": "A",
+   "icon": "money-hungry-1"
+  },
+  {
+   "name": "NO SCOUT NO PIVOT",
+   "tier": "A",
+   "icon": "noscoutnopivot_ii_tft_set13"
+  },
+  {
+   "name": "Omega Riftbeast",
+   "tier": "A",
+   "icon": "riftbeastaugment"
+  },
+  {
+   "name": "Pandora's Items II",
+   "tier": "A",
+   "icon": "pandorasitems"
+  },
+  {
+   "name": "Patient Study",
+   "tier": "A",
+   "icon": "patientstudy_gold_big"
+  },
+  {
+   "name": "Replication",
+   "tier": "A",
+   "icon": "replication"
+  },
+  {
+   "name": "Salvage Bin",
+   "tier": "A",
+   "icon": "salvage1"
+  },
+  {
+   "name": "Seraphim's Staff",
+   "tier": "A",
+   "icon": "seraphimsstaff"
+  },
+  {
+   "name": "Slammin'+",
+   "tier": "A",
+   "icon": "slammin"
+  },
+  {
+   "name": "Staffsmith",
+   "tier": "A",
+   "icon": "staffsmith"
+  },
+  {
+   "name": "Swordsmith",
+   "tier": "A",
+   "icon": "swordsmith"
+  },
+  {
+   "name": "Time Skip",
+   "tier": "A",
+   "icon": "timeskip"
+  },
+  {
+   "name": "Worth the Wait",
+   "tier": "A",
+   "icon": "worththewait"
+  },
+  {
+   "name": "Band of Thieves II+",
+   "tier": "A",
+   "icon": "bandofthieves"
+  },
+  {
+   "name": "Band of Thieves II++",
+   "tier": "A",
+   "icon": "bandofthieves"
+  },
+  {
+   "name": "Call To Chaos",
+   "tier": "A",
+   "icon": "calltochaos"
+  },
+  {
+   "name": "Comeback Story",
+   "tier": "A",
+   "icon": "comebackstory"
+  },
+  {
+   "name": "Commerce Core",
+   "tier": "A",
+   "icon": "commercecore"
+  },
+  {
+   "name": "Coronation",
+   "tier": "A",
+   "icon": "coronation"
+  },
+  {
+   "name": "Golden Gamble",
+   "tier": "A",
+   "icon": "goldengamble"
+  },
+  {
+   "name": "Golden Gamble+",
+   "tier": "A",
+   "icon": "goldengamble"
+  },
+  {
+   "name": "Golden Gamble++",
+   "tier": "A",
+   "icon": "goldengamble"
+  },
+  {
+   "name": "Hold the Line",
+   "tier": "A",
+   "icon": "holdtheline"
+  },
+  {
+   "name": "Invested++",
+   "tier": "A",
+   "icon": "invested"
+  },
+  {
+   "name": "Nesting Anvils",
+   "tier": "A",
+   "icon": "nestinganvils"
+  },
+  {
+   "name": "Nesting Anvils+",
+   "tier": "A",
+   "icon": "nestinganvils"
+  },
+  {
+   "name": "Prismatic Destiny",
+   "tier": "A",
+   "icon": "destiny"
+  },
+  {
+   "name": "Starring Up",
+   "tier": "A",
+   "icon": "starringup"
+  },
+  {
+   "name": "Trait Ladder",
+   "tier": "A",
+   "icon": "trait_ladder"
+  },
+  {
+   "name": "Upward Mobility",
+   "tier": "A",
+   "icon": "upwardmobility"
+  },
+  {
+   "name": "Augmented Power",
+   "tier": "C",
+   "icon": "augmentedpower"
+  },
+  {
+   "name": "Called Shot",
+   "tier": "C",
+   "icon": "calledshot"
+  },
+  {
+   "name": "Extra Buckles",
+   "tier": "C",
+   "icon": "extrabuckles_silver"
+  },
+  {
+   "name": "Forge A Friend",
+   "tier": "C",
+   "icon": "constructacompanion"
+  },
+  {
+   "name": "Loaded Dice",
+   "tier": "C",
+   "icon": "loaded_dice"
+  },
+  {
+   "name": "Ones Two Three",
+   "tier": "C",
+   "icon": "onetwosthree"
+  },
+  {
+   "name": "Quick Streaks",
+   "tier": "C",
+   "icon": "rapidstreaker"
+  },
+  {
+   "name": "Recombobulator",
+   "tier": "C",
+   "icon": "recombobulator"
+  },
+  {
+   "name": "Clear Mind",
+   "tier": "C",
+   "icon": "clearmind_gold_big"
+  },
+  {
+   "name": "Healing Orbs II",
+   "tier": "C",
+   "icon": "healingorbs_gold_big"
+  },
+  {
+   "name": "Hustler",
+   "tier": "C",
+   "icon": "hustler"
+  },
+  {
+   "name": "Pilfer",
+   "tier": "C",
+   "icon": "pilfer"
+  },
+  {
+   "name": "Tons of Stats!",
+   "tier": "C",
+   "icon": "tonsofstats"
+  },
+  {
+   "name": "Band of Thieves II",
+   "tier": "C",
+   "icon": "bandofthieves"
+  },
+  {
+   "name": "Birthday Present",
+   "tier": "C",
+   "icon": "goldengifts"
+  },
+  {
+   "name": "Build A Bud",
+   "tier": "C",
+   "icon": "buildabud"
+  },
+  {
+   "name": "Component Quest",
+   "tier": "C",
+   "icon": "componentquest"
+  },
+  {
+   "name": "Going Long",
+   "tier": "C",
+   "icon": "goinglong"
+  },
+  {
+   "name": "Hard Commit",
+   "tier": "C",
+   "icon": "hard-commit_tft_set12"
+  },
+  {
+   "name": "Hedge Fund",
+   "tier": "C",
+   "icon": "hedgefund_gold_big"
+  },
+  {
+   "name": "Luxury Subscription",
+   "tier": "C",
+   "icon": "luxury-subscription"
+  },
+  {
+   "name": "Min-Max",
+   "tier": "C",
+   "icon": "minmax_prismatic"
+  },
+  {
+   "name": "Nesting Dolls",
+   "tier": "C",
+   "icon": "nestingdolls"
+  },
+  {
+   "name": "Subscription Service",
+   "tier": "C",
+   "icon": "subscriptionservice"
+  },
+  {
+   "name": "The Golden Egg",
+   "tier": "C",
+   "icon": "the-golden-egg-iii"
+  },
+  {
+   "name": "We Stick Together",
+   "tier": "C",
+   "icon": "westicktogeter"
+  }
+ ]
+}
