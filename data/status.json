@@ -1,5 +1,5 @@
 {
- "ranAt": "2026-09-09T06:55:19Z",
+ "ranAt": "2026-09-10T06:51:42Z",
  "set": {
   "ok": true,
   "number": 18.0,
@@ -12,14 +12,13 @@
    "5": 10
   },
   "traits": 36,
-  "items": 96,
-  "artifacts": 31,
+  "items": 94,
+  "artifacts": 29,
   "artifactNames": [
    "Aegis of Dawn",
    "Aegis of Dusk",
    "Blighting Jewel",
    "Dawncore",
-   "Death's Defiance",
    "Eternal Pact",
    "Fishbones",
    "Flickerblades",
@@ -28,7 +27,6 @@
    "Gold Collector",
    "Hellfire Hatchet",
    "Horizon Focus",
-   "Hullcrusher",
    "Infinity Force",
    "Lich Bane",
    "Lightshield Crest",
