@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-14T07:24:00Z",
+ "fetchedAt": "2026-09-14T07:43:41Z",
  "source": "metatft.com",
  "filter": "แพลตตินัม+ · 3 วัน",
  "comps": [
@@ -587,7 +587,7 @@
   {
    "name": "Hunter Sivir Amumu",
    "tier": "S",
-   "avg": 4.22,
+   "avg": 4.21,
    "win": 16.7,
    "plan": "Fast 9",
    "steps": [],
@@ -3079,7 +3079,7 @@
   {
    "name": "Invoker Morgana",
    "tier": "A",
-   "avg": 4.45,
+   "avg": 4.44,
    "win": 11.3,
    "plan": "Fast 8",
    "steps": [],
@@ -3356,7 +3356,7 @@
   {
    "name": "Rival Rengar",
    "tier": "A",
-   "avg": 4.46,
+   "avg": 4.47,
    "win": 12,
    "plan": "lvl 7",
    "steps": [],
@@ -6162,7 +6162,7 @@
    "name": "Spellweaver LeBlanc",
    "tier": "B",
    "avg": 4.58,
-   "win": 7.1,
+   "win": 7.2,
    "plan": "lvl 6",
    "steps": [],
    "early": [
@@ -8391,7 +8391,7 @@
    "name": "Lunar Kayle",
    "tier": "C",
    "avg": 4.76,
-   "win": 9,
+   "win": 8.9,
    "plan": "lvl 6",
    "steps": [],
    "early": [
@@ -9420,7 +9420,7 @@
    "name": "Lunar Aphelios",
    "tier": "C",
    "avg": 4.87,
-   "win": 10.6,
+   "win": 10.7,
    "plan": "Fast 9",
    "steps": [],
    "early": [
@@ -11661,7 +11661,7 @@
    "name": "Inferno Amumu",
    "tier": "D",
    "avg": 5.46,
-   "win": 10.3,
+   "win": 10.2,
    "plan": "Fast 9",
    "steps": [],
    "early": [
@@ -14522,7 +14522,7 @@
    "tier": "A",
    "avg": 4.39,
    "win": 11.9,
-   "freq": 19.5,
+   "freq": 19.4,
    "items": [
     "Gargoyle Stoneplate",
     "Warmogs Armor",
@@ -14674,7 +14674,7 @@
   {
    "unit": "Varus",
    "tier": "B",
-   "avg": 4.53,
+   "avg": 4.52,
    "win": 8.3,
    "freq": 11.4,
    "items": [
@@ -14983,7 +14983,7 @@
    "unit": "Veigar",
    "tier": "C",
    "avg": 4.72,
-   "win": 8.3,
+   "win": 8.4,
    "freq": 7.6,
    "items": [
     "Jeweled Gauntlet",
