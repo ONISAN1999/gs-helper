@@ -1,5 +1,5 @@
 {
- "ranAt": "2026-09-22T07:05:33Z",
+ "ranAt": "2026-09-23T07:02:58Z",
  "set": {
   "ok": true,
   "number": 18.0,
@@ -12,8 +12,8 @@
    "5": 10
   },
   "traits": 36,
-  "items": 94,
-  "artifacts": 29,
+  "items": 95,
+  "artifacts": 30,
   "artifactNames": [
    "Aegis of Dawn",
    "Aegis of Dusk",
@@ -27,6 +27,7 @@
    "Gold Collector",
    "Hellfire Hatchet",
    "Horizon Focus",
+   "Hullcrusher",
    "Infinity Force",
    "Lich Bane",
    "Lightshield Crest",
