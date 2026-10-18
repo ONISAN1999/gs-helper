@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-17T06:25:11Z",
+ "fetchedAt": "2026-10-18T06:50:27Z",
  "source": "metatft.com",
  "filter": "แพลตตินัม+ · 3 วัน",
  "comps": [
@@ -54,7 +54,7 @@
       "Soraka",
       "Zyra"
      ],
-     42.1
+     42.4
     ],
     [
      [
@@ -69,7 +69,7 @@
       "Soraka",
       "Zyra"
      ],
-     42.1
+     42.4
     ],
     [
      [
@@ -78,7 +78,7 @@
       "Veigar",
       "Azir"
      ],
-     42.1
+     42.4
     ],
     [
      [
@@ -87,7 +87,7 @@
       "Veigar",
       "Azir"
      ],
-     42.1
+     42.4
     ],
     [
      [
@@ -96,7 +96,7 @@
       "Veigar",
       "Azir"
      ],
-     42.1
+     42.4
     ],
     [
      [
@@ -106,7 +106,7 @@
       "Rammus",
       "Fiddlesticks"
      ],
-     65.8
+     65.3
     ],
     [
      [
@@ -116,7 +116,7 @@
       "Rammus",
       "Fiddlesticks"
      ],
-     65.8
+     65.3
     ],
     [
      [
@@ -126,7 +126,7 @@
       "Rammus",
       "Fiddlesticks"
      ],
-     65.8
+     65.3
     ],
     [
      [
@@ -288,8 +288,8 @@
   {
    "name": "Vanguard Morgana",
    "tier": "S",
-   "avg": 4.13,
-   "win": 20.4,
+   "avg": 4.11,
+   "win": 20.7,
    "plan": "Fast 9",
    "steps": [],
    "early": [
@@ -330,7 +330,7 @@
       "Rakan",
       "Hecarim"
      ],
-     30.6
+     30.8
     ],
     [
      [
@@ -343,7 +343,7 @@
       "Rakan",
       "Hecarim"
      ],
-     30.6
+     30.8
     ],
     [
      [
@@ -352,7 +352,7 @@
       "Elise",
       "Cassiopeia"
      ],
-     30.6
+     30.8
     ],
     [
      [
@@ -361,7 +361,7 @@
       "Elise",
       "Cassiopeia"
      ],
-     30.6
+     30.8
     ],
     [
      [
@@ -370,7 +370,7 @@
       "Elise",
       "Cassiopeia"
      ],
-     30.6
+     30.8
     ],
     [
      [
@@ -380,7 +380,7 @@
       "Cassiopeia",
       "Diana"
      ],
-     55.8
+     55.6
     ],
     [
      [
@@ -390,7 +390,7 @@
       "Cassiopeia",
       "Diana"
      ],
-     55.8
+     55.6
     ],
     [
      [
@@ -400,7 +400,7 @@
       "Cassiopeia",
       "Diana"
      ],
-     55.8
+     55.6
     ],
     [
      [
@@ -411,7 +411,7 @@
       "Diana",
       "Fiddlesticks"
      ],
-     45.6
+     44.9
     ],
     [
      [
@@ -422,7 +422,7 @@
       "Diana",
       "Fiddlesticks"
      ],
-     45.6
+     44.9
     ],
     [
      [
@@ -433,7 +433,7 @@
       "Diana",
       "Fiddlesticks"
      ],
-     45.6
+     44.9
     ],
     [
      [
@@ -445,7 +445,7 @@
       "Diana",
       "Hecarim"
      ],
-     49.4
+     50.4
     ],
     [
      [
@@ -457,7 +457,7 @@
       "Diana",
       "Hecarim"
      ],
-     49.4
+     50.4
     ],
     [
      [
@@ -469,7 +469,7 @@
       "Diana",
       "Hecarim"
      ],
-     49.4
+     50.4
     ]
    ],
    "board": [
@@ -527,9 +527,9 @@
     [
      "Sentinel",
      [
-      "Gargoyle Stoneplate",
       "Protector's Vow",
-      "Warmog's Armor"
+      "Protector's Vow",
+      "Spirit Visage"
      ]
     ],
     [
@@ -572,7 +572,7 @@
       "Brambleback",
       "Sentinel"
      ],
-     11.6
+     11.4
     ],
     [
      [
@@ -586,7 +586,7 @@
       "Brambleback",
       "Sentinel"
      ],
-     11.6
+     11.4
     ],
     [
      [
@@ -600,7 +600,7 @@
       "Brambleback",
       "Sentinel"
      ],
-     56.2
+     56.8
     ],
     [
      [
@@ -614,16 +614,7 @@
       "Brambleback",
       "Sentinel"
      ],
-     56.2
-    ],
-    [
-     [
-      "Rakan",
-      "Pebbles",
-      "Cinderling",
-      "Scuttlecrab"
-     ],
-     56.2
+     56.8
     ],
     [
      [
@@ -632,7 +623,7 @@
       "Cinderling",
       "Scuttlecrab"
      ],
-     56.2
+     56.8
     ],
     [
      [
@@ -641,7 +632,16 @@
       "Cinderling",
       "Scuttlecrab"
      ],
-     56.2
+     56.8
+    ],
+    [
+     [
+      "Rakan",
+      "Pebbles",
+      "Cinderling",
+      "Scuttlecrab"
+     ],
+     56.8
     ],
     [
      [
@@ -651,7 +651,7 @@
       "Scuttlecrab",
       "Krug"
      ],
-     53.6
+     53.8
     ],
     [
      [
@@ -661,7 +661,7 @@
       "Scuttlecrab",
       "Krug"
      ],
-     53.6
+     53.8
     ],
     [
      [
@@ -671,29 +671,7 @@
       "Scuttlecrab",
       "Krug"
      ],
-     53.6
-    ],
-    [
-     [
-      "Pebbles",
-      "Cinderling",
-      "Gromp",
-      "Murkwolf",
-      "Scuttlecrab",
-      "Krug"
-     ],
-     50.2
-    ],
-    [
-     [
-      "Pebbles",
-      "Cinderling",
-      "Gromp",
-      "Murkwolf",
-      "Scuttlecrab",
-      "Krug"
-     ],
-     50.2
+     53.8
     ],
     [
      [
@@ -704,7 +682,29 @@
       "Scuttlecrab",
       "Krug"
      ],
-     50.2
+     50.1
+    ],
+    [
+     [
+      "Pebbles",
+      "Cinderling",
+      "Gromp",
+      "Murkwolf",
+      "Scuttlecrab",
+      "Krug"
+     ],
+     50.1
+    ],
+    [
+     [
+      "Pebbles",
+      "Cinderling",
+      "Gromp",
+      "Murkwolf",
+      "Scuttlecrab",
+      "Krug"
+     ],
+     50.1
     ],
     [
      [
@@ -716,7 +716,7 @@
       "Brambleback",
       "Sentinel"
      ],
-     66.9
+     67
     ],
     [
      [
@@ -728,7 +728,7 @@
       "Brambleback",
       "Sentinel"
      ],
-     66.9
+     67
     ],
     [
      [
@@ -740,7 +740,7 @@
       "Brambleback",
       "Sentinel"
      ],
-     66.9
+     67
     ]
    ],
    "board": [
@@ -830,7 +830,7 @@
    "name": "Lunar Aphelios Nidalee",
    "tier": "S",
    "avg": 4.22,
-   "win": 8.4,
+   "win": 8.3,
    "plan": "Fast 8",
    "steps": [],
    "early": [
@@ -849,7 +849,7 @@
       "Amumu",
       "Nidalee"
      ],
-     0.1
+     0.2
     ],
     [
      [
@@ -866,7 +866,7 @@
       "Amumu",
       "Nidalee"
      ],
-     0.1
+     0.2
     ],
     [
      [
@@ -883,7 +883,7 @@
       "Amumu",
       "Nidalee"
      ],
-     50.3
+     51.4
     ],
     [
      [
@@ -900,7 +900,7 @@
       "Amumu",
       "Nidalee"
      ],
-     50.3
+     51.4
     ],
     [
      [
@@ -909,7 +909,7 @@
       "Varus",
       "Shen"
      ],
-     50.3
+     51.4
     ],
     [
      [
@@ -918,7 +918,7 @@
       "Varus",
       "Shen"
      ],
-     50.3
+     51.4
     ],
     [
      [
@@ -927,17 +927,7 @@
       "Varus",
       "Shen"
      ],
-     50.3
-    ],
-    [
-     [
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Shen"
-     ],
-     66.1
+     51.4
     ],
     [
      [
@@ -947,7 +937,7 @@
       "Xayah",
       "Shen"
      ],
-     66.1
+     66.3
     ],
     [
      [
@@ -957,7 +947,7 @@
       "Xayah",
       "Shen"
      ],
-     66.1
+     66.3
     ],
     [
      [
@@ -965,10 +955,9 @@
       "Ornn",
       "Varus",
       "Xayah",
-      "Alistar",
       "Shen"
      ],
-     49
+     66.3
     ],
     [
      [
@@ -979,7 +968,7 @@
       "Alistar",
       "Shen"
      ],
-     49
+     48.1
     ],
     [
      [
@@ -990,7 +979,18 @@
       "Alistar",
       "Shen"
      ],
-     49
+     48.1
+    ],
+    [
+     [
+      "Akali",
+      "Ornn",
+      "Varus",
+      "Xayah",
+      "Alistar",
+      "Shen"
+     ],
+     48.1
     ],
     [
      [
@@ -1002,7 +1002,7 @@
       "Amumu",
       "Nidalee"
      ],
-     59.4
+     61.1
     ],
     [
      [
@@ -1014,7 +1014,7 @@
       "Amumu",
       "Nidalee"
      ],
-     59.4
+     61.1
     ],
     [
      [
@@ -1026,7 +1026,7 @@
       "Amumu",
       "Nidalee"
      ],
-     59.4
+     61.1
     ]
    ],
    "board": [
@@ -1120,8 +1120,8 @@
   {
    "name": "Invoker Teemo Alistar",
    "tier": "A",
-   "avg": 4.27,
-   "win": 6.8,
+   "avg": 4.26,
+   "win": 6.7,
    "plan": "lvl 6",
    "steps": [],
    "early": [
@@ -1135,7 +1135,7 @@
       "Hecarim",
       "Sentinel"
      ],
-     29.3
+     29.1
     ],
     [
      [
@@ -1147,7 +1147,7 @@
       "Hecarim",
       "Sentinel"
      ],
-     29.3
+     29.1
     ],
     [
      [
@@ -1159,7 +1159,7 @@
       "Hecarim",
       "Sentinel"
      ],
-     62
+     62.3
     ],
     [
      [
@@ -1171,7 +1171,7 @@
       "Hecarim",
       "Sentinel"
      ],
-     62
+     62.3
     ],
     [
      [
@@ -1180,7 +1180,7 @@
       "Alistar",
       "Teemo"
      ],
-     62
+     62.3
     ],
     [
      [
@@ -1189,7 +1189,7 @@
       "Alistar",
       "Teemo"
      ],
-     62
+     62.3
     ],
     [
      [
@@ -1198,17 +1198,7 @@
       "Alistar",
       "Teemo"
      ],
-     62
-    ],
-    [
-     [
-      "Kobuko",
-      "Veigar",
-      "Alistar",
-      "LeBlanc",
-      "Teemo"
-     ],
-     66
+     62.3
     ],
     [
      [
@@ -1218,7 +1208,7 @@
       "LeBlanc",
       "Teemo"
      ],
-     66
+     67.2
     ],
     [
      [
@@ -1228,7 +1218,17 @@
       "LeBlanc",
       "Teemo"
      ],
-     66
+     67.2
+    ],
+    [
+     [
+      "Kobuko",
+      "Veigar",
+      "Alistar",
+      "LeBlanc",
+      "Teemo"
+     ],
+     67.2
     ],
     [
      [
@@ -1239,7 +1239,7 @@
       "Teemo",
       "Hecarim"
      ],
-     65.7
+     66.1
     ],
     [
      [
@@ -1250,7 +1250,7 @@
       "Teemo",
       "Hecarim"
      ],
-     65.7
+     66.1
     ],
     [
      [
@@ -1261,7 +1261,7 @@
       "Teemo",
       "Hecarim"
      ],
-     65.7
+     66.1
     ],
     [
      [
@@ -1273,7 +1273,7 @@
       "Hecarim",
       "Sentinel"
      ],
-     60.7
+     61
     ],
     [
      [
@@ -1285,7 +1285,7 @@
       "Hecarim",
       "Sentinel"
      ],
-     60.7
+     61
     ],
     [
      [
@@ -1297,7 +1297,7 @@
       "Hecarim",
       "Sentinel"
      ],
-     60.7
+     61
     ]
    ],
    "board": [
@@ -1369,7 +1369,7 @@
     [
      "LeBlanc",
      [
-      "Giant Slayer",
+      "Jeweled Gauntlet",
       "Rabadon's Deathcap",
       "Spear of Shojin"
      ]
@@ -1377,7 +1377,7 @@
     [
      "Hecarim",
      [
-      "Crownguard",
+      "Gargoyle Stoneplate",
       "Gargoyle Stoneplate",
       "Warmog's Armor"
      ]
@@ -1397,7 +1397,7 @@
   {
    "name": "Vanguard Alune",
    "tier": "A",
-   "avg": 4.27,
+   "avg": 4.28,
    "win": 18.7,
    "plan": "Fast 9",
    "steps": [],
@@ -1439,7 +1439,7 @@
       "Fiddlesticks",
       "Hecarim"
      ],
-     28.6
+     28.2
     ],
     [
      [
@@ -1452,7 +1452,7 @@
       "Fiddlesticks",
       "Hecarim"
      ],
-     28.6
+     28.2
     ],
     [
      [
@@ -1461,7 +1461,7 @@
       "Elise",
       "Cassiopeia"
      ],
-     28.6
+     28.2
     ],
     [
      [
@@ -1470,7 +1470,7 @@
       "Elise",
       "Cassiopeia"
      ],
-     28.6
+     28.2
     ],
     [
      [
@@ -1479,17 +1479,7 @@
       "Elise",
       "Cassiopeia"
      ],
-     28.6
-    ],
-    [
-     [
-      "Camille",
-      "Rakan",
-      "Caitlyn",
-      "Elise",
-      "Cassiopeia"
-     ],
-     55.5
+     28.2
     ],
     [
      [
@@ -1499,7 +1489,7 @@
       "Elise",
       "Cassiopeia"
      ],
-     55.5
+     54
     ],
     [
      [
@@ -1509,7 +1499,17 @@
       "Elise",
       "Cassiopeia"
      ],
-     55.5
+     54
+    ],
+    [
+     [
+      "Camille",
+      "Rakan",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia"
+     ],
+     54
     ],
     [
      [
@@ -1520,7 +1520,7 @@
       "Diana",
       "Fiddlesticks"
      ],
-     40.1
+     40
     ],
     [
      [
@@ -1531,7 +1531,7 @@
       "Diana",
       "Fiddlesticks"
      ],
-     40.1
+     40
     ],
     [
      [
@@ -1542,7 +1542,7 @@
       "Diana",
       "Fiddlesticks"
      ],
-     40.1
+     40
     ],
     [
      [
@@ -1554,7 +1554,7 @@
       "Diana",
       "Hecarim"
      ],
-     53
+     54.2
     ],
     [
      [
@@ -1566,7 +1566,7 @@
       "Diana",
       "Hecarim"
      ],
-     53
+     54.2
     ],
     [
      [
@@ -1578,7 +1578,7 @@
       "Diana",
       "Hecarim"
      ],
-     53
+     54.2
     ]
    ],
    "board": [
@@ -1633,9 +1633,9 @@
     [
      "Alune",
      [
-      "Jeweled Gauntlet",
-      "Nashor's Tooth",
-      "Nashor's Tooth"
+      "Archangel's Staff",
+      "Blue Buff",
+      "Jeweled Gauntlet"
      ]
     ],
     [
@@ -1650,8 +1650,8 @@
      "Sentinel",
      [
       "Adaptive Helm",
-      "Protector's Vow",
-      "Spirit Visage"
+      "Gargoyle Stoneplate",
+      "Warmog's Armor"
      ]
     ],
     [
@@ -1678,7 +1678,7 @@
   {
    "name": "Executioner Kha'Zix",
    "tier": "A",
-   "avg": 4.36,
+   "avg": 4.35,
    "win": 13.1,
    "plan": "lvl 7",
    "steps": [],
@@ -1697,7 +1697,7 @@
       "Ezreal",
       "Soraka"
      ],
-     46.6
+     46.3
     ],
     [
      [
@@ -1713,7 +1713,7 @@
       "Ezreal",
       "Soraka"
      ],
-     46.6
+     46.3
     ],
     [
      [
@@ -1729,7 +1729,7 @@
       "Ezreal",
       "Soraka"
      ],
-     54.5
+     55.5
     ],
     [
      [
@@ -1745,7 +1745,7 @@
       "Ezreal",
       "Soraka"
      ],
-     54.5
+     55.5
     ],
     [
      [
@@ -1754,7 +1754,7 @@
       "Yunara",
       "Kha'Zix"
      ],
-     54.5
+     55.5
     ],
     [
      [
@@ -1763,7 +1763,7 @@
       "Yunara",
       "Kha'Zix"
      ],
-     54.5
+     55.5
     ],
     [
      [
@@ -1772,7 +1772,7 @@
       "Yunara",
       "Kha'Zix"
      ],
-     54.5
+     55.5
     ],
     [
      [
@@ -1783,7 +1783,7 @@
       "Kha'Zix",
       "Fiddlesticks"
      ],
-     64.4
+     65.3
     ],
     [
      [
@@ -1794,7 +1794,7 @@
       "Kha'Zix",
       "Fiddlesticks"
      ],
-     64.4
+     65.3
     ],
     [
      [
@@ -1805,7 +1805,7 @@
       "Kha'Zix",
       "Fiddlesticks"
      ],
-     64.4
+     65.3
     ],
     [
      [
@@ -1914,9 +1914,9 @@
     [
      "Diana",
      [
-      "Executioner Emblem",
       "Hand Of Justice",
-      "Ionic Spark"
+      "Ionic Spark",
+      "Jeweled Gauntlet"
      ]
     ]
    ],
@@ -1934,7 +1934,7 @@
    "name": "Invoker Morgana",
    "tier": "A",
    "avg": 4.36,
-   "win": 12.7,
+   "win": 12.8,
    "plan": "Fast 8",
    "steps": [],
    "early": [
@@ -1949,7 +1949,7 @@
       "Hecarim",
       "Sentinel"
      ],
-     2.3
+     2.2
     ],
     [
      [
@@ -1962,7 +1962,7 @@
       "Hecarim",
       "Sentinel"
      ],
-     2.3
+     2.2
     ],
     [
      [
@@ -1975,7 +1975,7 @@
       "Hecarim",
       "Sentinel"
      ],
-     26.9
+     27
     ],
     [
      [
@@ -1988,7 +1988,7 @@
       "Hecarim",
       "Sentinel"
      ],
-     26.9
+     27
     ],
     [
      [
@@ -1997,7 +1997,7 @@
       "Elise",
       "Cassiopeia"
      ],
-     26.9
+     27
     ],
     [
      [
@@ -2006,7 +2006,7 @@
       "Elise",
       "Cassiopeia"
      ],
-     26.9
+     27
     ],
     [
      [
@@ -2015,7 +2015,7 @@
       "Elise",
       "Cassiopeia"
      ],
-     26.9
+     27
     ],
     [
      [
@@ -2025,7 +2025,7 @@
       "Cassiopeia",
       "Diana"
      ],
-     54.2
+     53
     ],
     [
      [
@@ -2035,7 +2035,7 @@
       "Cassiopeia",
       "Diana"
      ],
-     54.2
+     53
     ],
     [
      [
@@ -2045,7 +2045,7 @@
       "Cassiopeia",
       "Diana"
      ],
-     54.2
+     53
     ],
     [
      [
@@ -2056,7 +2056,7 @@
       "Diana",
       "Morgana"
      ],
-     40.8
+     37.4
     ],
     [
      [
@@ -2067,7 +2067,7 @@
       "Diana",
       "Morgana"
      ],
-     40.8
+     37.4
     ],
     [
      [
@@ -2078,7 +2078,7 @@
       "Diana",
       "Morgana"
      ],
-     40.8
+     37.4
     ],
     [
      [
@@ -2090,7 +2090,7 @@
       "Hecarim",
       "Sentinel"
      ],
-     45.8
+     42.6
     ],
     [
      [
@@ -2102,7 +2102,7 @@
       "Hecarim",
       "Sentinel"
      ],
-     45.8
+     42.6
     ],
     [
      [
@@ -2114,7 +2114,7 @@
       "Hecarim",
       "Sentinel"
      ],
-     45.8
+     42.6
     ]
    ],
    "board": [
@@ -2169,7 +2169,7 @@
     [
      "Morgana",
      [
-      "Vanguard Emblem",
+      "Hextech Gunblade",
       "Morellonomicon",
       "Void Staff"
      ]
@@ -2185,17 +2185,17 @@
     [
      "Brambleback",
      [
-      "Bloodthirster",
       "Edge of Night",
+      "Hand Of Justice",
       "Quicksilver"
      ]
     ],
     [
      "Alune",
      [
-      "Archangel's Staff",
+      "Blue Buff",
       "Jeweled Gauntlet",
-      "Spear of Shojin"
+      "Rabadon's Deathcap"
      ]
     ]
    ],
@@ -2214,7 +2214,7 @@
   {
    "name": "Spellweaver Veigar",
    "tier": "A",
-   "avg": 4.39,
+   "avg": 4.38,
    "win": 13.3,
    "plan": "lvl 5",
    "steps": [],
@@ -2229,7 +2229,7 @@
       "Fiddlesticks",
       "Cassiopeia"
      ],
-     38.4
+     38.3
     ],
     [
      [
@@ -2241,7 +2241,7 @@
       "Fiddlesticks",
       "Cassiopeia"
      ],
-     38.4
+     38.3
     ],
     [
      [
@@ -2253,7 +2253,7 @@
       "Fiddlesticks",
       "Cassiopeia"
      ],
-     36.8
+     36.7
     ],
     [
      [
@@ -2265,7 +2265,7 @@
       "Fiddlesticks",
       "Cassiopeia"
      ],
-     36.8
+     36.7
     ],
     [
      [
@@ -2274,7 +2274,7 @@
       "Veigar",
       "LeBlanc"
      ],
-     36.8
+     36.7
     ],
     [
      [
@@ -2283,7 +2283,7 @@
       "Veigar",
       "LeBlanc"
      ],
-     36.8
+     36.7
     ],
     [
      [
@@ -2292,7 +2292,7 @@
       "Veigar",
       "LeBlanc"
      ],
-     36.8
+     36.7
     ],
     [
      [
@@ -2367,7 +2367,7 @@
       "Cassiopeia",
       "Fiddlesticks"
      ],
-     61.2
+     61.3
     ],
     [
      [
@@ -2379,7 +2379,7 @@
       "Cassiopeia",
       "Fiddlesticks"
      ],
-     61.2
+     61.3
     ],
     [
      [
@@ -2391,7 +2391,7 @@
       "Cassiopeia",
       "Fiddlesticks"
      ],
-     61.2
+     61.3
     ]
    ],
    "board": [
@@ -2443,7 +2443,7 @@
      "Veigar",
      [
       "Flora Fatalis Emblem",
-      "Hextech Gunblade",
+      "Blue Buff",
       "Jeweled Gauntlet"
      ]
     ],
@@ -2466,8 +2466,8 @@
     [
      "LeBlanc",
      [
+      "Blue Buff",
       "Morellonomicon",
-      "Spear of Shojin",
       "Void Staff"
      ]
     ]
@@ -2486,7 +2486,7 @@
    "name": "Invoker Teemo",
    "tier": "A",
    "avg": 4.39,
-   "win": 7.3,
+   "win": 7.1,
    "plan": "lvl 6",
    "steps": [],
    "early": [
@@ -2502,7 +2502,7 @@
       "Krug",
       "Sentinel"
      ],
-     23.2
+     23
     ],
     [
      [
@@ -2516,7 +2516,7 @@
       "Krug",
       "Sentinel"
      ],
-     23.2
+     23
     ],
     [
      [
@@ -2530,7 +2530,7 @@
       "Krug",
       "Sentinel"
      ],
-     67
+     68
     ],
     [
      [
@@ -2544,7 +2544,7 @@
       "Krug",
       "Sentinel"
      ],
-     67
+     68
     ],
     [
      [
@@ -2553,7 +2553,7 @@
       "Veigar",
       "Teemo"
      ],
-     67
+     68
     ],
     [
      [
@@ -2562,7 +2562,7 @@
       "Veigar",
       "Teemo"
      ],
-     67
+     68
     ],
     [
      [
@@ -2571,17 +2571,7 @@
       "Veigar",
       "Teemo"
      ],
-     67
-    ],
-    [
-     [
-      "Kobuko",
-      "Rek'Sai",
-      "Pebbles",
-      "Veigar",
-      "Teemo"
-     ],
-     77.3
+     68
     ],
     [
      [
@@ -2591,7 +2581,7 @@
       "Veigar",
       "Teemo"
      ],
-     77.3
+     78.8
     ],
     [
      [
@@ -2601,7 +2591,17 @@
       "Veigar",
       "Teemo"
      ],
-     77.3
+     78.8
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Pebbles",
+      "Veigar",
+      "Teemo"
+     ],
+     78.8
     ],
     [
      [
@@ -2612,7 +2612,7 @@
       "Fiddlesticks",
       "Krug"
      ],
-     72.9
+     69.2
     ],
     [
      [
@@ -2623,7 +2623,7 @@
       "Fiddlesticks",
       "Krug"
      ],
-     72.9
+     69.2
     ],
     [
      [
@@ -2634,7 +2634,7 @@
       "Fiddlesticks",
       "Krug"
      ],
-     72.9
+     69.2
     ],
     [
      [
@@ -2646,7 +2646,7 @@
       "Krug",
       "Sentinel"
      ],
-     54.6
+     56.7
     ],
     [
      [
@@ -2658,7 +2658,7 @@
       "Krug",
       "Sentinel"
      ],
-     54.6
+     56.7
     ],
     [
      [
@@ -2670,7 +2670,7 @@
       "Krug",
       "Sentinel"
      ],
-     54.6
+     56.7
     ]
    ],
    "board": [
@@ -2724,8 +2724,8 @@
      "Teemo",
      [
       "Hextech Gunblade",
-      "Jeweled Gauntlet",
-      "Striker's Flail"
+      "Rabadon's Deathcap",
+      "Rabadon's Deathcap"
      ]
     ],
     [
@@ -2748,8 +2748,8 @@
      "Sentinel",
      [
       "Gargoyle Stoneplate",
-      "Spirit Visage",
-      "Warmog's Armor"
+      "Protector's Vow",
+      "Protector's Vow"
      ]
     ]
    ],
@@ -2765,9 +2765,290 @@
    ]
   },
   {
+   "name": "Elderwood Draven",
+   "tier": "A",
+   "avg": 4.41,
+   "win": 18.5,
+   "plan": "Fast 9",
+   "steps": [],
+   "early": [
+    [
+     [
+      "Ornn",
+      "Varus",
+      "Xayah",
+      "Alistar",
+      "Shen",
+      "Akali",
+      "LeBlanc",
+      "Hecarim"
+     ],
+     0.2
+    ],
+    [
+     [
+      "Ornn",
+      "Varus",
+      "Xayah",
+      "Alistar",
+      "Shen",
+      "Akali",
+      "LeBlanc",
+      "Hecarim"
+     ],
+     0.2
+    ],
+    [
+     [
+      "Ornn",
+      "Varus",
+      "Xayah",
+      "Alistar",
+      "Shen",
+      "Akali",
+      "LeBlanc",
+      "Hecarim"
+     ],
+     64.2
+    ],
+    [
+     [
+      "Ornn",
+      "Varus",
+      "Xayah",
+      "Alistar",
+      "Shen",
+      "Akali",
+      "LeBlanc",
+      "Hecarim"
+     ],
+     64.2
+    ],
+    [
+     [
+      "Ornn",
+      "Varus",
+      "Xayah",
+      "Alistar"
+     ],
+     64.2
+    ],
+    [
+     [
+      "Ornn",
+      "Varus",
+      "Xayah",
+      "Alistar"
+     ],
+     64.2
+    ],
+    [
+     [
+      "Ornn",
+      "Varus",
+      "Xayah",
+      "Alistar"
+     ],
+     64.2
+    ],
+    [
+     [
+      "Ornn",
+      "Varus",
+      "Xayah",
+      "Alistar",
+      "Shen"
+     ],
+     80.9
+    ],
+    [
+     [
+      "Ornn",
+      "Varus",
+      "Xayah",
+      "Alistar",
+      "Shen"
+     ],
+     80.9
+    ],
+    [
+     [
+      "Ornn",
+      "Varus",
+      "Xayah",
+      "Alistar",
+      "Shen"
+     ],
+     80.9
+    ],
+    [
+     [
+      "Akali",
+      "Ornn",
+      "Varus",
+      "Xayah",
+      "Alistar",
+      "Shen"
+     ],
+     59.4
+    ],
+    [
+     [
+      "Akali",
+      "Ornn",
+      "Varus",
+      "Xayah",
+      "Alistar",
+      "Shen"
+     ],
+     59.4
+    ],
+    [
+     [
+      "Akali",
+      "Ornn",
+      "Varus",
+      "Xayah",
+      "Alistar",
+      "Shen"
+     ],
+     59.4
+    ],
+    [
+     [
+      "Ornn",
+      "Varus",
+      "Xayah",
+      "Alistar",
+      "LeBlanc",
+      "Shen",
+      "Hecarim"
+     ],
+     69.9
+    ],
+    [
+     [
+      "Ornn",
+      "Varus",
+      "Xayah",
+      "Alistar",
+      "LeBlanc",
+      "Shen",
+      "Hecarim"
+     ],
+     69.9
+    ],
+    [
+     [
+      "Ornn",
+      "Varus",
+      "Xayah",
+      "Alistar",
+      "LeBlanc",
+      "Shen",
+      "Hecarim"
+     ],
+     69.9
+    ]
+   ],
+   "board": [
+    [
+     "Alistar",
+     0,
+     1
+    ],
+    [
+     "Taric",
+     0,
+     3
+    ],
+    [
+     "Maokai",
+     0,
+     4
+    ],
+    [
+     "Amumu",
+     0,
+     5
+    ],
+    [
+     "Kennen",
+     1,
+     3
+    ],
+    [
+     "Gnar",
+     1,
+     5
+    ],
+    [
+     "Draven",
+     3,
+     1
+    ],
+    [
+     "Ivern",
+     3,
+     3
+    ],
+    [
+     "Ezreal",
+     3,
+     9
+    ]
+   ],
+   "three": [],
+   "carries": [
+    [
+     "Draven",
+     [
+      "Executioner Emblem",
+      "Guinsoo's Rageblade",
+      "Kraken's Fury"
+     ]
+    ],
+    [
+     "Ezreal",
+     [
+      "Last Whisper",
+      "Spear of Shojin",
+      "Striker's Flail"
+     ]
+    ],
+    [
+     "Maokai",
+     [
+      "Gargoyle Stoneplate",
+      "Spirit Visage",
+      "Warmog's Armor"
+     ]
+    ],
+    [
+     "Kennen",
+     [
+      "Edge of Night",
+      "Hand Of Justice",
+      "Rabadon's Deathcap"
+     ]
+    ]
+   ],
+   "units": [
+    "Draven",
+    "Ezreal",
+    "Maokai",
+    "Kennen",
+    "Gnar",
+    "Ivern",
+    "Taric",
+    "Amumu",
+    "Alistar"
+   ]
+  },
+  {
    "name": "Executioner Sett",
    "tier": "A",
-   "avg": 4.4,
+   "avg": 4.42,
    "win": 9.2,
    "plan": "Fast 8",
    "steps": [],
@@ -2815,7 +3096,7 @@
       "Hecarim",
       "Fiddlesticks"
      ],
-     52
+     51.7
     ],
     [
      [
@@ -2830,7 +3111,7 @@
       "Hecarim",
       "Fiddlesticks"
      ],
-     52
+     51.7
     ],
     [
      [
@@ -2839,7 +3120,7 @@
       "Karma",
       "Yunara"
      ],
-     52
+     51.7
     ],
     [
      [
@@ -2848,7 +3129,7 @@
       "Karma",
       "Yunara"
      ],
-     52
+     51.7
     ],
     [
      [
@@ -2857,7 +3138,7 @@
       "Karma",
       "Yunara"
      ],
-     52
+     51.7
     ],
     [
      [
@@ -2867,7 +3148,7 @@
       "LeBlanc",
       "Hecarim"
      ],
-     65
+     63.1
     ],
     [
      [
@@ -2877,7 +3158,7 @@
       "LeBlanc",
       "Hecarim"
      ],
-     65
+     63.1
     ],
     [
      [
@@ -2887,7 +3168,7 @@
       "LeBlanc",
       "Hecarim"
      ],
-     65
+     63.1
     ],
     [
      [
@@ -2898,7 +3179,7 @@
       "LeBlanc",
       "Yunara"
      ],
-     43.9
+     44.7
     ],
     [
      [
@@ -2909,7 +3190,7 @@
       "LeBlanc",
       "Yunara"
      ],
-     43.9
+     44.7
     ],
     [
      [
@@ -2920,7 +3201,7 @@
       "LeBlanc",
       "Yunara"
      ],
-     43.9
+     44.7
     ],
     [
      [
@@ -2932,7 +3213,7 @@
       "Yunara",
       "Fiddlesticks"
      ],
-     57.4
+     57.2
     ],
     [
      [
@@ -2944,7 +3225,7 @@
       "Yunara",
       "Fiddlesticks"
      ],
-     57.4
+     57.2
     ],
     [
      [
@@ -2956,7 +3237,7 @@
       "Yunara",
       "Fiddlesticks"
      ],
-     57.4
+     57.2
     ]
    ],
    "board": [
@@ -3030,7 +3311,7 @@
     [
      "Soraka",
      [
-      "Rabadon's Deathcap",
+      "Archangel's Staff",
       "Spear of Shojin",
       "Void Staff"
      ]
@@ -3048,291 +3329,10 @@
    ]
   },
   {
-   "name": "Elderwood Draven",
-   "tier": "A",
-   "avg": 4.41,
-   "win": 18.5,
-   "plan": "Fast 9",
-   "steps": [],
-   "early": [
-    [
-     [
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Alistar",
-      "Shen",
-      "Akali",
-      "LeBlanc",
-      "Hecarim"
-     ],
-     0.2
-    ],
-    [
-     [
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Alistar",
-      "Shen",
-      "Akali",
-      "LeBlanc",
-      "Hecarim"
-     ],
-     0.2
-    ],
-    [
-     [
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Alistar",
-      "Shen",
-      "Akali",
-      "LeBlanc",
-      "Hecarim"
-     ],
-     64.5
-    ],
-    [
-     [
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Alistar",
-      "Shen",
-      "Akali",
-      "LeBlanc",
-      "Hecarim"
-     ],
-     64.5
-    ],
-    [
-     [
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Alistar"
-     ],
-     64.5
-    ],
-    [
-     [
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Alistar"
-     ],
-     64.5
-    ],
-    [
-     [
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Alistar"
-     ],
-     64.5
-    ],
-    [
-     [
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Alistar",
-      "Shen"
-     ],
-     82
-    ],
-    [
-     [
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Alistar",
-      "Shen"
-     ],
-     82
-    ],
-    [
-     [
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Alistar",
-      "Shen"
-     ],
-     82
-    ],
-    [
-     [
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Alistar",
-      "Shen"
-     ],
-     60.9
-    ],
-    [
-     [
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Alistar",
-      "Shen"
-     ],
-     60.9
-    ],
-    [
-     [
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Alistar",
-      "Shen"
-     ],
-     60.9
-    ],
-    [
-     [
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Alistar",
-      "LeBlanc",
-      "Shen",
-      "Hecarim"
-     ],
-     69.7
-    ],
-    [
-     [
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Alistar",
-      "LeBlanc",
-      "Shen",
-      "Hecarim"
-     ],
-     69.7
-    ],
-    [
-     [
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Alistar",
-      "LeBlanc",
-      "Shen",
-      "Hecarim"
-     ],
-     69.7
-    ]
-   ],
-   "board": [
-    [
-     "Alistar",
-     0,
-     1
-    ],
-    [
-     "Taric",
-     0,
-     3
-    ],
-    [
-     "Maokai",
-     0,
-     4
-    ],
-    [
-     "Amumu",
-     0,
-     5
-    ],
-    [
-     "Kennen",
-     1,
-     3
-    ],
-    [
-     "Gnar",
-     1,
-     5
-    ],
-    [
-     "Draven",
-     3,
-     1
-    ],
-    [
-     "Ivern",
-     3,
-     3
-    ],
-    [
-     "Ezreal",
-     3,
-     9
-    ]
-   ],
-   "three": [],
-   "carries": [
-    [
-     "Draven",
-     [
-      "Deathblade",
-      "Guinsoo's Rageblade",
-      "Kraken's Fury"
-     ]
-    ],
-    [
-     "Ezreal",
-     [
-      "Last Whisper",
-      "Spear of Shojin",
-      "Striker's Flail"
-     ]
-    ],
-    [
-     "Maokai",
-     [
-      "Gargoyle Stoneplate",
-      "Spirit Visage",
-      "Warmog's Armor"
-     ]
-    ],
-    [
-     "Kennen",
-     [
-      "Edge of Night",
-      "Hand Of Justice",
-      "Rabadon's Deathcap"
-     ]
-    ]
-   ],
-   "units": [
-    "Draven",
-    "Ezreal",
-    "Maokai",
-    "Kennen",
-    "Gnar",
-    "Ivern",
-    "Taric",
-    "Amumu",
-    "Alistar"
-   ]
-  },
-  {
    "name": "Invoker Ahri",
    "tier": "A",
-   "avg": 4.41,
-   "win": 11.3,
+   "avg": 4.42,
+   "win": 11.1,
    "plan": "Fast 8",
    "steps": [],
    "early": [
@@ -3443,7 +3443,7 @@
       "Elise",
       "Cassiopeia"
      ],
-     47.9
+     47
     ],
     [
      [
@@ -3453,7 +3453,7 @@
       "Elise",
       "Cassiopeia"
      ],
-     47.9
+     47
     ],
     [
      [
@@ -3463,7 +3463,7 @@
       "Elise",
       "Cassiopeia"
      ],
-     47.9
+     47
     ],
     [
      [
@@ -3474,7 +3474,7 @@
       "Cassiopeia",
       "Diana"
      ],
-     26.8
+     26.7
     ],
     [
      [
@@ -3485,7 +3485,7 @@
       "Cassiopeia",
       "Diana"
      ],
-     26.8
+     26.7
     ],
     [
      [
@@ -3496,7 +3496,7 @@
       "Cassiopeia",
       "Diana"
      ],
-     26.8
+     26.7
     ],
     [
      [
@@ -3508,7 +3508,7 @@
       "Sett",
       "Sentinel"
      ],
-     55.2
+     54
     ],
     [
      [
@@ -3520,7 +3520,7 @@
       "Sett",
       "Sentinel"
      ],
-     55.2
+     54
     ],
     [
      [
@@ -3532,7 +3532,7 @@
       "Sett",
       "Sentinel"
      ],
-     55.2
+     54
     ]
    ],
    "board": [
@@ -3627,7 +3627,7 @@
    "name": "Ravager Warwick",
    "tier": "A",
    "avg": 4.43,
-   "win": 6.9,
+   "win": 6.8,
    "plan": "lvl 6",
    "steps": [],
    "early": [
@@ -3645,7 +3645,7 @@
       "Azir",
       "Malphite"
      ],
-     29.5
+     30.1
     ],
     [
      [
@@ -3661,7 +3661,7 @@
       "Azir",
       "Malphite"
      ],
-     29.5
+     30.1
     ],
     [
      [
@@ -3677,7 +3677,7 @@
       "Azir",
       "Malphite"
      ],
-     66.9
+     67.9
     ],
     [
      [
@@ -3693,7 +3693,7 @@
       "Azir",
       "Malphite"
      ],
-     66.9
+     67.9
     ],
     [
      [
@@ -3702,7 +3702,7 @@
       "Warwick",
       "Murkwolf"
      ],
-     66.9
+     67.9
     ],
     [
      [
@@ -3711,7 +3711,7 @@
       "Warwick",
       "Murkwolf"
      ],
-     66.9
+     67.9
     ],
     [
      [
@@ -3720,7 +3720,7 @@
       "Warwick",
       "Murkwolf"
      ],
-     66.9
+     67.9
     ],
     [
      [
@@ -3730,7 +3730,7 @@
       "Warwick",
       "Murkwolf"
      ],
-     73.5
+     73.3
     ],
     [
      [
@@ -3740,7 +3740,7 @@
       "Warwick",
       "Murkwolf"
      ],
-     73.5
+     73.3
     ],
     [
      [
@@ -3750,7 +3750,7 @@
       "Warwick",
       "Murkwolf"
      ],
-     73.5
+     73.3
     ],
     [
      [
@@ -3761,7 +3761,7 @@
       "Krug",
       "Brambleback"
      ],
-     66.4
+     66.3
     ],
     [
      [
@@ -3772,7 +3772,7 @@
       "Krug",
       "Brambleback"
      ],
-     66.4
+     66.3
     ],
     [
      [
@@ -3783,7 +3783,7 @@
       "Krug",
       "Brambleback"
      ],
-     66.4
+     66.3
     ],
     [
      [
@@ -3795,7 +3795,7 @@
       "Malphite",
       "Brambleback"
      ],
-     56.1
+     55.1
     ],
     [
      [
@@ -3807,7 +3807,7 @@
       "Malphite",
       "Brambleback"
      ],
-     56.1
+     55.1
     ],
     [
      [
@@ -3819,7 +3819,7 @@
       "Malphite",
       "Brambleback"
      ],
-     56.1
+     55.1
     ]
    ],
    "board": [
@@ -3888,17 +3888,17 @@
     [
      "Murkwolf",
      [
-      "Hand Of Justice",
-      "Infinity Edge",
+      "Deathblade",
+      "Edge of Night",
       "Quicksilver"
      ]
     ],
     [
      "Brambleback",
      [
+      "Bloodthirster",
       "Edge of Night",
-      "Infinity Edge",
-      "Sterak's Gage"
+      "Infinity Edge"
      ]
     ]
    ],
@@ -3915,9 +3915,9 @@
   },
   {
    "name": "Inferno Elder Dragon",
-   "tier": "B",
+   "tier": "A",
    "avg": 4.5,
-   "win": 18.9,
+   "win": 19,
    "plan": "Fast 9",
    "steps": [],
    "early": [
@@ -4044,7 +4044,7 @@
       "Xayah",
       "Shen"
      ],
-     74.1
+     74.8
     ],
     [
      [
@@ -4054,7 +4054,7 @@
       "Xayah",
       "Shen"
      ],
-     74.1
+     74.8
     ],
     [
      [
@@ -4064,18 +4064,7 @@
       "Xayah",
       "Shen"
      ],
-     74.1
-    ],
-    [
-     [
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Alistar",
-      "Shen"
-     ],
-     62.7
+     74.8
     ],
     [
      [
@@ -4086,7 +4075,7 @@
       "Alistar",
       "Shen"
      ],
-     62.7
+     63.1
     ],
     [
      [
@@ -4097,7 +4086,18 @@
       "Alistar",
       "Shen"
      ],
-     62.7
+     63.1
+    ],
+    [
+     [
+      "Akali",
+      "Ornn",
+      "Varus",
+      "Xayah",
+      "Alistar",
+      "Shen"
+     ],
+     63.1
     ],
     [
      [
@@ -4109,7 +4109,7 @@
       "Mama Beak",
       "Krug"
      ],
-     74.7
+     77.4
     ],
     [
      [
@@ -4121,7 +4121,7 @@
       "Mama Beak",
       "Krug"
      ],
-     74.7
+     77.4
     ],
     [
      [
@@ -4133,7 +4133,7 @@
       "Mama Beak",
       "Krug"
      ],
-     74.7
+     77.4
     ]
    ],
    "board": [
@@ -4191,8 +4191,8 @@
     [
      "Draven",
      [
+      "Deathblade",
       "Guinsoo's Rageblade",
-      "Kraken's Fury",
       "Kraken's Fury"
      ]
     ],
@@ -4227,7 +4227,7 @@
   {
    "name": "Hunter Sivir",
    "tier": "B",
-   "avg": 4.53,
+   "avg": 4.52,
    "win": 8.1,
    "plan": "Fast 8",
    "steps": [],
@@ -4243,9 +4243,12 @@
       "Xayah",
       "Alistar",
       "Shen",
-      "Akali",
-      "Rek'Sai",
+      "Camille",
       "Cinderling",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
+      "Rek'Sai",
       "Kog'Maw",
       "Krug",
       "Malphite",
@@ -4265,9 +4268,12 @@
       "Xayah",
       "Alistar",
       "Shen",
-      "Akali",
-      "Rek'Sai",
+      "Camille",
       "Cinderling",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
+      "Rek'Sai",
       "Kog'Maw",
       "Krug",
       "Malphite",
@@ -4287,9 +4293,12 @@
       "Xayah",
       "Alistar",
       "Shen",
-      "Akali",
-      "Rek'Sai",
+      "Camille",
       "Cinderling",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
+      "Rek'Sai",
       "Kog'Maw",
       "Krug",
       "Malphite",
@@ -4309,9 +4318,12 @@
       "Xayah",
       "Alistar",
       "Shen",
-      "Akali",
-      "Rek'Sai",
+      "Camille",
       "Cinderling",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
+      "Rek'Sai",
       "Kog'Maw",
       "Krug",
       "Malphite",
@@ -4355,7 +4367,7 @@
       "Alistar",
       "Shen"
      ],
-     75.4
+     70
     ],
     [
      [
@@ -4365,7 +4377,7 @@
       "Alistar",
       "Shen"
      ],
-     75.4
+     70
     ],
     [
      [
@@ -4375,40 +4387,40 @@
       "Alistar",
       "Shen"
      ],
-     75.4
+     70
     ],
     [
      [
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Alistar",
-      "Shen"
+      "Camille",
+      "Rakan",
+      "Cinderling",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia"
      ],
-     60.9
+     17.6
     ],
     [
      [
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Alistar",
-      "Shen"
+      "Camille",
+      "Rakan",
+      "Cinderling",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia"
      ],
-     60.9
+     17.6
     ],
     [
      [
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Alistar",
-      "Shen"
+      "Camille",
+      "Rakan",
+      "Cinderling",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia"
      ],
-     60.9
+     17.6
     ],
     [
      [
@@ -4420,7 +4432,7 @@
       "Sivir",
       "Nidalee"
      ],
-     67.7
+     68.8
     ],
     [
      [
@@ -4432,7 +4444,7 @@
       "Sivir",
       "Nidalee"
      ],
-     67.7
+     68.8
     ],
     [
      [
@@ -4444,7 +4456,7 @@
       "Sivir",
       "Nidalee"
      ],
-     67.7
+     68.8
     ]
    ],
    "board": [
@@ -4516,9 +4528,11 @@
      ]
     ],
     [
-     "Kog'Maw",
+     "Sentinel",
      [
-      "Spear of Shojin"
+      "Adaptive Helm",
+      "Adaptive Helm",
+      "Protector's Vow"
      ]
     ]
    ],
@@ -4526,8 +4540,8 @@
     "Sivir",
     "Nidalee",
     "Malphite",
-    "Kog'Maw",
     "Sentinel",
+    "Kog'Maw",
     "Krug",
     "Rek'Sai",
     "Cinderling"
@@ -4537,7 +4551,7 @@
    "name": "Vanguard Aphelios",
    "tier": "B",
    "avg": 4.54,
-   "win": 8,
+   "win": 7.9,
    "plan": "Fast 8",
    "steps": [],
    "early": [
@@ -4547,13 +4561,10 @@
       "Rakan",
       "Caitlyn",
       "Elise",
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Shen",
       "Cassiopeia",
       "Diana",
+      "Varus",
+      "Xayah",
       "Hecarim",
       "Pebbles",
       "Cinderling",
@@ -4563,7 +4574,7 @@
       "Mama Beak",
       "Krug"
      ],
-     0.7
+     0.6
     ],
     [
      [
@@ -4571,13 +4582,10 @@
       "Rakan",
       "Caitlyn",
       "Elise",
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Shen",
       "Cassiopeia",
       "Diana",
+      "Varus",
+      "Xayah",
       "Hecarim",
       "Pebbles",
       "Cinderling",
@@ -4587,7 +4595,7 @@
       "Mama Beak",
       "Krug"
      ],
-     0.7
+     0.6
     ],
     [
      [
@@ -4595,13 +4603,10 @@
       "Rakan",
       "Caitlyn",
       "Elise",
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Shen",
       "Cassiopeia",
       "Diana",
+      "Varus",
+      "Xayah",
       "Hecarim",
       "Pebbles",
       "Cinderling",
@@ -4611,7 +4616,7 @@
       "Mama Beak",
       "Krug"
      ],
-     33.1
+     35.6
     ],
     [
      [
@@ -4619,13 +4624,10 @@
       "Rakan",
       "Caitlyn",
       "Elise",
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Shen",
       "Cassiopeia",
       "Diana",
+      "Varus",
+      "Xayah",
       "Hecarim",
       "Pebbles",
       "Cinderling",
@@ -4635,7 +4637,7 @@
       "Mama Beak",
       "Krug"
      ],
-     33.1
+     35.6
     ],
     [
      [
@@ -4644,7 +4646,7 @@
       "Caitlyn",
       "Elise"
      ],
-     33.1
+     35.6
     ],
     [
      [
@@ -4653,7 +4655,7 @@
       "Caitlyn",
       "Elise"
      ],
-     33.1
+     35.6
     ],
     [
      [
@@ -4662,37 +4664,7 @@
       "Caitlyn",
       "Elise"
      ],
-     33.1
-    ],
-    [
-     [
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Shen"
-     ],
-     63.9
-    ],
-    [
-     [
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Shen"
-     ],
-     63.9
-    ],
-    [
-     [
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Shen"
-     ],
-     63.9
+     35.6
     ],
     [
      [
@@ -4700,10 +4672,9 @@
       "Caitlyn",
       "Elise",
       "Cassiopeia",
-      "Diana",
-      "Hecarim"
+      "Diana"
      ],
-     20
+     48.8
     ],
     [
      [
@@ -4711,10 +4682,9 @@
       "Caitlyn",
       "Elise",
       "Cassiopeia",
-      "Diana",
-      "Hecarim"
+      "Diana"
      ],
-     20
+     48.8
     ],
     [
      [
@@ -4722,10 +4692,42 @@
       "Caitlyn",
       "Elise",
       "Cassiopeia",
+      "Diana"
+     ],
+     48.8
+    ],
+    [
+     [
+      "Rakan",
+      "Varus",
+      "Xayah",
+      "Elise",
       "Diana",
       "Hecarim"
      ],
-     20
+     47.8
+    ],
+    [
+     [
+      "Rakan",
+      "Varus",
+      "Xayah",
+      "Elise",
+      "Diana",
+      "Hecarim"
+     ],
+     47.8
+    ],
+    [
+     [
+      "Rakan",
+      "Varus",
+      "Xayah",
+      "Elise",
+      "Diana",
+      "Hecarim"
+     ],
+     47.8
     ],
     [
      [
@@ -4812,8 +4814,8 @@
      "Aphelios",
      [
       "Deathblade",
-      "Kraken's Fury",
-      "Red Buff"
+      "Giant Slayer",
+      "Kraken's Fury"
      ]
     ],
     [
@@ -4827,9 +4829,9 @@
     [
      "Sentinel",
      [
-      "Evenshroud",
       "Protector's Vow",
-      "Warmog's Armor"
+      "Protector's Vow",
+      "Protector's Vow"
      ]
     ],
     [
@@ -4853,8 +4855,8 @@
   {
    "name": "Defender Cassiopeia",
    "tier": "B",
-   "avg": 4.57,
-   "win": 7.5,
+   "avg": 4.56,
+   "win": 7.6,
    "plan": "lvl 7",
    "steps": [],
    "early": [
@@ -4871,7 +4873,7 @@
       "Rammus",
       "Lillia"
      ],
-     48.6
+     48.2
     ],
     [
      [
@@ -4886,7 +4888,7 @@
       "Rammus",
       "Lillia"
      ],
-     48.6
+     48.2
     ],
     [
      [
@@ -4901,7 +4903,7 @@
       "Rammus",
       "Lillia"
      ],
-     31.5
+     30.8
     ],
     [
      [
@@ -4916,16 +4918,7 @@
       "Rammus",
       "Lillia"
      ],
-     31.5
-    ],
-    [
-     [
-      "Camille",
-      "Caitlyn",
-      "Elise",
-      "Cassiopeia"
-     ],
-     31.5
+     30.8
     ],
     [
      [
@@ -4934,7 +4927,7 @@
       "Elise",
       "Cassiopeia"
      ],
-     31.5
+     30.8
     ],
     [
      [
@@ -4943,7 +4936,16 @@
       "Elise",
       "Cassiopeia"
      ],
-     31.5
+     30.8
+    ],
+    [
+     [
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia"
+     ],
+     30.8
     ],
     [
      [
@@ -4953,7 +4955,7 @@
       "Cassiopeia",
       "Fiddlesticks"
      ],
-     75.8
+     74.5
     ],
     [
      [
@@ -4963,7 +4965,7 @@
       "Cassiopeia",
       "Fiddlesticks"
      ],
-     75.8
+     74.5
     ],
     [
      [
@@ -4973,7 +4975,7 @@
       "Cassiopeia",
       "Fiddlesticks"
      ],
-     75.8
+     74.5
     ],
     [
      [
@@ -4984,7 +4986,7 @@
       "Rammus",
       "Fiddlesticks"
      ],
-     70
+     70.4
     ],
     [
      [
@@ -4995,7 +4997,7 @@
       "Rammus",
       "Fiddlesticks"
      ],
-     70
+     70.4
     ],
     [
      [
@@ -5006,19 +5008,7 @@
       "Rammus",
       "Fiddlesticks"
      ],
-     70
-    ],
-    [
-     [
-      "Leona",
-      "Ornn",
-      "Shen",
-      "Cassiopeia",
-      "Rammus",
-      "Fiddlesticks",
-      "Lillia"
-     ],
-     61.8
+     70.4
     ],
     [
      [
@@ -5030,7 +5020,7 @@
       "Fiddlesticks",
       "Lillia"
      ],
-     61.8
+     61.5
     ],
     [
      [
@@ -5042,7 +5032,19 @@
       "Fiddlesticks",
       "Lillia"
      ],
-     61.8
+     61.5
+    ],
+    [
+     [
+      "Leona",
+      "Ornn",
+      "Shen",
+      "Cassiopeia",
+      "Rammus",
+      "Fiddlesticks",
+      "Lillia"
+     ],
+     61.5
     ]
    ],
    "board": [
@@ -5099,24 +5101,24 @@
     [
      "Rammus",
      [
+      "Bramble Vest",
       "Gargoyle Stoneplate",
-      "Spirit Visage",
-      "Warmog's Armor"
+      "Spirit Visage"
      ]
     ],
     [
      "Fiddlesticks",
      [
-      "Archangel's Staff",
+      "Crownguard",
       "Ionic Spark",
-      "Titan's Resolve"
+      "Sunfire Cape"
      ]
     ],
     [
      "Lillia",
      [
-      "Gargoyle Stoneplate",
-      "Protector's Vow",
+      "Ionic Spark",
+      "Sunfire Cape",
       "Warmog's Armor"
      ]
     ]
@@ -5135,7 +5137,7 @@
    "name": "Blossom Ahri Zyra",
    "tier": "B",
    "avg": 4.58,
-   "win": 9.4,
+   "win": 9.3,
    "plan": "Fast 8",
    "steps": [],
    "early": [
@@ -5191,7 +5193,7 @@
       "Sett",
       "Zyra"
      ],
-     53.4
+     53
     ],
     [
      [
@@ -5209,7 +5211,7 @@
       "Sett",
       "Zyra"
      ],
-     53.4
+     53
     ],
     [
      [
@@ -5218,7 +5220,7 @@
       "Karma",
       "Yunara"
      ],
-     53.4
+     53
     ],
     [
      [
@@ -5227,7 +5229,7 @@
       "Karma",
       "Yunara"
      ],
-     53.4
+     53
     ],
     [
      [
@@ -5236,17 +5238,7 @@
       "Karma",
       "Yunara"
      ],
-     53.4
-    ],
-    [
-     [
-      "Rakan",
-      "Yorick",
-      "Karma",
-      "LeBlanc",
-      "Yunara"
-     ],
-     70.9
+     53
     ],
     [
      [
@@ -5256,7 +5248,7 @@
       "LeBlanc",
       "Yunara"
      ],
-     70.9
+     73.6
     ],
     [
      [
@@ -5266,7 +5258,17 @@
       "LeBlanc",
       "Yunara"
      ],
-     70.9
+     73.6
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "LeBlanc",
+      "Yunara"
+     ],
+     73.6
     ],
     [
      [
@@ -5277,7 +5279,7 @@
       "Yunara",
       "Fiddlesticks"
      ],
-     45
+     47.1
     ],
     [
      [
@@ -5288,7 +5290,7 @@
       "Yunara",
       "Fiddlesticks"
      ],
-     45
+     47.1
     ],
     [
      [
@@ -5299,7 +5301,7 @@
       "Yunara",
       "Fiddlesticks"
      ],
-     45
+     47.1
     ],
     [
      [
@@ -5393,8 +5395,8 @@
     [
      "Zyra",
      [
-      "Morellonomicon",
-      "Spear of Shojin",
+      "Archangel's Staff",
+      "Archangel's Staff",
       "Void Staff"
      ]
     ],
@@ -5410,8 +5412,8 @@
      "Amumu",
      [
       "Gargoyle Stoneplate",
-      "Spirit Visage",
-      "Warmog's Armor"
+      "Gargoyle Stoneplate",
+      "Spirit Visage"
      ]
     ]
    ],
@@ -5427,296 +5429,9 @@
    ]
   },
   {
-   "name": "Executioner Malphite",
-   "tier": "B",
-   "avg": 4.58,
-   "win": 8.8,
-   "plan": "Fast 8",
-   "steps": [],
-   "early": [
-    [
-     [
-      "Rakan",
-      "Yorick",
-      "Karma",
-      "Yunara",
-      "Azir",
-      "Veigar",
-      "Teemo",
-      "Rammus",
-      "Fiddlesticks",
-      "Soraka",
-      "Zyra"
-     ],
-     0.7
-    ],
-    [
-     [
-      "Rakan",
-      "Yorick",
-      "Karma",
-      "Yunara",
-      "Azir",
-      "Veigar",
-      "Teemo",
-      "Rammus",
-      "Fiddlesticks",
-      "Soraka",
-      "Zyra"
-     ],
-     0.7
-    ],
-    [
-     [
-      "Rakan",
-      "Yorick",
-      "Karma",
-      "Yunara",
-      "Azir",
-      "Veigar",
-      "Teemo",
-      "Rammus",
-      "Fiddlesticks",
-      "Soraka",
-      "Zyra"
-     ],
-     50.7
-    ],
-    [
-     [
-      "Rakan",
-      "Yorick",
-      "Karma",
-      "Yunara",
-      "Azir",
-      "Veigar",
-      "Teemo",
-      "Rammus",
-      "Fiddlesticks",
-      "Soraka",
-      "Zyra"
-     ],
-     50.7
-    ],
-    [
-     [
-      "Rakan",
-      "Yorick",
-      "Karma",
-      "Yunara"
-     ],
-     50.7
-    ],
-    [
-     [
-      "Rakan",
-      "Yorick",
-      "Karma",
-      "Yunara"
-     ],
-     50.7
-    ],
-    [
-     [
-      "Rakan",
-      "Yorick",
-      "Karma",
-      "Yunara"
-     ],
-     50.7
-    ],
-    [
-     [
-      "Rakan",
-      "Yorick",
-      "Karma",
-      "Yunara",
-      "Azir"
-     ],
-     73.1
-    ],
-    [
-     [
-      "Rakan",
-      "Yorick",
-      "Karma",
-      "Yunara",
-      "Azir"
-     ],
-     73.1
-    ],
-    [
-     [
-      "Rakan",
-      "Yorick",
-      "Karma",
-      "Yunara",
-      "Azir"
-     ],
-     73.1
-    ],
-    [
-     [
-      "Rakan",
-      "Veigar",
-      "Yorick",
-      "Karma",
-      "Yunara",
-      "Azir"
-     ],
-     59.9
-    ],
-    [
-     [
-      "Rakan",
-      "Veigar",
-      "Yorick",
-      "Karma",
-      "Yunara",
-      "Azir"
-     ],
-     59.9
-    ],
-    [
-     [
-      "Rakan",
-      "Veigar",
-      "Yorick",
-      "Karma",
-      "Yunara",
-      "Azir"
-     ],
-     59.9
-    ],
-    [
-     [
-      "Veigar",
-      "Teemo",
-      "Azir",
-      "Rammus",
-      "Fiddlesticks",
-      "Soraka",
-      "Zyra"
-     ],
-     70.9
-    ],
-    [
-     [
-      "Veigar",
-      "Teemo",
-      "Azir",
-      "Rammus",
-      "Fiddlesticks",
-      "Soraka",
-      "Zyra"
-     ],
-     70.9
-    ],
-    [
-     [
-      "Veigar",
-      "Teemo",
-      "Azir",
-      "Rammus",
-      "Fiddlesticks",
-      "Soraka",
-      "Zyra"
-     ],
-     70.9
-    ]
-   ],
-   "board": [
-    [
-     "Malphite",
-     0,
-     4
-    ],
-    [
-     "Amumu",
-     2,
-     3
-    ],
-    [
-     "Fiddlesticks",
-     2,
-     4
-    ],
-    [
-     "Kennen",
-     2,
-     5
-    ],
-    [
-     "Yorick",
-     2,
-     7
-    ],
-    [
-     "Zyra",
-     3,
-     1
-    ],
-    [
-     "Azir",
-     3,
-     3
-    ],
-    [
-     "Soraka",
-     3,
-     9
-    ]
-   ],
-   "three": [],
-   "carries": [
-    [
-     "Malphite",
-     [
-      "Crownguard",
-      "Gargoyle Stoneplate",
-      "Warmog's Armor"
-     ]
-    ],
-    [
-     "Zyra",
-     [
-      "Blackthorn Emblem",
-      "Executioner Emblem",
-      "Void Staff"
-     ]
-    ],
-    [
-     "Soraka",
-     [
-      "Hextech Gunblade",
-      "Rabadon's Deathcap",
-      "Spear of Shojin"
-     ]
-    ],
-    [
-     "Azir",
-     [
-      "Guinsoo's Rageblade",
-      "Hextech Gunblade",
-      "Rabadon's Deathcap"
-     ]
-    ]
-   ],
-   "units": [
-    "Malphite",
-    "Zyra",
-    "Soraka",
-    "Azir",
-    "Kennen",
-    "Amumu",
-    "Fiddlesticks",
-    "Yorick"
-   ]
-  },
-  {
    "name": "Juggernaut Zyra",
    "tier": "B",
-   "avg": 4.6,
+   "avg": 4.59,
    "win": 9.3,
    "plan": "Fast 8",
    "steps": [],
@@ -5727,13 +5442,13 @@
       "Yorick",
       "Karma",
       "Yunara",
-      "Sejuani",
       "Scuttlecrab",
+      "Sejuani",
       "Vi",
       "Zyra",
       "Nidalee"
      ],
-     0.4
+     0.5
     ],
     [
      [
@@ -5741,13 +5456,13 @@
       "Yorick",
       "Karma",
       "Yunara",
-      "Sejuani",
       "Scuttlecrab",
+      "Sejuani",
       "Vi",
       "Zyra",
       "Nidalee"
      ],
-     0.4
+     0.5
     ],
     [
      [
@@ -5755,13 +5470,13 @@
       "Yorick",
       "Karma",
       "Yunara",
-      "Sejuani",
       "Scuttlecrab",
+      "Sejuani",
       "Vi",
       "Zyra",
       "Nidalee"
      ],
-     54.5
+     53.9
     ],
     [
      [
@@ -5769,13 +5484,13 @@
       "Yorick",
       "Karma",
       "Yunara",
-      "Sejuani",
       "Scuttlecrab",
+      "Sejuani",
       "Vi",
       "Zyra",
       "Nidalee"
      ],
-     54.5
+     53.9
     ],
     [
      [
@@ -5784,7 +5499,7 @@
       "Karma",
       "Yunara"
      ],
-     54.5
+     53.9
     ],
     [
      [
@@ -5793,7 +5508,7 @@
       "Karma",
       "Yunara"
      ],
-     54.5
+     53.9
     ],
     [
      [
@@ -5802,37 +5517,37 @@
       "Karma",
       "Yunara"
      ],
-     54.5
+     53.9
     ],
     [
      [
       "Rakan",
       "Yorick",
       "Karma",
-      "Sejuani",
-      "Yunara"
+      "Yunara",
+      "Scuttlecrab"
      ],
-     66.8
+     70.8
     ],
     [
      [
       "Rakan",
       "Yorick",
       "Karma",
-      "Sejuani",
-      "Yunara"
+      "Yunara",
+      "Scuttlecrab"
      ],
-     66.8
+     70.8
     ],
     [
      [
       "Rakan",
       "Yorick",
       "Karma",
-      "Sejuani",
-      "Yunara"
+      "Yunara",
+      "Scuttlecrab"
      ],
-     66.8
+     70.8
     ],
     [
      [
@@ -5877,7 +5592,7 @@
       "Zyra",
       "Nidalee"
      ],
-     60.5
+     60
     ],
     [
      [
@@ -5889,7 +5604,7 @@
       "Zyra",
       "Nidalee"
      ],
-     60.5
+     60
     ],
     [
      [
@@ -5901,7 +5616,7 @@
       "Zyra",
       "Nidalee"
      ],
-     60.5
+     60
     ]
    ],
    "board": [
@@ -5976,8 +5691,8 @@
      "Vi",
      [
       "Gargoyle Stoneplate",
-      "Steadfast Heart",
-      "Sunfire Cape"
+      "Protector's Vow",
+      "Warmog's Armor"
      ]
     ]
    ],
@@ -5993,10 +5708,570 @@
    ]
   },
   {
+   "name": "Executioner Malphite",
+   "tier": "B",
+   "avg": 4.6,
+   "win": 8.6,
+   "plan": "Fast 8",
+   "steps": [],
+   "early": [
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Azir",
+      "Veigar",
+      "Teemo",
+      "Rammus",
+      "Fiddlesticks",
+      "Soraka",
+      "Zyra"
+     ],
+     0.8
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Azir",
+      "Veigar",
+      "Teemo",
+      "Rammus",
+      "Fiddlesticks",
+      "Soraka",
+      "Zyra"
+     ],
+     0.8
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Azir",
+      "Veigar",
+      "Teemo",
+      "Rammus",
+      "Fiddlesticks",
+      "Soraka",
+      "Zyra"
+     ],
+     51
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Azir",
+      "Veigar",
+      "Teemo",
+      "Rammus",
+      "Fiddlesticks",
+      "Soraka",
+      "Zyra"
+     ],
+     51
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara"
+     ],
+     51
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara"
+     ],
+     51
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara"
+     ],
+     51
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Azir"
+     ],
+     73.5
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Azir"
+     ],
+     73.5
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Azir"
+     ],
+     73.5
+    ],
+    [
+     [
+      "Rakan",
+      "Veigar",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Azir"
+     ],
+     56.9
+    ],
+    [
+     [
+      "Rakan",
+      "Veigar",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Azir"
+     ],
+     56.9
+    ],
+    [
+     [
+      "Rakan",
+      "Veigar",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Azir"
+     ],
+     56.9
+    ],
+    [
+     [
+      "Veigar",
+      "Teemo",
+      "Azir",
+      "Rammus",
+      "Fiddlesticks",
+      "Soraka",
+      "Zyra"
+     ],
+     70.8
+    ],
+    [
+     [
+      "Veigar",
+      "Teemo",
+      "Azir",
+      "Rammus",
+      "Fiddlesticks",
+      "Soraka",
+      "Zyra"
+     ],
+     70.8
+    ],
+    [
+     [
+      "Veigar",
+      "Teemo",
+      "Azir",
+      "Rammus",
+      "Fiddlesticks",
+      "Soraka",
+      "Zyra"
+     ],
+     70.8
+    ]
+   ],
+   "board": [
+    [
+     "Malphite",
+     0,
+     4
+    ],
+    [
+     "Amumu",
+     2,
+     3
+    ],
+    [
+     "Fiddlesticks",
+     2,
+     4
+    ],
+    [
+     "Kennen",
+     2,
+     5
+    ],
+    [
+     "Yorick",
+     2,
+     7
+    ],
+    [
+     "Zyra",
+     3,
+     1
+    ],
+    [
+     "Azir",
+     3,
+     3
+    ],
+    [
+     "Soraka",
+     3,
+     9
+    ]
+   ],
+   "three": [],
+   "carries": [
+    [
+     "Malphite",
+     [
+      "Crownguard",
+      "Gargoyle Stoneplate",
+      "Warmog's Armor"
+     ]
+    ],
+    [
+     "Zyra",
+     [
+      "Blackthorn Emblem",
+      "Executioner Emblem",
+      "Void Staff"
+     ]
+    ],
+    [
+     "Soraka",
+     [
+      "Adaptive Helm",
+      "Rabadon's Deathcap",
+      "Spear of Shojin"
+     ]
+    ],
+    [
+     "Azir",
+     [
+      "Guinsoo's Rageblade",
+      "Hextech Gunblade",
+      "Rabadon's Deathcap"
+     ]
+    ]
+   ],
+   "units": [
+    "Malphite",
+    "Zyra",
+    "Soraka",
+    "Azir",
+    "Kennen",
+    "Amumu",
+    "Fiddlesticks",
+    "Yorick"
+   ]
+  },
+  {
+   "name": "Blossom Karma",
+   "tier": "B",
+   "avg": 4.61,
+   "win": 11.8,
+   "plan": "lvl 5",
+   "steps": [],
+   "early": [
+    [
+     [
+      "Yorick",
+      "Karma",
+      "Sejuani",
+      "Yunara",
+      "LeBlanc",
+      "Leona",
+      "Kayle"
+     ],
+     38.5
+    ],
+    [
+     [
+      "Yorick",
+      "Karma",
+      "Sejuani",
+      "Yunara",
+      "LeBlanc",
+      "Leona",
+      "Kayle"
+     ],
+     38.5
+    ],
+    [
+     [
+      "Yorick",
+      "Karma",
+      "Sejuani",
+      "Yunara",
+      "LeBlanc",
+      "Leona",
+      "Kayle"
+     ],
+     55.4
+    ],
+    [
+     [
+      "Yorick",
+      "Karma",
+      "Sejuani",
+      "Yunara",
+      "LeBlanc",
+      "Leona",
+      "Kayle"
+     ],
+     55.4
+    ],
+    [
+     [
+      "Yorick",
+      "Karma",
+      "Sejuani",
+      "Yunara"
+     ],
+     55.4
+    ],
+    [
+     [
+      "Yorick",
+      "Karma",
+      "Sejuani",
+      "Yunara"
+     ],
+     55.4
+    ],
+    [
+     [
+      "Yorick",
+      "Karma",
+      "Sejuani",
+      "Yunara"
+     ],
+     55.4
+    ],
+    [
+     [
+      "Yorick",
+      "Karma",
+      "LeBlanc",
+      "Sejuani",
+      "Yunara"
+     ],
+     60.3
+    ],
+    [
+     [
+      "Yorick",
+      "Karma",
+      "LeBlanc",
+      "Sejuani",
+      "Yunara"
+     ],
+     60.3
+    ],
+    [
+     [
+      "Yorick",
+      "Karma",
+      "LeBlanc",
+      "Sejuani",
+      "Yunara"
+     ],
+     60.3
+    ],
+    [
+     [
+      "Leona",
+      "Yorick",
+      "Karma",
+      "LeBlanc",
+      "Sejuani",
+      "Yunara"
+     ],
+     54.5
+    ],
+    [
+     [
+      "Leona",
+      "Yorick",
+      "Karma",
+      "LeBlanc",
+      "Sejuani",
+      "Yunara"
+     ],
+     54.5
+    ],
+    [
+     [
+      "Leona",
+      "Yorick",
+      "Karma",
+      "LeBlanc",
+      "Sejuani",
+      "Yunara"
+     ],
+     54.5
+    ],
+    [
+     [
+      "Leona",
+      "Yorick",
+      "Karma",
+      "Kayle",
+      "LeBlanc",
+      "Sejuani",
+      "Yunara"
+     ],
+     65.2
+    ],
+    [
+     [
+      "Leona",
+      "Yorick",
+      "Karma",
+      "Kayle",
+      "LeBlanc",
+      "Sejuani",
+      "Yunara"
+     ],
+     65.2
+    ],
+    [
+     [
+      "Leona",
+      "Yorick",
+      "Karma",
+      "Kayle",
+      "LeBlanc",
+      "Sejuani",
+      "Yunara"
+     ],
+     65.2
+    ]
+   ],
+   "board": [
+    [
+     "Sejuani",
+     0,
+     4
+    ],
+    [
+     "Leona",
+     1,
+     5
+    ],
+    [
+     "Yorick",
+     2,
+     4
+    ],
+    [
+     "Karma",
+     3,
+     1
+    ],
+    [
+     "Yunara",
+     3,
+     2
+    ],
+    [
+     "LeBlanc",
+     3,
+     3
+    ],
+    [
+     "Kayle",
+     3,
+     9
+    ]
+   ],
+   "three": [
+    "Karma",
+    "Sejuani",
+    "Yunara",
+    "Yorick",
+    "Kayle",
+    "LeBlanc",
+    "Leona"
+   ],
+   "carries": [
+    [
+     "Karma",
+     [
+      "Blue Buff",
+      "Jeweled Gauntlet",
+      "Rabadon's Deathcap"
+     ]
+    ],
+    [
+     "Sejuani",
+     [
+      "Gargoyle Stoneplate",
+      "Spirit Visage",
+      "Warmog's Armor"
+     ]
+    ],
+    [
+     "Yunara",
+     [
+      "Deathblade",
+      "Last Whisper",
+      "Spear of Shojin"
+     ]
+    ],
+    [
+     "Yorick",
+     [
+      "Gargoyle Stoneplate",
+      "Spirit Visage",
+      "Sunfire Cape"
+     ]
+    ]
+   ],
+   "units": [
+    "Karma",
+    "Sejuani",
+    "Yunara",
+    "Yorick",
+    "Kayle",
+    "LeBlanc",
+    "Leona"
+   ]
+  },
+  {
    "name": "Executioner Azir",
    "tier": "B",
-   "avg": 4.63,
-   "win": 8.8,
+   "avg": 4.62,
+   "win": 8.9,
    "plan": "lvl 7",
    "steps": [],
    "early": [
@@ -6010,7 +6285,7 @@
       "Vi",
       "Sett"
      ],
-     36.4
+     36.6
     ],
     [
      [
@@ -6022,7 +6297,7 @@
       "Vi",
       "Sett"
      ],
-     36.4
+     36.6
     ],
     [
      [
@@ -6034,7 +6309,7 @@
       "Vi",
       "Sett"
      ],
-     57.6
+     62.7
     ],
     [
      [
@@ -6046,7 +6321,7 @@
       "Vi",
       "Sett"
      ],
-     57.6
+     62.7
     ],
     [
      [
@@ -6055,7 +6330,7 @@
       "Azir",
       "Kha'Zix"
      ],
-     57.6
+     62.7
     ],
     [
      [
@@ -6064,7 +6339,7 @@
       "Azir",
       "Kha'Zix"
      ],
-     57.6
+     62.7
     ],
     [
      [
@@ -6073,17 +6348,7 @@
       "Azir",
       "Kha'Zix"
      ],
-     57.6
-    ],
-    [
-     [
-      "Rek'Sai",
-      "Yorick",
-      "Yunara",
-      "Azir",
-      "Kha'Zix"
-     ],
-     66.7
+     62.7
     ],
     [
      [
@@ -6093,7 +6358,7 @@
       "Azir",
       "Kha'Zix"
      ],
-     66.7
+     65.6
     ],
     [
      [
@@ -6103,7 +6368,17 @@
       "Azir",
       "Kha'Zix"
      ],
-     66.7
+     65.6
+    ],
+    [
+     [
+      "Rek'Sai",
+      "Yorick",
+      "Yunara",
+      "Azir",
+      "Kha'Zix"
+     ],
+     65.6
     ],
     [
      [
@@ -6114,7 +6389,7 @@
       "Kha'Zix",
       "Vi"
      ],
-     61.2
+     59.5
     ],
     [
      [
@@ -6125,7 +6400,7 @@
       "Kha'Zix",
       "Vi"
      ],
-     61.2
+     59.5
     ],
     [
      [
@@ -6136,7 +6411,7 @@
       "Kha'Zix",
       "Vi"
      ],
-     61.2
+     59.5
     ],
     [
      [
@@ -6148,7 +6423,7 @@
       "Vi",
       "Sett"
      ],
-     58.4
+     60.1
     ],
     [
      [
@@ -6160,7 +6435,7 @@
       "Vi",
       "Sett"
      ],
-     58.4
+     60.1
     ],
     [
      [
@@ -6172,7 +6447,7 @@
       "Vi",
       "Sett"
      ],
-     58.4
+     60.1
     ]
    ],
    "board": [
@@ -6234,17 +6509,17 @@
     [
      "Vi",
      [
+      "Dragon's Claw",
       "Gargoyle Stoneplate",
-      "Gargoyle Stoneplate",
-      "Warmog's Armor"
+      "Gargoyle Stoneplate"
      ]
     ],
     [
      "Sett",
      [
       "Gargoyle Stoneplate",
-      "Spirit Visage",
-      "Sunfire Cape"
+      "Sterak's Gage",
+      "Warmog's Armor"
      ]
     ],
     [
@@ -6268,294 +6543,9 @@
    ]
   },
   {
-   "name": "Lunar Aphelios",
-   "tier": "B",
-   "avg": 4.64,
-   "win": 11.3,
-   "plan": "Fast 9",
-   "steps": [],
-   "early": [
-    [
-     [
-      "Camille",
-      "Caitlyn",
-      "Elise",
-      "Cassiopeia",
-      "Leona",
-      "Varus",
-      "Kayle",
-      "Sejuani",
-      "Shen",
-      "Akali",
-      "Diana"
-     ],
-     1.1
-    ],
-    [
-     [
-      "Camille",
-      "Caitlyn",
-      "Elise",
-      "Cassiopeia",
-      "Leona",
-      "Varus",
-      "Kayle",
-      "Sejuani",
-      "Shen",
-      "Akali",
-      "Diana"
-     ],
-     1.1
-    ],
-    [
-     [
-      "Camille",
-      "Caitlyn",
-      "Elise",
-      "Cassiopeia",
-      "Leona",
-      "Varus",
-      "Kayle",
-      "Sejuani",
-      "Shen",
-      "Akali",
-      "Diana"
-     ],
-     33.7
-    ],
-    [
-     [
-      "Camille",
-      "Caitlyn",
-      "Elise",
-      "Cassiopeia",
-      "Leona",
-      "Varus",
-      "Kayle",
-      "Sejuani",
-      "Shen",
-      "Akali",
-      "Diana"
-     ],
-     33.7
-    ],
-    [
-     [
-      "Camille",
-      "Caitlyn",
-      "Elise",
-      "Cassiopeia"
-     ],
-     33.7
-    ],
-    [
-     [
-      "Camille",
-      "Caitlyn",
-      "Elise",
-      "Cassiopeia"
-     ],
-     33.7
-    ],
-    [
-     [
-      "Camille",
-      "Caitlyn",
-      "Elise",
-      "Cassiopeia"
-     ],
-     33.7
-    ],
-    [
-     [
-      "Leona",
-      "Varus",
-      "Kayle",
-      "Sejuani",
-      "Shen"
-     ],
-     72
-    ],
-    [
-     [
-      "Leona",
-      "Varus",
-      "Kayle",
-      "Sejuani",
-      "Shen"
-     ],
-     72
-    ],
-    [
-     [
-      "Leona",
-      "Varus",
-      "Kayle",
-      "Sejuani",
-      "Shen"
-     ],
-     72
-    ],
-    [
-     [
-      "Akali",
-      "Leona",
-      "Varus",
-      "Kayle",
-      "Sejuani",
-      "Shen"
-     ],
-     44.1
-    ],
-    [
-     [
-      "Akali",
-      "Leona",
-      "Varus",
-      "Kayle",
-      "Sejuani",
-      "Shen"
-     ],
-     44.1
-    ],
-    [
-     [
-      "Akali",
-      "Leona",
-      "Varus",
-      "Kayle",
-      "Sejuani",
-      "Shen"
-     ],
-     44.1
-    ],
-    [
-     [
-      "Akali",
-      "Leona",
-      "Varus",
-      "Kayle",
-      "Sejuani",
-      "Shen",
-      "Diana"
-     ],
-     54.5
-    ],
-    [
-     [
-      "Akali",
-      "Leona",
-      "Varus",
-      "Kayle",
-      "Sejuani",
-      "Shen",
-      "Diana"
-     ],
-     54.5
-    ],
-    [
-     [
-      "Akali",
-      "Leona",
-      "Varus",
-      "Kayle",
-      "Sejuani",
-      "Shen",
-      "Diana"
-     ],
-     54.5
-    ]
-   ],
-   "board": [
-    [
-     "Taric",
-     0,
-     3
-    ],
-    [
-     "Maokai",
-     0,
-     4
-    ],
-    [
-     "Sejuani",
-     0,
-     5
-    ],
-    [
-     "Leona",
-     1,
-     2
-    ],
-    [
-     "Diana",
-     1,
-     3
-    ],
-    [
-     "Fiddlesticks",
-     1,
-     5
-    ],
-    [
-     "Aphelios",
-     3,
-     1
-    ],
-    [
-     "Alune",
-     3,
-     2
-    ],
-    [
-     "Kayle",
-     3,
-     7
-    ]
-   ],
-   "three": [],
-   "carries": [
-    [
-     "Aphelios",
-     [
-      "Kraken's Fury",
-      "Last Whisper",
-      "Red Buff"
-     ]
-    ],
-    [
-     "Alune",
-     [
-      "Blue Buff",
-      "Jeweled Gauntlet",
-      "Void Staff"
-     ]
-    ],
-    [
-     "Maokai",
-     [
-      "Gargoyle Stoneplate",
-      "Steadfast Heart",
-      "Warmog's Armor"
-     ]
-    ]
-   ],
-   "units": [
-    "Aphelios",
-    "Alune",
-    "Maokai",
-    "Taric",
-    "Diana",
-    "Fiddlesticks",
-    "Kayle",
-    "Sejuani",
-    "Leona"
-   ]
-  },
-  {
    "name": "Rival Kha'Zix",
    "tier": "B",
-   "avg": 4.64,
+   "avg": 4.63,
    "win": 9.9,
    "plan": "lvl 7",
    "steps": [],
@@ -6572,7 +6562,7 @@
       "Aphelios",
       "Ezreal"
      ],
-     54.2
+     55
     ],
     [
      [
@@ -6586,7 +6576,7 @@
       "Aphelios",
       "Ezreal"
      ],
-     54.2
+     55
     ],
     [
      [
@@ -6600,7 +6590,7 @@
       "Aphelios",
       "Ezreal"
      ],
-     69.1
+     68.5
     ],
     [
      [
@@ -6614,7 +6604,7 @@
       "Aphelios",
       "Ezreal"
      ],
-     69.1
+     68.5
     ],
     [
      [
@@ -6623,7 +6613,7 @@
       "Kha'Zix",
       "Rengar"
      ],
-     69.1
+     68.5
     ],
     [
      [
@@ -6632,7 +6622,7 @@
       "Kha'Zix",
       "Rengar"
      ],
-     69.1
+     68.5
     ],
     [
      [
@@ -6641,7 +6631,7 @@
       "Kha'Zix",
       "Rengar"
      ],
-     69.1
+     68.5
     ],
     [
      [
@@ -6651,7 +6641,7 @@
       "Kha'Zix",
       "Rengar"
      ],
-     61.3
+     61.8
     ],
     [
      [
@@ -6661,7 +6651,7 @@
       "Kha'Zix",
       "Rengar"
      ],
-     61.3
+     61.8
     ],
     [
      [
@@ -6671,7 +6661,7 @@
       "Kha'Zix",
       "Rengar"
      ],
-     61.3
+     61.8
     ],
     [
      [
@@ -6682,7 +6672,7 @@
       "Kha'Zix",
       "Rengar"
      ],
-     51.1
+     54.3
     ],
     [
      [
@@ -6693,7 +6683,7 @@
       "Kha'Zix",
       "Rengar"
      ],
-     51.1
+     54.3
     ],
     [
      [
@@ -6704,7 +6694,7 @@
       "Kha'Zix",
       "Rengar"
      ],
-     51.1
+     54.3
     ],
     [
      [
@@ -6791,30 +6781,31 @@
      "Kha'Zix",
      [
       "Hand Of Justice",
-      "Hand Of Justice",
-      "Hand Of Justice"
+      "Jeweled Gauntlet",
+      "Striker's Flail"
      ]
     ],
     [
      "Rengar",
      [
-      "Ravager Emblem",
       "Edge of Night",
-      "Guinsoo's Rageblade"
+      "Guinsoo's Rageblade",
+      "Titan's Resolve"
      ]
     ],
     [
      "Hecarim",
      [
       "Gargoyle Stoneplate",
-      "Gargoyle Stoneplate",
-      "Spirit Visage"
+      "Protector's Vow",
+      "Warmog's Armor"
      ]
     ],
     [
      "Diana",
      [
-      "Ionic Spark"
+      "Ionic Spark",
+      "Sunfire Cape"
      ]
     ]
    ],
@@ -6829,283 +6820,295 @@
    ]
   },
   {
-   "name": "Blossom Yunara",
+   "name": "Lunar Aphelios",
    "tier": "B",
-   "avg": 4.65,
+   "avg": 4.64,
    "win": 11.4,
-   "plan": "lvl 6",
+   "plan": "Fast 9",
    "steps": [],
    "early": [
     [
      [
-      "Yorick",
-      "Karma",
-      "Sejuani",
-      "Yunara",
-      "LeBlanc",
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
       "Leona",
-      "Kayle"
-     ],
-     38.5
-    ],
-    [
-     [
-      "Yorick",
-      "Karma",
-      "Sejuani",
-      "Yunara",
-      "LeBlanc",
-      "Leona",
-      "Kayle"
-     ],
-     38.5
-    ],
-    [
-     [
-      "Yorick",
-      "Karma",
-      "Sejuani",
-      "Yunara",
-      "LeBlanc",
-      "Leona",
-      "Kayle"
-     ],
-     55.4
-    ],
-    [
-     [
-      "Yorick",
-      "Karma",
-      "Sejuani",
-      "Yunara",
-      "LeBlanc",
-      "Leona",
-      "Kayle"
-     ],
-     55.4
-    ],
-    [
-     [
-      "Yorick",
-      "Karma",
-      "Sejuani",
-      "Yunara"
-     ],
-     55.4
-    ],
-    [
-     [
-      "Yorick",
-      "Karma",
-      "Sejuani",
-      "Yunara"
-     ],
-     55.4
-    ],
-    [
-     [
-      "Yorick",
-      "Karma",
-      "Sejuani",
-      "Yunara"
-     ],
-     55.4
-    ],
-    [
-     [
-      "Yorick",
-      "Karma",
-      "LeBlanc",
-      "Sejuani",
-      "Yunara"
-     ],
-     60.6
-    ],
-    [
-     [
-      "Yorick",
-      "Karma",
-      "LeBlanc",
-      "Sejuani",
-      "Yunara"
-     ],
-     60.6
-    ],
-    [
-     [
-      "Yorick",
-      "Karma",
-      "LeBlanc",
-      "Sejuani",
-      "Yunara"
-     ],
-     60.6
-    ],
-    [
-     [
-      "Leona",
-      "Yorick",
-      "Karma",
-      "LeBlanc",
-      "Sejuani",
-      "Yunara"
-     ],
-     54.2
-    ],
-    [
-     [
-      "Leona",
-      "Yorick",
-      "Karma",
-      "LeBlanc",
-      "Sejuani",
-      "Yunara"
-     ],
-     54.2
-    ],
-    [
-     [
-      "Leona",
-      "Yorick",
-      "Karma",
-      "LeBlanc",
-      "Sejuani",
-      "Yunara"
-     ],
-     54.2
-    ],
-    [
-     [
-      "Leona",
-      "Yorick",
-      "Karma",
+      "Varus",
       "Kayle",
-      "LeBlanc",
       "Sejuani",
-      "Yunara"
+      "Shen",
+      "Akali",
+      "Diana"
      ],
-     64.4
+     1.1
+    ],
+    [
+     [
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
+      "Leona",
+      "Varus",
+      "Kayle",
+      "Sejuani",
+      "Shen",
+      "Akali",
+      "Diana"
+     ],
+     1.1
+    ],
+    [
+     [
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
+      "Leona",
+      "Varus",
+      "Kayle",
+      "Sejuani",
+      "Shen",
+      "Akali",
+      "Diana"
+     ],
+     35.9
+    ],
+    [
+     [
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
+      "Leona",
+      "Varus",
+      "Kayle",
+      "Sejuani",
+      "Shen",
+      "Akali",
+      "Diana"
+     ],
+     35.9
+    ],
+    [
+     [
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia"
+     ],
+     35.9
+    ],
+    [
+     [
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia"
+     ],
+     35.9
+    ],
+    [
+     [
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia"
+     ],
+     35.9
     ],
     [
      [
       "Leona",
-      "Yorick",
-      "Karma",
+      "Varus",
       "Kayle",
-      "LeBlanc",
       "Sejuani",
-      "Yunara"
+      "Shen"
      ],
-     64.4
+     75
     ],
     [
      [
       "Leona",
-      "Yorick",
-      "Karma",
+      "Varus",
       "Kayle",
-      "LeBlanc",
       "Sejuani",
-      "Yunara"
+      "Shen"
      ],
-     64.4
+     75
+    ],
+    [
+     [
+      "Leona",
+      "Varus",
+      "Kayle",
+      "Sejuani",
+      "Shen"
+     ],
+     75
+    ],
+    [
+     [
+      "Akali",
+      "Leona",
+      "Varus",
+      "Kayle",
+      "Sejuani",
+      "Shen"
+     ],
+     47.6
+    ],
+    [
+     [
+      "Akali",
+      "Leona",
+      "Varus",
+      "Kayle",
+      "Sejuani",
+      "Shen"
+     ],
+     47.6
+    ],
+    [
+     [
+      "Akali",
+      "Leona",
+      "Varus",
+      "Kayle",
+      "Sejuani",
+      "Shen"
+     ],
+     47.6
+    ],
+    [
+     [
+      "Akali",
+      "Leona",
+      "Varus",
+      "Kayle",
+      "Sejuani",
+      "Shen",
+      "Diana"
+     ],
+     55
+    ],
+    [
+     [
+      "Akali",
+      "Leona",
+      "Varus",
+      "Kayle",
+      "Sejuani",
+      "Shen",
+      "Diana"
+     ],
+     55
+    ],
+    [
+     [
+      "Akali",
+      "Leona",
+      "Varus",
+      "Kayle",
+      "Sejuani",
+      "Shen",
+      "Diana"
+     ],
+     55
     ]
    ],
    "board": [
     [
-     "Sejuani",
+     "Taric",
+     0,
+     3
+    ],
+    [
+     "Maokai",
      0,
      4
     ],
     [
+     "Sejuani",
+     0,
+     5
+    ],
+    [
      "Leona",
+     1,
+     2
+    ],
+    [
+     "Diana",
+     1,
+     3
+    ],
+    [
+     "Fiddlesticks",
      1,
      5
     ],
     [
-     "Yorick",
-     2,
-     4
-    ],
-    [
-     "Yunara",
+     "Aphelios",
      3,
      1
     ],
     [
-     "LeBlanc",
+     "Alune",
      3,
      2
     ],
     [
      "Kayle",
      3,
-     3
-    ],
-    [
-     "Karma",
-     3,
-     9
+     7
     ]
    ],
-   "three": [
-    "Sejuani",
-    "Yunara",
-    "Karma",
-    "LeBlanc",
-    "Kayle",
-    "Leona",
-    "Yorick"
-   ],
+   "three": [],
    "carries": [
     [
-     "Sejuani",
+     "Aphelios",
      [
-      "Gargoyle Stoneplate",
-      "Spirit Visage",
-      "Warmog's Armor"
+      "Infinity Edge",
+      "Kraken's Fury",
+      "Last Whisper"
      ]
     ],
     [
-     "Yunara",
+     "Alune",
      [
-      "Deathblade",
-      "Last Whisper",
+      "Archangel's Staff",
+      "Morellonomicon",
       "Spear of Shojin"
      ]
     ],
     [
-     "Karma",
+     "Maokai",
      [
-      "Blue Buff",
-      "Jeweled Gauntlet",
-      "Rabadon's Deathcap"
-     ]
-    ],
-    [
-     "LeBlanc",
-     [
-      "Morellonomicon",
-      "Spear of Shojin",
-      "Void Staff"
+      "Dragon's Claw",
+      "Gargoyle Stoneplate",
+      "Warmog's Armor"
      ]
     ]
    ],
    "units": [
-    "Sejuani",
-    "Yunara",
-    "Karma",
-    "LeBlanc",
+    "Aphelios",
+    "Alune",
+    "Maokai",
+    "Taric",
+    "Diana",
+    "Fiddlesticks",
     "Kayle",
-    "Leona",
-    "Yorick"
+    "Sejuani",
+    "Leona"
    ]
   },
   {
    "name": "Juggernaut Sivir",
    "tier": "B",
-   "avg": 4.66,
-   "win": 12.5,
+   "avg": 4.67,
+   "win": 12.4,
    "plan": "Fast 9",
    "steps": [],
    "early": [
@@ -7121,9 +7124,10 @@
       "Alistar",
       "Shen",
       "Akali",
-      "Sejuani",
-      "Scuttlecrab",
-      "Tristana",
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
       "Vi",
       "Sivir"
      ],
@@ -7141,9 +7145,10 @@
       "Alistar",
       "Shen",
       "Akali",
-      "Sejuani",
-      "Scuttlecrab",
-      "Tristana",
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
       "Vi",
       "Sivir"
      ],
@@ -7161,13 +7166,14 @@
       "Alistar",
       "Shen",
       "Akali",
-      "Sejuani",
-      "Scuttlecrab",
-      "Tristana",
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
       "Vi",
       "Sivir"
      ],
-     54
+     54.2
     ],
     [
      [
@@ -7181,13 +7187,14 @@
       "Alistar",
       "Shen",
       "Akali",
-      "Sejuani",
-      "Scuttlecrab",
-      "Tristana",
+      "Camille",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
       "Vi",
       "Sivir"
      ],
-     54
+     54.2
     ],
     [
      [
@@ -7196,7 +7203,7 @@
       "Karma",
       "Yunara"
      ],
-     54
+     54.2
     ],
     [
      [
@@ -7205,7 +7212,7 @@
       "Karma",
       "Yunara"
      ],
-     54
+     54.2
     ],
     [
      [
@@ -7214,7 +7221,7 @@
       "Karma",
       "Yunara"
      ],
-     54
+     54.2
     ],
     [
      [
@@ -7224,7 +7231,7 @@
       "Alistar",
       "Shen"
      ],
-     80.5
+     80.7
     ],
     [
      [
@@ -7234,7 +7241,7 @@
       "Alistar",
       "Shen"
      ],
-     80.5
+     80.7
     ],
     [
      [
@@ -7244,7 +7251,7 @@
       "Alistar",
       "Shen"
      ],
-     80.5
+     80.7
     ],
     [
      [
@@ -7255,7 +7262,7 @@
       "Alistar",
       "Shen"
      ],
-     59.6
+     59.8
     ],
     [
      [
@@ -7266,7 +7273,7 @@
       "Alistar",
       "Shen"
      ],
-     59.6
+     59.8
     ],
     [
      [
@@ -7277,43 +7284,43 @@
       "Alistar",
       "Shen"
      ],
+     59.8
+    ],
+    [
+     [
+      "Camille",
+      "Rakan",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
+      "Vi",
+      "Sivir"
+     ],
      59.6
     ],
     [
      [
+      "Camille",
       "Rakan",
-      "Yorick",
-      "Sejuani",
-      "Scuttlecrab",
-      "Tristana",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
       "Vi",
       "Sivir"
      ],
-     56.8
+     59.6
     ],
     [
      [
+      "Camille",
       "Rakan",
-      "Yorick",
-      "Sejuani",
-      "Scuttlecrab",
-      "Tristana",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
       "Vi",
       "Sivir"
      ],
-     56.8
-    ],
-    [
-     [
-      "Rakan",
-      "Yorick",
-      "Sejuani",
-      "Scuttlecrab",
-      "Tristana",
-      "Vi",
-      "Sivir"
-     ],
-     56.8
+     59.6
     ]
    ],
    "board": [
@@ -7384,8 +7391,8 @@
     [
      "Amumu",
      [
-      "Gargoyle Stoneplate",
-      "Spirit Visage",
+      "Bramble Vest",
+      "Dragon's Claw",
       "Warmog's Armor"
      ]
     ],
@@ -7413,8 +7420,8 @@
   {
    "name": "Lunar Lillia",
    "tier": "B",
-   "avg": 4.67,
-   "win": 10.1,
+   "avg": 4.68,
+   "win": 10.2,
    "plan": "Fast 8",
    "steps": [],
    "early": [
@@ -7461,7 +7468,7 @@
       "Diana",
       "Aphelios"
      ],
-     59.9
+     59.5
     ],
     [
      [
@@ -7476,7 +7483,7 @@
       "Diana",
       "Aphelios"
      ],
-     59.9
+     59.5
     ],
     [
      [
@@ -7485,7 +7492,7 @@
       "Xayah",
       "Alistar"
      ],
-     59.9
+     59.5
     ],
     [
      [
@@ -7494,7 +7501,7 @@
       "Xayah",
       "Alistar"
      ],
-     59.9
+     59.5
     ],
     [
      [
@@ -7503,7 +7510,7 @@
       "Xayah",
       "Alistar"
      ],
-     59.9
+     59.5
     ],
     [
      [
@@ -7513,7 +7520,7 @@
       "LeBlanc",
       "Hecarim"
      ],
-     73.7
+     74.8
     ],
     [
      [
@@ -7523,7 +7530,7 @@
       "LeBlanc",
       "Hecarim"
      ],
-     73.7
+     74.8
     ],
     [
      [
@@ -7533,7 +7540,7 @@
       "LeBlanc",
       "Hecarim"
      ],
-     73.7
+     74.8
     ],
     [
      [
@@ -7544,7 +7551,7 @@
       "Alistar",
       "Shen"
      ],
-     52.2
+     50.7
     ],
     [
      [
@@ -7555,7 +7562,7 @@
       "Alistar",
       "Shen"
      ],
-     52.2
+     50.7
     ],
     [
      [
@@ -7566,7 +7573,7 @@
       "Alistar",
       "Shen"
      ],
-     52.2
+     50.7
     ],
     [
      [
@@ -7578,7 +7585,7 @@
       "Hecarim",
       "Aphelios"
      ],
-     61.3
+     71.4
     ],
     [
      [
@@ -7590,7 +7597,7 @@
       "Hecarim",
       "Aphelios"
      ],
-     61.3
+     71.4
     ],
     [
      [
@@ -7602,7 +7609,7 @@
       "Hecarim",
       "Aphelios"
      ],
-     61.3
+     71.4
     ]
    ],
    "board": [
@@ -7612,7 +7619,7 @@
      1
     ],
     [
-     "Hecarim",
+     "Alistar",
      0,
      3
     ],
@@ -7622,7 +7629,7 @@
      4
     ],
     [
-     "Alistar",
+     "Hecarim",
      0,
      5
     ],
@@ -7657,9 +7664,9 @@
     [
      "Lillia",
      [
-      "Lunar Emblem",
-      "Adaptive Helm",
-      "Protector's Vow"
+      "Bramble Vest",
+      "Protector's Vow",
+      "Spirit Visage"
      ]
     ],
     [
@@ -7674,14 +7681,14 @@
      "Alune",
      [
       "Adaptive Helm",
-      "Rabadon's Deathcap",
-      "Spear of Shojin"
+      "Archangel's Staff",
+      "Jeweled Gauntlet"
      ]
     ],
     [
      "Diana",
      [
-      "Evenshroud"
+      "Giant's Belt"
      ]
     ]
    ],
@@ -7715,7 +7722,7 @@
       "Kayle",
       "Sejuani"
      ],
-     39.7
+     39.3
     ],
     [
      [
@@ -7727,7 +7734,7 @@
       "Kayle",
       "Sejuani"
      ],
-     39.7
+     39.3
     ],
     [
      [
@@ -7739,7 +7746,7 @@
       "Kayle",
       "Sejuani"
      ],
-     60.1
+     60.4
     ],
     [
      [
@@ -7751,7 +7758,7 @@
       "Kayle",
       "Sejuani"
      ],
-     60.1
+     60.4
     ],
     [
      [
@@ -7760,7 +7767,7 @@
       "Leona",
       "Ornn"
      ],
-     60.1
+     60.4
     ],
     [
      [
@@ -7769,7 +7776,7 @@
       "Leona",
       "Ornn"
      ],
-     60.1
+     60.4
     ],
     [
      [
@@ -7778,7 +7785,7 @@
       "Leona",
       "Ornn"
      ],
-     60.1
+     60.4
     ],
     [
      [
@@ -7788,7 +7795,7 @@
       "Ornn",
       "Varus"
      ],
-     60
+     60.4
     ],
     [
      [
@@ -7798,7 +7805,7 @@
       "Ornn",
       "Varus"
      ],
-     60
+     60.4
     ],
     [
      [
@@ -7808,7 +7815,7 @@
       "Ornn",
       "Varus"
      ],
-     60
+     60.4
     ],
     [
      [
@@ -7819,7 +7826,7 @@
       "Varus",
       "Kayle"
      ],
-     55
+     55.3
     ],
     [
      [
@@ -7830,7 +7837,7 @@
       "Varus",
       "Kayle"
      ],
-     55
+     55.3
     ],
     [
      [
@@ -7841,7 +7848,7 @@
       "Varus",
       "Kayle"
      ],
-     55
+     55.3
     ],
     [
      [
@@ -7853,7 +7860,7 @@
       "Kayle",
       "Sejuani"
      ],
-     65.7
+     65.5
     ],
     [
      [
@@ -7865,7 +7872,7 @@
       "Kayle",
       "Sejuani"
      ],
-     65.7
+     65.5
     ],
     [
      [
@@ -7877,7 +7884,7 @@
       "Kayle",
       "Sejuani"
      ],
-     65.7
+     65.5
     ]
    ],
    "board": [
@@ -7952,9 +7959,9 @@
     [
      "Varus",
      [
-      "Giant Slayer",
       "Infinity Edge",
-      "Last Whisper"
+      "Last Whisper",
+      "Spear of Shojin"
      ]
     ]
    ],
@@ -7985,10 +7992,10 @@
       "Scuttlecrab",
       "Sejuani",
       "Vi",
-      "Sivir",
-      "Zyra"
+      "Zyra",
+      "Amumu"
      ],
-     0.5
+     0.6
     ],
     [
      [
@@ -7999,10 +8006,10 @@
       "Scuttlecrab",
       "Sejuani",
       "Vi",
-      "Sivir",
-      "Zyra"
+      "Zyra",
+      "Amumu"
      ],
-     0.5
+     0.6
     ],
     [
      [
@@ -8013,10 +8020,10 @@
       "Scuttlecrab",
       "Sejuani",
       "Vi",
-      "Sivir",
-      "Zyra"
+      "Zyra",
+      "Amumu"
      ],
-     53.4
+     54.4
     ],
     [
      [
@@ -8027,10 +8034,10 @@
       "Scuttlecrab",
       "Sejuani",
       "Vi",
-      "Sivir",
-      "Zyra"
+      "Zyra",
+      "Amumu"
      ],
-     53.4
+     54.4
     ],
     [
      [
@@ -8039,7 +8046,7 @@
       "Karma",
       "Yunara"
      ],
-     53.4
+     54.4
     ],
     [
      [
@@ -8048,7 +8055,7 @@
       "Karma",
       "Yunara"
      ],
-     53.4
+     54.4
     ],
     [
      [
@@ -8057,7 +8064,7 @@
       "Karma",
       "Yunara"
      ],
-     53.4
+     54.4
     ],
     [
      [
@@ -8067,7 +8074,7 @@
       "Yunara",
       "Scuttlecrab"
      ],
-     69.5
+     71.7
     ],
     [
      [
@@ -8077,7 +8084,7 @@
       "Yunara",
       "Scuttlecrab"
      ],
-     69.5
+     71.7
     ],
     [
      [
@@ -8087,18 +8094,7 @@
       "Yunara",
       "Scuttlecrab"
      ],
-     69.5
-    ],
-    [
-     [
-      "Rakan",
-      "Yorick",
-      "Karma",
-      "Sejuani",
-      "Yunara",
-      "Scuttlecrab"
-     ],
-     47.9
+     71.7
     ],
     [
      [
@@ -8109,7 +8105,7 @@
       "Yunara",
       "Scuttlecrab"
      ],
-     47.9
+     51.3
     ],
     [
      [
@@ -8120,19 +8116,18 @@
       "Yunara",
       "Scuttlecrab"
      ],
-     47.9
+     51.3
     ],
     [
      [
       "Rakan",
       "Yorick",
+      "Karma",
       "Sejuani",
-      "Scuttlecrab",
-      "Vi",
-      "Sivir",
-      "Zyra"
+      "Yunara",
+      "Scuttlecrab"
      ],
-     66.7
+     51.3
     ],
     [
      [
@@ -8141,10 +8136,10 @@
       "Sejuani",
       "Scuttlecrab",
       "Vi",
-      "Sivir",
-      "Zyra"
+      "Zyra",
+      "Amumu"
      ],
-     66.7
+     68.7
     ],
     [
      [
@@ -8153,10 +8148,22 @@
       "Sejuani",
       "Scuttlecrab",
       "Vi",
-      "Sivir",
-      "Zyra"
+      "Zyra",
+      "Amumu"
      ],
-     66.7
+     68.7
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Sejuani",
+      "Scuttlecrab",
+      "Vi",
+      "Zyra",
+      "Amumu"
+     ],
+     68.7
     ]
    ],
    "board": [
@@ -8219,8 +8226,8 @@
     [
      "Amumu",
      [
+      "Bramble Vest",
       "Gargoyle Stoneplate",
-      "Ionic Spark",
       "Spirit Visage"
      ]
     ],
@@ -8257,7 +8264,7 @@
    "name": "Rapidfire Kayle Xayah",
    "tier": "B",
    "avg": 4.73,
-   "win": 11.7,
+   "win": 11.6,
    "plan": "lvl 6",
    "steps": [],
    "early": [
@@ -8271,7 +8278,7 @@
       "Sejuani",
       "Hecarim"
      ],
-     39.8
+     39.7
     ],
     [
      [
@@ -8283,7 +8290,7 @@
       "Sejuani",
       "Hecarim"
      ],
-     39.8
+     39.7
     ],
     [
      [
@@ -8295,7 +8302,7 @@
       "Sejuani",
       "Hecarim"
      ],
-     45.6
+     46.3
     ],
     [
      [
@@ -8307,7 +8314,7 @@
       "Sejuani",
       "Hecarim"
      ],
-     45.6
+     46.3
     ],
     [
      [
@@ -8316,7 +8323,7 @@
       "Xayah",
       "Kayle"
      ],
-     45.6
+     46.3
     ],
     [
      [
@@ -8325,7 +8332,7 @@
       "Xayah",
       "Kayle"
      ],
-     45.6
+     46.3
     ],
     [
      [
@@ -8334,17 +8341,7 @@
       "Xayah",
       "Kayle"
      ],
-     45.6
-    ],
-    [
-     [
-      "Leona",
-      "Ornn",
-      "Rakan",
-      "Xayah",
-      "Kayle"
-     ],
-     45.7
+     46.3
     ],
     [
      [
@@ -8354,7 +8351,7 @@
       "Xayah",
       "Kayle"
      ],
-     45.7
+     46.2
     ],
     [
      [
@@ -8364,7 +8361,17 @@
       "Xayah",
       "Kayle"
      ],
-     45.7
+     46.2
+    ],
+    [
+     [
+      "Leona",
+      "Ornn",
+      "Rakan",
+      "Xayah",
+      "Kayle"
+     ],
+     46.2
     ],
     [
      [
@@ -8375,7 +8382,7 @@
       "Kayle",
       "Sejuani"
      ],
-     63.1
+     63.3
     ],
     [
      [
@@ -8386,7 +8393,7 @@
       "Kayle",
       "Sejuani"
      ],
-     63.1
+     63.3
     ],
     [
      [
@@ -8397,7 +8404,7 @@
       "Kayle",
       "Sejuani"
      ],
-     63.1
+     63.3
     ],
     [
      [
@@ -8409,7 +8416,7 @@
       "Sejuani",
       "Hecarim"
      ],
-     66.3
+     65.7
     ],
     [
      [
@@ -8421,7 +8428,7 @@
       "Sejuani",
       "Hecarim"
      ],
-     66.3
+     65.7
     ],
     [
      [
@@ -8433,7 +8440,7 @@
       "Sejuani",
       "Hecarim"
      ],
-     66.3
+     65.7
     ]
    ],
    "board": [
@@ -8485,25 +8492,25 @@
     [
      "Kayle",
      [
+      "Fae Emblem",
       "Guinsoo's Rageblade",
-      "Jeweled Gauntlet",
-      "Rabadon's Deathcap"
+      "Jeweled Gauntlet"
      ]
     ],
     [
      "Ornn",
      [
+      "Crownguard",
       "Gargoyle Stoneplate",
-      "Spirit Visage",
-      "Warmog's Armor"
+      "Gargoyle Stoneplate"
      ]
     ],
     [
      "Xayah",
      [
-      "Deathblade",
       "Giant Slayer",
-      "Kraken's Fury"
+      "Infinity Edge",
+      "Last Whisper"
      ]
     ],
     [
@@ -8526,9 +8533,295 @@
    ]
   },
   {
+   "name": "Vanguard Mama Beak",
+   "tier": "C",
+   "avg": 4.75,
+   "win": 10.4,
+   "plan": "lvl 7",
+   "steps": [],
+   "early": [
+    [
+     [
+      "Rakan",
+      "Xayah",
+      "Yorick",
+      "Rengar",
+      "Mama Beak",
+      "Ornn",
+      "Diana",
+      "Hecarim",
+      "Aphelios",
+      "Brambleback",
+      "Sentinel"
+     ],
+     43.3
+    ],
+    [
+     [
+      "Rakan",
+      "Xayah",
+      "Yorick",
+      "Rengar",
+      "Mama Beak",
+      "Ornn",
+      "Diana",
+      "Hecarim",
+      "Aphelios",
+      "Brambleback",
+      "Sentinel"
+     ],
+     43.3
+    ],
+    [
+     [
+      "Rakan",
+      "Xayah",
+      "Yorick",
+      "Rengar",
+      "Mama Beak",
+      "Ornn",
+      "Diana",
+      "Hecarim",
+      "Aphelios",
+      "Brambleback",
+      "Sentinel"
+     ],
+     52.9
+    ],
+    [
+     [
+      "Rakan",
+      "Xayah",
+      "Yorick",
+      "Rengar",
+      "Mama Beak",
+      "Ornn",
+      "Diana",
+      "Hecarim",
+      "Aphelios",
+      "Brambleback",
+      "Sentinel"
+     ],
+     52.9
+    ],
+    [
+     [
+      "Rakan",
+      "Xayah",
+      "Yorick",
+      "Rengar"
+     ],
+     52.9
+    ],
+    [
+     [
+      "Rakan",
+      "Xayah",
+      "Yorick",
+      "Rengar"
+     ],
+     52.9
+    ],
+    [
+     [
+      "Rakan",
+      "Xayah",
+      "Yorick",
+      "Rengar"
+     ],
+     52.9
+    ],
+    [
+     [
+      "Rakan",
+      "Xayah",
+      "Yorick",
+      "Rengar",
+      "Mama Beak"
+     ],
+     84.2
+    ],
+    [
+     [
+      "Rakan",
+      "Xayah",
+      "Yorick",
+      "Rengar",
+      "Mama Beak"
+     ],
+     84.2
+    ],
+    [
+     [
+      "Rakan",
+      "Xayah",
+      "Yorick",
+      "Rengar",
+      "Mama Beak"
+     ],
+     84.2
+    ],
+    [
+     [
+      "Ornn",
+      "Rakan",
+      "Xayah",
+      "Diana",
+      "Hecarim",
+      "Rengar"
+     ],
+     35.7
+    ],
+    [
+     [
+      "Ornn",
+      "Rakan",
+      "Xayah",
+      "Diana",
+      "Hecarim",
+      "Rengar"
+     ],
+     35.7
+    ],
+    [
+     [
+      "Ornn",
+      "Rakan",
+      "Xayah",
+      "Diana",
+      "Hecarim",
+      "Rengar"
+     ],
+     35.7
+    ],
+    [
+     [
+      "Diana",
+      "Hecarim",
+      "Rengar",
+      "Mama Beak",
+      "Aphelios",
+      "Brambleback",
+      "Sentinel"
+     ],
+     57.7
+    ],
+    [
+     [
+      "Diana",
+      "Hecarim",
+      "Rengar",
+      "Mama Beak",
+      "Aphelios",
+      "Brambleback",
+      "Sentinel"
+     ],
+     57.7
+    ],
+    [
+     [
+      "Diana",
+      "Hecarim",
+      "Rengar",
+      "Mama Beak",
+      "Aphelios",
+      "Brambleback",
+      "Sentinel"
+     ],
+     57.7
+    ]
+   ],
+   "board": [
+    [
+     "Sentinel",
+     0,
+     3
+    ],
+    [
+     "Hecarim",
+     0,
+     4
+    ],
+    [
+     "Rengar",
+     1,
+     2
+    ],
+    [
+     "Diana",
+     1,
+     3
+    ],
+    [
+     "Brambleback",
+     2,
+     1
+    ],
+    [
+     "Mama Beak",
+     3,
+     1
+    ],
+    [
+     "Aphelios",
+     3,
+     2
+    ]
+   ],
+   "three": [
+    "Rengar",
+    "Mama Beak",
+    "Hecarim",
+    "Diana"
+   ],
+   "carries": [
+    [
+     "Rengar",
+     [
+      "Ravager Emblem",
+      "Guinsoo's Rageblade",
+      "Titan's Resolve"
+     ]
+    ],
+    [
+     "Mama Beak",
+     [
+      "Giant Slayer",
+      "Guinsoo's Rageblade",
+      "Kraken's Fury"
+     ]
+    ],
+    [
+     "Hecarim",
+     [
+      "Evenshroud",
+      "Spirit Visage",
+      "Warmog's Armor"
+     ]
+    ],
+    [
+     "Diana",
+     [
+      "Hand Of Justice",
+      "Jeweled Gauntlet",
+      "Quicksilver"
+     ]
+    ]
+   ],
+   "units": [
+    "Rengar",
+    "Mama Beak",
+    "Hecarim",
+    "Diana",
+    "Aphelios",
+    "Brambleback",
+    "Sentinel"
+   ]
+  },
+  {
    "name": "Blossom Sett",
    "tier": "C",
-   "avg": 4.76,
+   "avg": 4.77,
    "win": 9.5,
    "plan": "Fast 9",
    "steps": [],
@@ -8544,10 +8837,11 @@
       "Elise",
       "Cassiopeia",
       "Diana",
-      "Vi",
-      "Sivir",
       "Master Yi",
-      "Sett"
+      "Vi",
+      "Ahri",
+      "Sett",
+      "Sivir"
      ],
      1
     ],
@@ -8562,10 +8856,11 @@
       "Elise",
       "Cassiopeia",
       "Diana",
-      "Vi",
-      "Sivir",
       "Master Yi",
-      "Sett"
+      "Vi",
+      "Ahri",
+      "Sett",
+      "Sivir"
      ],
      1
     ],
@@ -8580,12 +8875,13 @@
       "Elise",
       "Cassiopeia",
       "Diana",
-      "Vi",
-      "Sivir",
       "Master Yi",
-      "Sett"
+      "Vi",
+      "Ahri",
+      "Sett",
+      "Sivir"
      ],
-     54.8
+     55.3
     ],
     [
      [
@@ -8598,12 +8894,13 @@
       "Elise",
       "Cassiopeia",
       "Diana",
-      "Vi",
-      "Sivir",
       "Master Yi",
-      "Sett"
+      "Vi",
+      "Ahri",
+      "Sett",
+      "Sivir"
      ],
-     54.8
+     55.3
     ],
     [
      [
@@ -8612,7 +8909,7 @@
       "Karma",
       "Yunara"
      ],
-     54.8
+     55.3
     ],
     [
      [
@@ -8621,7 +8918,7 @@
       "Karma",
       "Yunara"
      ],
-     54.8
+     55.3
     ],
     [
      [
@@ -8630,7 +8927,7 @@
       "Karma",
       "Yunara"
      ],
-     54.8
+     55.3
     ],
     [
      [
@@ -8640,7 +8937,7 @@
       "Cassiopeia",
       "Diana"
      ],
-     56.4
+     57.9
     ],
     [
      [
@@ -8650,7 +8947,7 @@
       "Cassiopeia",
       "Diana"
      ],
-     56.4
+     57.9
     ],
     [
      [
@@ -8660,40 +8957,40 @@
       "Cassiopeia",
       "Diana"
      ],
-     56.4
+     57.9
     ],
     [
      [
-      "Camille",
-      "Caitlyn",
-      "Elise",
-      "Cassiopeia",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Master Yi",
       "Vi",
-      "Sivir"
+      "Ahri"
      ],
-     25
+     40
     ],
     [
      [
-      "Camille",
-      "Caitlyn",
-      "Elise",
-      "Cassiopeia",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Master Yi",
       "Vi",
-      "Sivir"
+      "Ahri"
      ],
-     25
+     40
     ],
     [
      [
-      "Camille",
-      "Caitlyn",
-      "Elise",
-      "Cassiopeia",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Master Yi",
       "Vi",
-      "Sivir"
+      "Ahri"
      ],
-     25
+     40
     ],
     [
      [
@@ -8761,7 +9058,7 @@
     [
      "Kennen",
      2,
-     4
+     3
     ],
     [
      "Ashe",
@@ -8779,9 +9076,9 @@
     [
      "Sett",
      [
-      "Bramble Vest",
-      "Dragon's Claw",
-      "Spirit Visage"
+      "Vanguard Emblem",
+      "Gargoyle Stoneplate",
+      "Warmog's Armor"
      ]
     ],
     [
@@ -8814,8 +9111,8 @@
   {
    "name": "Invoker Nidalee",
    "tier": "C",
-   "avg": 4.78,
-   "win": 6.8,
+   "avg": 4.79,
+   "win": 6.6,
    "plan": "Fast 8",
    "steps": [],
    "early": [
@@ -8830,8 +9127,6 @@
       "Elise",
       "Cassiopeia",
       "Diana",
-      "Pebbles",
-      "Teemo",
       "Gromp",
       "Scuttlecrab",
       "Kog'Maw",
@@ -8839,7 +9134,7 @@
       "Nidalee",
       "Sentinel"
      ],
-     2.4
+     2.3
     ],
     [
      [
@@ -8852,8 +9147,6 @@
       "Elise",
       "Cassiopeia",
       "Diana",
-      "Pebbles",
-      "Teemo",
       "Gromp",
       "Scuttlecrab",
       "Kog'Maw",
@@ -8861,7 +9154,7 @@
       "Nidalee",
       "Sentinel"
      ],
-     2.4
+     2.3
     ],
     [
      [
@@ -8874,8 +9167,6 @@
       "Elise",
       "Cassiopeia",
       "Diana",
-      "Pebbles",
-      "Teemo",
       "Gromp",
       "Scuttlecrab",
       "Kog'Maw",
@@ -8883,7 +9174,7 @@
       "Nidalee",
       "Sentinel"
      ],
-     55.4
+     61.1
     ],
     [
      [
@@ -8896,8 +9187,6 @@
       "Elise",
       "Cassiopeia",
       "Diana",
-      "Pebbles",
-      "Teemo",
       "Gromp",
       "Scuttlecrab",
       "Kog'Maw",
@@ -8905,7 +9194,7 @@
       "Nidalee",
       "Sentinel"
      ],
-     55.4
+     61.1
     ],
     [
      [
@@ -8914,7 +9203,7 @@
       "Karma",
       "Yunara"
      ],
-     55.4
+     61.1
     ],
     [
      [
@@ -8923,7 +9212,7 @@
       "Karma",
       "Yunara"
      ],
-     55.4
+     61.1
     ],
     [
      [
@@ -8932,7 +9221,7 @@
       "Karma",
       "Yunara"
      ],
-     55.4
+     61.1
     ],
     [
      [
@@ -8942,7 +9231,7 @@
       "Cassiopeia",
       "Diana"
      ],
-     46.7
+     48.3
     ],
     [
      [
@@ -8952,7 +9241,7 @@
       "Cassiopeia",
       "Diana"
      ],
-     46.7
+     48.3
     ],
     [
      [
@@ -8962,40 +9251,40 @@
       "Cassiopeia",
       "Diana"
      ],
-     46.7
+     48.3
     ],
     [
      [
-      "Pebbles",
-      "Teemo",
       "Gromp",
       "Scuttlecrab",
       "Kog'Maw",
-      "Vi"
+      "Vi",
+      "Nidalee",
+      "Sentinel"
      ],
-     88.6
+     79.3
     ],
     [
      [
-      "Pebbles",
-      "Teemo",
       "Gromp",
       "Scuttlecrab",
       "Kog'Maw",
-      "Vi"
+      "Vi",
+      "Nidalee",
+      "Sentinel"
      ],
-     88.6
+     79.3
     ],
     [
      [
-      "Pebbles",
-      "Teemo",
       "Gromp",
       "Scuttlecrab",
       "Kog'Maw",
-      "Vi"
+      "Vi",
+      "Nidalee",
+      "Sentinel"
      ],
-     88.6
+     79.3
     ],
     [
      [
@@ -9007,7 +9296,7 @@
       "Nidalee",
       "Sentinel"
      ],
-     65
+     51.7
     ],
     [
      [
@@ -9019,7 +9308,7 @@
       "Nidalee",
       "Sentinel"
      ],
-     65
+     51.7
     ],
     [
      [
@@ -9031,12 +9320,12 @@
       "Nidalee",
       "Sentinel"
      ],
-     65
+     51.7
     ]
    ],
    "board": [
     [
-     "Taric",
+     "Vi",
      0,
      3
     ],
@@ -9046,7 +9335,7 @@
      4
     ],
     [
-     "Vi",
+     "Taric",
      0,
      5
     ],
@@ -9081,31 +9370,31 @@
     [
      "Nidalee",
      [
-      "Hunter Emblem",
-      "Infinity Edge",
-      "Sterak's Gage"
+      "Bloodthirster",
+      "Edge of Night",
+      "Infinity Edge"
      ]
     ],
     [
      "Sentinel",
      [
       "Adaptive Helm",
-      "Adaptive Helm",
+      "Protector's Vow",
       "Protector's Vow"
      ]
     ],
     [
      "Morgana",
      [
-      "Adaptive Helm",
       "Morellonomicon",
-      "Rabadon's Deathcap"
+      "Rabadon's Deathcap",
+      "Void Staff"
      ]
     ],
     [
      "Kog'Maw",
      [
-      "Hextech Gunblade"
+      "Tacticians Crown"
      ]
     ]
    ],
@@ -9118,296 +9407,6 @@
     "Vi",
     "Scuttlecrab",
     "Pebbles"
-   ]
-  },
-  {
-   "name": "Vanguard Mama Beak",
-   "tier": "C",
-   "avg": 4.78,
-   "win": 10.2,
-   "plan": "lvl 7",
-   "steps": [],
-   "early": [
-    [
-     [
-      "Yorick",
-      "Scuttlecrab",
-      "Rengar",
-      "Mama Beak",
-      "Rakan",
-      "Xayah",
-      "Ornn",
-      "Diana",
-      "Hecarim",
-      "Aphelios",
-      "Brambleback",
-      "Sentinel"
-     ],
-     44.2
-    ],
-    [
-     [
-      "Yorick",
-      "Scuttlecrab",
-      "Rengar",
-      "Mama Beak",
-      "Rakan",
-      "Xayah",
-      "Ornn",
-      "Diana",
-      "Hecarim",
-      "Aphelios",
-      "Brambleback",
-      "Sentinel"
-     ],
-     44.2
-    ],
-    [
-     [
-      "Yorick",
-      "Scuttlecrab",
-      "Rengar",
-      "Mama Beak",
-      "Rakan",
-      "Xayah",
-      "Ornn",
-      "Diana",
-      "Hecarim",
-      "Aphelios",
-      "Brambleback",
-      "Sentinel"
-     ],
-     65
-    ],
-    [
-     [
-      "Yorick",
-      "Scuttlecrab",
-      "Rengar",
-      "Mama Beak",
-      "Rakan",
-      "Xayah",
-      "Ornn",
-      "Diana",
-      "Hecarim",
-      "Aphelios",
-      "Brambleback",
-      "Sentinel"
-     ],
-     65
-    ],
-    [
-     [
-      "Yorick",
-      "Scuttlecrab",
-      "Rengar",
-      "Mama Beak"
-     ],
-     65
-    ],
-    [
-     [
-      "Yorick",
-      "Scuttlecrab",
-      "Rengar",
-      "Mama Beak"
-     ],
-     65
-    ],
-    [
-     [
-      "Yorick",
-      "Scuttlecrab",
-      "Rengar",
-      "Mama Beak"
-     ],
-     65
-    ],
-    [
-     [
-      "Rakan",
-      "Xayah",
-      "Yorick",
-      "Rengar",
-      "Mama Beak"
-     ],
-     85
-    ],
-    [
-     [
-      "Rakan",
-      "Xayah",
-      "Yorick",
-      "Rengar",
-      "Mama Beak"
-     ],
-     85
-    ],
-    [
-     [
-      "Rakan",
-      "Xayah",
-      "Yorick",
-      "Rengar",
-      "Mama Beak"
-     ],
-     85
-    ],
-    [
-     [
-      "Ornn",
-      "Rakan",
-      "Xayah",
-      "Diana",
-      "Hecarim",
-      "Rengar"
-     ],
-     35.7
-    ],
-    [
-     [
-      "Ornn",
-      "Rakan",
-      "Xayah",
-      "Diana",
-      "Hecarim",
-      "Rengar"
-     ],
-     35.7
-    ],
-    [
-     [
-      "Ornn",
-      "Rakan",
-      "Xayah",
-      "Diana",
-      "Hecarim",
-      "Rengar"
-     ],
-     35.7
-    ],
-    [
-     [
-      "Diana",
-      "Hecarim",
-      "Rengar",
-      "Mama Beak",
-      "Aphelios",
-      "Brambleback",
-      "Sentinel"
-     ],
-     58.7
-    ],
-    [
-     [
-      "Diana",
-      "Hecarim",
-      "Rengar",
-      "Mama Beak",
-      "Aphelios",
-      "Brambleback",
-      "Sentinel"
-     ],
-     58.7
-    ],
-    [
-     [
-      "Diana",
-      "Hecarim",
-      "Rengar",
-      "Mama Beak",
-      "Aphelios",
-      "Brambleback",
-      "Sentinel"
-     ],
-     58.7
-    ]
-   ],
-   "board": [
-    [
-     "Sentinel",
-     0,
-     3
-    ],
-    [
-     "Hecarim",
-     0,
-     4
-    ],
-    [
-     "Rengar",
-     1,
-     2
-    ],
-    [
-     "Diana",
-     1,
-     3
-    ],
-    [
-     "Brambleback",
-     2,
-     1
-    ],
-    [
-     "Mama Beak",
-     3,
-     1
-    ],
-    [
-     "Aphelios",
-     3,
-     2
-    ]
-   ],
-   "three": [
-    "Rengar",
-    "Mama Beak",
-    "Hecarim",
-    "Diana"
-   ],
-   "carries": [
-    [
-     "Rengar",
-     [
-      "Ravager Emblem",
-      "Edge of Night",
-      "Guinsoo's Rageblade"
-     ]
-    ],
-    [
-     "Mama Beak",
-     [
-      "Deathblade",
-      "Guinsoo's Rageblade",
-      "Kraken's Fury"
-     ]
-    ],
-    [
-     "Hecarim",
-     [
-      "Evenshroud",
-      "Spirit Visage",
-      "Warmog's Armor"
-     ]
-    ],
-    [
-     "Diana",
-     [
-      "Hand Of Justice",
-      "Jeweled Gauntlet",
-      "Quicksilver"
-     ]
-    ]
-   ],
-   "units": [
-    "Rengar",
-    "Mama Beak",
-    "Hecarim",
-    "Diana",
-    "Aphelios",
-    "Brambleback",
-    "Sentinel"
    ]
   },
   {
@@ -9430,7 +9429,7 @@
       "Brambleback",
       "Sentinel"
      ],
-     24.4
+     24.2
     ],
     [
      [
@@ -9444,7 +9443,7 @@
       "Brambleback",
       "Sentinel"
      ],
-     24.4
+     24.2
     ],
     [
      [
@@ -9458,7 +9457,7 @@
       "Brambleback",
       "Sentinel"
      ],
-     60.4
+     57.5
     ],
     [
      [
@@ -9472,7 +9471,7 @@
       "Brambleback",
       "Sentinel"
      ],
-     60.4
+     57.5
     ],
     [
      [
@@ -9481,7 +9480,7 @@
       "Cinderling",
       "Scuttlecrab"
      ],
-     60.4
+     57.5
     ],
     [
      [
@@ -9490,7 +9489,7 @@
       "Cinderling",
       "Scuttlecrab"
      ],
-     60.4
+     57.5
     ],
     [
      [
@@ -9499,7 +9498,7 @@
       "Cinderling",
       "Scuttlecrab"
      ],
-     60.4
+     57.5
     ],
     [
      [
@@ -9540,7 +9539,7 @@
       "Scuttlecrab",
       "Krug"
      ],
-     51.4
+     52.3
     ],
     [
      [
@@ -9551,7 +9550,7 @@
       "Scuttlecrab",
       "Krug"
      ],
-     51.4
+     52.3
     ],
     [
      [
@@ -9562,7 +9561,7 @@
       "Scuttlecrab",
       "Krug"
      ],
-     51.4
+     52.3
     ],
     [
      [
@@ -9574,7 +9573,7 @@
       "Brambleback",
       "Sentinel"
      ],
-     61.3
+     62.1
     ],
     [
      [
@@ -9586,7 +9585,7 @@
       "Brambleback",
       "Sentinel"
      ],
-     61.3
+     62.1
     ],
     [
      [
@@ -9598,7 +9597,7 @@
       "Brambleback",
       "Sentinel"
      ],
-     61.3
+     62.1
     ]
    ],
    "board": [
@@ -9671,7 +9670,7 @@
      "Pebbles",
      [
       "Archangel's Staff",
-      "Blue Buff",
+      "Archangel's Staff",
       "Hextech Gunblade"
      ]
     ],
@@ -9696,6 +9695,585 @@
    ]
   },
   {
+   "name": "Sprykin Veigar",
+   "tier": "C",
+   "avg": 4.94,
+   "win": 4.7,
+   "plan": "lvl 5",
+   "steps": [],
+   "early": [
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Teemo",
+      "Fiddlesticks",
+      "Rammus",
+      "Tristana"
+     ],
+     30.4
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Teemo",
+      "Fiddlesticks",
+      "Rammus",
+      "Tristana"
+     ],
+     30.4
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Teemo",
+      "Fiddlesticks",
+      "Rammus",
+      "Tristana"
+     ],
+     61.9
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Teemo",
+      "Fiddlesticks",
+      "Rammus",
+      "Tristana"
+     ],
+     61.9
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Teemo"
+     ],
+     61.9
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Teemo"
+     ],
+     61.9
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Teemo"
+     ],
+     61.9
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Teemo",
+      "Fiddlesticks"
+     ],
+     67
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Teemo",
+      "Fiddlesticks"
+     ],
+     67
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Teemo",
+      "Fiddlesticks"
+     ],
+     67
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Teemo",
+      "Rammus",
+      "Fiddlesticks"
+     ],
+     61.8
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Teemo",
+      "Rammus",
+      "Fiddlesticks"
+     ],
+     61.8
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Teemo",
+      "Rammus",
+      "Fiddlesticks"
+     ],
+     61.8
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Teemo",
+      "Rammus",
+      "Tristana",
+      "Fiddlesticks"
+     ],
+     55.3
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Teemo",
+      "Rammus",
+      "Tristana",
+      "Fiddlesticks"
+     ],
+     55.3
+    ],
+    [
+     [
+      "Kobuko",
+      "Rek'Sai",
+      "Veigar",
+      "Teemo",
+      "Rammus",
+      "Tristana",
+      "Fiddlesticks"
+     ],
+     55.3
+    ]
+   ],
+   "board": [
+    [
+     "Rek'Sai",
+     0,
+     4
+    ],
+    [
+     "Gnar",
+     1,
+     5
+    ],
+    [
+     "Fiddlesticks",
+     2,
+     3
+    ],
+    [
+     "Kobuko",
+     2,
+     4
+    ],
+    [
+     "Rammus",
+     2,
+     5
+    ],
+    [
+     "Sett",
+     2,
+     7
+    ],
+    [
+     "Veigar",
+     3,
+     1
+    ],
+    [
+     "Teemo",
+     3,
+     2
+    ]
+   ],
+   "three": [
+    "Veigar",
+    "Rek'Sai",
+    "Teemo",
+    "Kobuko"
+   ],
+   "carries": [
+    [
+     "Veigar",
+     [
+      "Blue Buff",
+      "Hextech Gunblade",
+      "Jeweled Gauntlet"
+     ]
+    ],
+    [
+     "Rek'Sai",
+     [
+      "Gargoyle Stoneplate",
+      "Spirit Visage",
+      "Spirit Visage"
+     ]
+    ],
+    [
+     "Teemo",
+     [
+      "Blue Buff",
+      "Morellonomicon",
+      "Void Staff"
+     ]
+    ],
+    [
+     "Rammus",
+     [
+      "Brawler Emblem",
+      "Gargoyle Stoneplate",
+      "Warmog's Armor"
+     ]
+    ]
+   ],
+   "units": [
+    "Veigar",
+    "Rek'Sai",
+    "Teemo",
+    "Rammus",
+    "Gnar",
+    "Sett",
+    "Fiddlesticks",
+    "Kobuko"
+   ]
+  },
+  {
+   "name": "Primal Nidalee",
+   "tier": "C",
+   "avg": 4.95,
+   "win": 6,
+   "plan": "Fast 8",
+   "steps": [],
+   "early": [
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Akali",
+      "Camille",
+      "Leona",
+      "Varus",
+      "Shen",
+      "Vi",
+      "Amumu",
+      "Nidalee",
+      "Cinderling",
+      "Gromp",
+      "Scuttlecrab",
+      "Rengar",
+      "Sivir"
+     ],
+     1.5
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Akali",
+      "Camille",
+      "Leona",
+      "Varus",
+      "Shen",
+      "Vi",
+      "Amumu",
+      "Nidalee",
+      "Cinderling",
+      "Gromp",
+      "Scuttlecrab",
+      "Rengar",
+      "Sivir"
+     ],
+     1.5
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Akali",
+      "Camille",
+      "Leona",
+      "Varus",
+      "Shen",
+      "Vi",
+      "Amumu",
+      "Nidalee",
+      "Cinderling",
+      "Gromp",
+      "Scuttlecrab",
+      "Rengar",
+      "Sivir"
+     ],
+     47.2
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Akali",
+      "Camille",
+      "Leona",
+      "Varus",
+      "Shen",
+      "Vi",
+      "Amumu",
+      "Nidalee",
+      "Cinderling",
+      "Gromp",
+      "Scuttlecrab",
+      "Rengar",
+      "Sivir"
+     ],
+     47.2
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara"
+     ],
+     47.2
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara"
+     ],
+     47.2
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara"
+     ],
+     47.2
+    ],
+    [
+     [
+      "Akali",
+      "Camille",
+      "Leona",
+      "Varus",
+      "Shen"
+     ],
+     75
+    ],
+    [
+     [
+      "Akali",
+      "Camille",
+      "Leona",
+      "Varus",
+      "Shen"
+     ],
+     75
+    ],
+    [
+     [
+      "Akali",
+      "Camille",
+      "Leona",
+      "Varus",
+      "Shen"
+     ],
+     75
+    ],
+    [
+     [
+      "Akali",
+      "Varus",
+      "Shen",
+      "Vi",
+      "Amumu",
+      "Nidalee"
+     ],
+     71.4
+    ],
+    [
+     [
+      "Akali",
+      "Varus",
+      "Shen",
+      "Vi",
+      "Amumu",
+      "Nidalee"
+     ],
+     71.4
+    ],
+    [
+     [
+      "Akali",
+      "Varus",
+      "Shen",
+      "Vi",
+      "Amumu",
+      "Nidalee"
+     ],
+     71.4
+    ],
+    [
+     [
+      "Cinderling",
+      "Gromp",
+      "Scuttlecrab",
+      "Rengar",
+      "Vi",
+      "Sivir",
+      "Nidalee"
+     ],
+     62.5
+    ],
+    [
+     [
+      "Cinderling",
+      "Gromp",
+      "Scuttlecrab",
+      "Rengar",
+      "Vi",
+      "Sivir",
+      "Nidalee"
+     ],
+     62.5
+    ],
+    [
+     [
+      "Cinderling",
+      "Gromp",
+      "Scuttlecrab",
+      "Rengar",
+      "Vi",
+      "Sivir",
+      "Nidalee"
+     ],
+     62.5
+    ]
+   ],
+   "board": [
+    [
+     "Scuttlecrab",
+     0,
+     1
+    ],
+    [
+     "Hecarim",
+     0,
+     3
+    ],
+    [
+     "Amumu",
+     0,
+     4
+    ],
+    [
+     "Sentinel",
+     0,
+     5
+    ],
+    [
+     "Nidalee",
+     2,
+     0
+    ],
+    [
+     "Sivir",
+     3,
+     1
+    ],
+    [
+     "Kog'Maw",
+     3,
+     2
+    ],
+    [
+     "Cinderling",
+     3,
+     9
+    ]
+   ],
+   "three": [],
+   "carries": [
+    [
+     "Nidalee",
+     [
+      "Hunter Emblem",
+      "Bloodthirster",
+      "Sterak's Gage"
+     ]
+    ],
+    [
+     "Sivir",
+     [
+      "Blue Buff",
+      "Infinity Edge",
+      "Striker's Flail"
+     ]
+    ],
+    [
+     "Amumu",
+     [
+      "Gargoyle Stoneplate",
+      "Spirit Visage",
+      "Steadfast Heart"
+     ]
+    ]
+   ],
+   "units": [
+    "Nidalee",
+    "Sivir",
+    "Amumu",
+    "Sentinel",
+    "Hecarim",
+    "Kog'Maw",
+    "Scuttlecrab",
+    "Cinderling"
+   ]
+  },
+  {
    "name": "Juggernaut Caitlyn",
    "tier": "C",
    "avg": 4.95,
@@ -9716,7 +10294,7 @@
       "Vi",
       "Sivir"
      ],
-     26.5
+     25.9
     ],
     [
      [
@@ -9731,7 +10309,7 @@
       "Vi",
       "Sivir"
      ],
-     26.5
+     25.9
     ],
     [
      [
@@ -9746,7 +10324,7 @@
       "Vi",
       "Sivir"
      ],
-     39
+     39.7
     ],
     [
      [
@@ -9761,7 +10339,7 @@
       "Vi",
       "Sivir"
      ],
-     39
+     39.7
     ],
     [
      [
@@ -9770,7 +10348,7 @@
       "Caitlyn",
       "Elise"
      ],
-     39
+     39.7
     ],
     [
      [
@@ -9779,7 +10357,7 @@
       "Caitlyn",
       "Elise"
      ],
-     39
+     39.7
     ],
     [
      [
@@ -9788,7 +10366,7 @@
       "Caitlyn",
       "Elise"
      ],
-     39
+     39.7
     ],
     [
      [
@@ -9798,7 +10376,7 @@
       "Sejuani",
       "Scuttlecrab"
      ],
-     54.7
+     53.3
     ],
     [
      [
@@ -9808,7 +10386,7 @@
       "Sejuani",
       "Scuttlecrab"
      ],
-     54.7
+     53.3
     ],
     [
      [
@@ -9818,7 +10396,7 @@
       "Sejuani",
       "Scuttlecrab"
      ],
-     54.7
+     53.3
     ],
     [
      [
@@ -9829,7 +10407,7 @@
       "Tristana",
       "Vi"
      ],
-     62.5
+     63.1
     ],
     [
      [
@@ -9840,7 +10418,7 @@
       "Tristana",
       "Vi"
      ],
-     62.5
+     63.1
     ],
     [
      [
@@ -9851,7 +10429,7 @@
       "Tristana",
       "Vi"
      ],
-     62.5
+     63.1
     ],
     [
      [
@@ -9863,7 +10441,7 @@
       "Vi",
       "Sivir"
      ],
-     61.1
+     61.9
     ],
     [
      [
@@ -9875,7 +10453,7 @@
       "Vi",
       "Sivir"
      ],
-     61.1
+     61.9
     ],
     [
      [
@@ -9887,7 +10465,7 @@
       "Vi",
       "Sivir"
      ],
-     61.1
+     61.9
     ]
    ],
    "board": [
@@ -9958,8 +10536,8 @@
      "Scuttlecrab",
      [
       "Gargoyle Stoneplate",
-      "Spirit Visage",
-      "Warmog's Armor"
+      "Gargoyle Stoneplate",
+      "Spirit Visage"
      ]
     ],
     [
@@ -9983,589 +10561,10 @@
    ]
   },
   {
-   "name": "Sprykin Veigar",
-   "tier": "C",
-   "avg": 4.95,
-   "win": 4.8,
-   "plan": "lvl 5",
-   "steps": [],
-   "early": [
-    [
-     [
-      "Kobuko",
-      "Rek'Sai",
-      "Veigar",
-      "Teemo",
-      "Fiddlesticks",
-      "Rammus",
-      "Tristana"
-     ],
-     30.9
-    ],
-    [
-     [
-      "Kobuko",
-      "Rek'Sai",
-      "Veigar",
-      "Teemo",
-      "Fiddlesticks",
-      "Rammus",
-      "Tristana"
-     ],
-     30.9
-    ],
-    [
-     [
-      "Kobuko",
-      "Rek'Sai",
-      "Veigar",
-      "Teemo",
-      "Fiddlesticks",
-      "Rammus",
-      "Tristana"
-     ],
-     61.1
-    ],
-    [
-     [
-      "Kobuko",
-      "Rek'Sai",
-      "Veigar",
-      "Teemo",
-      "Fiddlesticks",
-      "Rammus",
-      "Tristana"
-     ],
-     61.1
-    ],
-    [
-     [
-      "Kobuko",
-      "Rek'Sai",
-      "Veigar",
-      "Teemo"
-     ],
-     61.1
-    ],
-    [
-     [
-      "Kobuko",
-      "Rek'Sai",
-      "Veigar",
-      "Teemo"
-     ],
-     61.1
-    ],
-    [
-     [
-      "Kobuko",
-      "Rek'Sai",
-      "Veigar",
-      "Teemo"
-     ],
-     61.1
-    ],
-    [
-     [
-      "Kobuko",
-      "Rek'Sai",
-      "Veigar",
-      "Teemo",
-      "Fiddlesticks"
-     ],
-     67.3
-    ],
-    [
-     [
-      "Kobuko",
-      "Rek'Sai",
-      "Veigar",
-      "Teemo",
-      "Fiddlesticks"
-     ],
-     67.3
-    ],
-    [
-     [
-      "Kobuko",
-      "Rek'Sai",
-      "Veigar",
-      "Teemo",
-      "Fiddlesticks"
-     ],
-     67.3
-    ],
-    [
-     [
-      "Kobuko",
-      "Rek'Sai",
-      "Veigar",
-      "Teemo",
-      "Rammus",
-      "Fiddlesticks"
-     ],
-     62.9
-    ],
-    [
-     [
-      "Kobuko",
-      "Rek'Sai",
-      "Veigar",
-      "Teemo",
-      "Rammus",
-      "Fiddlesticks"
-     ],
-     62.9
-    ],
-    [
-     [
-      "Kobuko",
-      "Rek'Sai",
-      "Veigar",
-      "Teemo",
-      "Rammus",
-      "Fiddlesticks"
-     ],
-     62.9
-    ],
-    [
-     [
-      "Kobuko",
-      "Rek'Sai",
-      "Veigar",
-      "Teemo",
-      "Rammus",
-      "Tristana",
-      "Fiddlesticks"
-     ],
-     55.7
-    ],
-    [
-     [
-      "Kobuko",
-      "Rek'Sai",
-      "Veigar",
-      "Teemo",
-      "Rammus",
-      "Tristana",
-      "Fiddlesticks"
-     ],
-     55.7
-    ],
-    [
-     [
-      "Kobuko",
-      "Rek'Sai",
-      "Veigar",
-      "Teemo",
-      "Rammus",
-      "Tristana",
-      "Fiddlesticks"
-     ],
-     55.7
-    ]
-   ],
-   "board": [
-    [
-     "Rek'Sai",
-     0,
-     4
-    ],
-    [
-     "Gnar",
-     1,
-     5
-    ],
-    [
-     "Fiddlesticks",
-     2,
-     3
-    ],
-    [
-     "Kobuko",
-     2,
-     4
-    ],
-    [
-     "Rammus",
-     2,
-     5
-    ],
-    [
-     "Sett",
-     2,
-     7
-    ],
-    [
-     "Veigar",
-     3,
-     1
-    ],
-    [
-     "Teemo",
-     3,
-     2
-    ]
-   ],
-   "three": [
-    "Veigar",
-    "Rek'Sai",
-    "Teemo",
-    "Kobuko"
-   ],
-   "carries": [
-    [
-     "Veigar",
-     [
-      "Flora Fatalis Emblem",
-      "Jeweled Gauntlet",
-      "Striker's Flail"
-     ]
-    ],
-    [
-     "Rek'Sai",
-     [
-      "Gargoyle Stoneplate",
-      "Gargoyle Stoneplate",
-      "Spirit Visage"
-     ]
-    ],
-    [
-     "Teemo",
-     [
-      "Blue Buff",
-      "Morellonomicon",
-      "Void Staff"
-     ]
-    ],
-    [
-     "Rammus",
-     [
-      "Bramble Vest",
-      "Gargoyle Stoneplate",
-      "Spirit Visage"
-     ]
-    ]
-   ],
-   "units": [
-    "Veigar",
-    "Rek'Sai",
-    "Teemo",
-    "Rammus",
-    "Gnar",
-    "Sett",
-    "Fiddlesticks",
-    "Kobuko"
-   ]
-  },
-  {
-   "name": "Primal Nidalee",
-   "tier": "C",
-   "avg": 4.96,
-   "win": 6.1,
-   "plan": "Fast 8",
-   "steps": [],
-   "early": [
-    [
-     [
-      "Rakan",
-      "Yorick",
-      "Karma",
-      "Yunara",
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Shen",
-      "Alistar",
-      "Cinderling",
-      "Gromp",
-      "Scuttlecrab",
-      "Rengar",
-      "Vi",
-      "Sivir",
-      "Nidalee"
-     ],
-     1.5
-    ],
-    [
-     [
-      "Rakan",
-      "Yorick",
-      "Karma",
-      "Yunara",
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Shen",
-      "Alistar",
-      "Cinderling",
-      "Gromp",
-      "Scuttlecrab",
-      "Rengar",
-      "Vi",
-      "Sivir",
-      "Nidalee"
-     ],
-     1.5
-    ],
-    [
-     [
-      "Rakan",
-      "Yorick",
-      "Karma",
-      "Yunara",
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Shen",
-      "Alistar",
-      "Cinderling",
-      "Gromp",
-      "Scuttlecrab",
-      "Rengar",
-      "Vi",
-      "Sivir",
-      "Nidalee"
-     ],
-     43.2
-    ],
-    [
-     [
-      "Rakan",
-      "Yorick",
-      "Karma",
-      "Yunara",
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Shen",
-      "Alistar",
-      "Cinderling",
-      "Gromp",
-      "Scuttlecrab",
-      "Rengar",
-      "Vi",
-      "Sivir",
-      "Nidalee"
-     ],
-     43.2
-    ],
-    [
-     [
-      "Rakan",
-      "Yorick",
-      "Karma",
-      "Yunara"
-     ],
-     43.2
-    ],
-    [
-     [
-      "Rakan",
-      "Yorick",
-      "Karma",
-      "Yunara"
-     ],
-     43.2
-    ],
-    [
-     [
-      "Rakan",
-      "Yorick",
-      "Karma",
-      "Yunara"
-     ],
-     43.2
-    ],
-    [
-     [
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Shen"
-     ],
-     60
-    ],
-    [
-     [
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Shen"
-     ],
-     60
-    ],
-    [
-     [
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Shen"
-     ],
-     60
-    ],
-    [
-     [
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Alistar",
-      "Shen"
-     ],
-     46.7
-    ],
-    [
-     [
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Alistar",
-      "Shen"
-     ],
-     46.7
-    ],
-    [
-     [
-      "Akali",
-      "Ornn",
-      "Varus",
-      "Xayah",
-      "Alistar",
-      "Shen"
-     ],
-     46.7
-    ],
-    [
-     [
-      "Cinderling",
-      "Gromp",
-      "Scuttlecrab",
-      "Rengar",
-      "Vi",
-      "Sivir",
-      "Nidalee"
-     ],
-     63.6
-    ],
-    [
-     [
-      "Cinderling",
-      "Gromp",
-      "Scuttlecrab",
-      "Rengar",
-      "Vi",
-      "Sivir",
-      "Nidalee"
-     ],
-     63.6
-    ],
-    [
-     [
-      "Cinderling",
-      "Gromp",
-      "Scuttlecrab",
-      "Rengar",
-      "Vi",
-      "Sivir",
-      "Nidalee"
-     ],
-     63.6
-    ]
-   ],
-   "board": [
-    [
-     "Scuttlecrab",
-     0,
-     1
-    ],
-    [
-     "Sentinel",
-     0,
-     3
-    ],
-    [
-     "Amumu",
-     0,
-     4
-    ],
-    [
-     "Hecarim",
-     0,
-     5
-    ],
-    [
-     "Nidalee",
-     2,
-     0
-    ],
-    [
-     "Sivir",
-     3,
-     1
-    ],
-    [
-     "Kog'Maw",
-     3,
-     2
-    ],
-    [
-     "Cinderling",
-     3,
-     9
-    ]
-   ],
-   "three": [],
-   "carries": [
-    [
-     "Nidalee",
-     [
-      "Deathblade",
-      "Edge of Night",
-      "Infinity Edge"
-     ]
-    ],
-    [
-     "Sivir",
-     [
-      "Blue Buff",
-      "Infinity Edge",
-      "Striker's Flail"
-     ]
-    ],
-    [
-     "Amumu",
-     [
-      "Evenshroud",
-      "Gargoyle Stoneplate",
-      "Warmog's Armor"
-     ]
-    ]
-   ],
-   "units": [
-    "Nidalee",
-    "Sivir",
-    "Amumu",
-    "Sentinel",
-    "Hecarim",
-    "Kog'Maw",
-    "Scuttlecrab",
-    "Cinderling"
-   ]
-  },
-  {
    "name": "Juggernaut Zyra Azir",
    "tier": "C",
-   "avg": 4.96,
-   "win": 6.5,
+   "avg": 4.97,
+   "win": 6.3,
    "plan": "Fast 8",
    "steps": [],
    "early": [
@@ -10575,13 +10574,18 @@
       "Yorick",
       "Karma",
       "Yunara",
-      "Scuttlecrab",
       "Azir",
       "Sejuani",
+      "Scuttlecrab",
       "Vi",
+      "Veigar",
+      "Teemo",
+      "Rammus",
+      "Fiddlesticks",
+      "Soraka",
       "Zyra"
      ],
-     4.8
+     5
     ],
     [
      [
@@ -10589,13 +10593,18 @@
       "Yorick",
       "Karma",
       "Yunara",
-      "Scuttlecrab",
       "Azir",
       "Sejuani",
+      "Scuttlecrab",
       "Vi",
+      "Veigar",
+      "Teemo",
+      "Rammus",
+      "Fiddlesticks",
+      "Soraka",
       "Zyra"
      ],
-     4.8
+     5
     ],
     [
      [
@@ -10603,13 +10612,18 @@
       "Yorick",
       "Karma",
       "Yunara",
-      "Scuttlecrab",
       "Azir",
       "Sejuani",
+      "Scuttlecrab",
       "Vi",
+      "Veigar",
+      "Teemo",
+      "Rammus",
+      "Fiddlesticks",
+      "Soraka",
       "Zyra"
      ],
-     52.1
+     51.9
     ],
     [
      [
@@ -10617,13 +10631,18 @@
       "Yorick",
       "Karma",
       "Yunara",
-      "Scuttlecrab",
       "Azir",
       "Sejuani",
+      "Scuttlecrab",
       "Vi",
+      "Veigar",
+      "Teemo",
+      "Rammus",
+      "Fiddlesticks",
+      "Soraka",
       "Zyra"
      ],
-     52.1
+     51.9
     ],
     [
      [
@@ -10632,7 +10651,7 @@
       "Karma",
       "Yunara"
      ],
-     52.1
+     51.9
     ],
     [
      [
@@ -10641,7 +10660,7 @@
       "Karma",
       "Yunara"
      ],
-     52.1
+     51.9
     ],
     [
      [
@@ -10650,37 +10669,37 @@
       "Karma",
       "Yunara"
      ],
-     52.1
+     51.9
     ],
     [
      [
+      "Rakan",
       "Yorick",
       "Karma",
       "Yunara",
-      "Scuttlecrab",
       "Azir"
      ],
-     75
+     78.1
     ],
     [
      [
+      "Rakan",
       "Yorick",
       "Karma",
       "Yunara",
-      "Scuttlecrab",
       "Azir"
      ],
-     75
+     78.1
     ],
     [
      [
+      "Rakan",
       "Yorick",
       "Karma",
       "Yunara",
-      "Scuttlecrab",
       "Azir"
      ],
-     75
+     78.1
     ],
     [
      [
@@ -10691,7 +10710,7 @@
       "Azir",
       "Vi"
      ],
-     50
+     44
     ],
     [
      [
@@ -10702,7 +10721,7 @@
       "Azir",
       "Vi"
      ],
-     50
+     44
     ],
     [
      [
@@ -10713,43 +10732,43 @@
       "Azir",
       "Vi"
      ],
-     50
+     44
     ],
     [
      [
-      "Rakan",
-      "Yorick",
-      "Sejuani",
-      "Scuttlecrab",
+      "Veigar",
+      "Teemo",
       "Azir",
-      "Vi",
+      "Rammus",
+      "Fiddlesticks",
+      "Soraka",
       "Zyra"
      ],
-     62.5
+     74.1
     ],
     [
      [
-      "Rakan",
-      "Yorick",
-      "Sejuani",
-      "Scuttlecrab",
+      "Veigar",
+      "Teemo",
       "Azir",
-      "Vi",
+      "Rammus",
+      "Fiddlesticks",
+      "Soraka",
       "Zyra"
      ],
-     62.5
+     74.1
     ],
     [
      [
-      "Rakan",
-      "Yorick",
-      "Sejuani",
-      "Scuttlecrab",
+      "Veigar",
+      "Teemo",
       "Azir",
-      "Vi",
+      "Rammus",
+      "Fiddlesticks",
+      "Soraka",
       "Zyra"
      ],
-     62.5
+     74.1
     ]
    ],
    "board": [
@@ -10800,16 +10819,16 @@
      "Zyra",
      [
       "Executioner Emblem",
-      "Morellonomicon",
+      "Archangel's Staff",
       "Void Staff"
      ]
     ],
     [
      "Azir",
      [
-      "Hextech Gunblade",
-      "Rabadon's Deathcap",
-      "Striker's Flail"
+      "Giant Slayer",
+      "Guinsoo's Rageblade",
+      "Void Staff"
      ]
     ],
     [
@@ -10835,7 +10854,7 @@
   {
    "name": "Blackthorn Veigar",
    "tier": "D",
-   "avg": 5.01,
+   "avg": 5.02,
    "win": 7.8,
    "plan": "lvl 5",
    "steps": [],
@@ -10851,7 +10870,7 @@
       "Azir",
       "Malphite"
      ],
-     12.2
+     13.6
     ],
     [
      [
@@ -10864,7 +10883,7 @@
       "Azir",
       "Malphite"
      ],
-     12.2
+     13.6
     ],
     [
      [
@@ -10877,7 +10896,7 @@
       "Azir",
       "Malphite"
      ],
-     64.4
+     63.8
     ],
     [
      [
@@ -10890,7 +10909,7 @@
       "Azir",
       "Malphite"
      ],
-     64.4
+     63.8
     ],
     [
      [
@@ -10899,7 +10918,7 @@
       "Veigar",
       "Teemo"
      ],
-     64.4
+     63.8
     ],
     [
      [
@@ -10908,7 +10927,7 @@
       "Veigar",
       "Teemo"
      ],
-     64.4
+     63.8
     ],
     [
      [
@@ -10917,7 +10936,7 @@
       "Veigar",
       "Teemo"
      ],
-     64.4
+     63.8
     ],
     [
      [
@@ -10927,7 +10946,7 @@
       "Rammus",
       "Fiddlesticks"
      ],
-     69.1
+     70
     ],
     [
      [
@@ -10937,7 +10956,7 @@
       "Rammus",
       "Fiddlesticks"
      ],
-     69.1
+     70
     ],
     [
      [
@@ -10947,7 +10966,7 @@
       "Rammus",
       "Fiddlesticks"
      ],
-     69.1
+     70
     ],
     [
      [
@@ -10958,7 +10977,7 @@
       "Rammus",
       "Fiddlesticks"
      ],
-     61.1
+     60
     ],
     [
      [
@@ -10969,7 +10988,7 @@
       "Rammus",
       "Fiddlesticks"
      ],
-     61.1
+     60
     ],
     [
      [
@@ -10980,7 +10999,7 @@
       "Rammus",
       "Fiddlesticks"
      ],
-     61.1
+     60
     ],
     [
      [
@@ -11026,8 +11045,13 @@
      4
     ],
     [
+     "Fiddlesticks",
+     1,
+     3
+    ],
+    [
      "Kobuko",
-     0,
+     1,
      5
     ],
     [
@@ -11044,11 +11068,6 @@
      "Rammus",
      2,
      5
-    ],
-    [
-     "Fiddlesticks",
-     2,
-     7
     ],
     [
      "Veigar",
@@ -11072,15 +11091,15 @@
      [
       "Blue Buff",
       "Hextech Gunblade",
-      "Jeweled Gauntlet"
+      "Rabadon's Deathcap"
      ]
     ],
     [
      "Malphite",
      [
-      "Crownguard",
       "Gargoyle Stoneplate",
-      "Warmog's Armor"
+      "Gargoyle Stoneplate",
+      "Spirit Visage"
      ]
     ],
     [
@@ -11088,7 +11107,7 @@
      [
       "Giant Slayer",
       "Guinsoo's Rageblade",
-      "Jeweled Gauntlet"
+      "Void Staff"
      ]
     ],
     [
@@ -11115,7 +11134,7 @@
    "name": "Flora Fatalis Soraka",
    "tier": "D",
    "avg": 5.05,
-   "win": 6.7,
+   "win": 6.8,
    "plan": "Fast 8",
    "steps": [],
    "early": [
@@ -11125,22 +11144,21 @@
       "Yorick",
       "Karma",
       "Yunara",
-      "Akali",
-      "Camille",
       "Ornn",
       "Varus",
-      "Shen",
       "Xayah",
-      "Alistar",
       "LeBlanc",
+      "Shen",
+      "Alistar",
       "Hecarim",
       "Fiddlesticks",
-      "Diana",
       "Kha'Zix",
-      "Ezreal",
-      "Soraka"
+      "Vi",
+      "Soraka",
+      "Kennen",
+      "Maokai"
      ],
-     1.1
+     1.3
     ],
     [
      [
@@ -11148,22 +11166,21 @@
       "Yorick",
       "Karma",
       "Yunara",
-      "Akali",
-      "Camille",
       "Ornn",
       "Varus",
-      "Shen",
       "Xayah",
-      "Alistar",
       "LeBlanc",
+      "Shen",
+      "Alistar",
       "Hecarim",
       "Fiddlesticks",
-      "Diana",
       "Kha'Zix",
-      "Ezreal",
-      "Soraka"
+      "Vi",
+      "Soraka",
+      "Kennen",
+      "Maokai"
      ],
-     1.1
+     1.3
     ],
     [
      [
@@ -11171,22 +11188,21 @@
       "Yorick",
       "Karma",
       "Yunara",
-      "Akali",
-      "Camille",
       "Ornn",
       "Varus",
-      "Shen",
       "Xayah",
-      "Alistar",
       "LeBlanc",
+      "Shen",
+      "Alistar",
       "Hecarim",
       "Fiddlesticks",
-      "Diana",
       "Kha'Zix",
-      "Ezreal",
-      "Soraka"
+      "Vi",
+      "Soraka",
+      "Kennen",
+      "Maokai"
      ],
-     47.4
+     45.2
     ],
     [
      [
@@ -11194,22 +11210,21 @@
       "Yorick",
       "Karma",
       "Yunara",
-      "Akali",
-      "Camille",
       "Ornn",
       "Varus",
-      "Shen",
       "Xayah",
-      "Alistar",
       "LeBlanc",
+      "Shen",
+      "Alistar",
       "Hecarim",
       "Fiddlesticks",
-      "Diana",
       "Kha'Zix",
-      "Ezreal",
-      "Soraka"
+      "Vi",
+      "Soraka",
+      "Kennen",
+      "Maokai"
      ],
-     47.4
+     45.2
     ],
     [
      [
@@ -11218,7 +11233,7 @@
       "Karma",
       "Yunara"
      ],
-     47.4
+     45.2
     ],
     [
      [
@@ -11227,7 +11242,7 @@
       "Karma",
       "Yunara"
      ],
-     47.4
+     45.2
     ],
     [
      [
@@ -11236,37 +11251,37 @@
       "Karma",
       "Yunara"
      ],
-     47.4
+     45.2
     ],
     [
      [
-      "Akali",
-      "Camille",
       "Ornn",
       "Varus",
+      "Xayah",
+      "LeBlanc",
       "Shen"
      ],
-     75
+     84.6
     ],
     [
      [
-      "Akali",
-      "Camille",
       "Ornn",
       "Varus",
+      "Xayah",
+      "LeBlanc",
       "Shen"
      ],
-     75
+     84.6
     ],
     [
      [
-      "Akali",
-      "Camille",
       "Ornn",
       "Varus",
+      "Xayah",
+      "LeBlanc",
       "Shen"
      ],
-     75
+     84.6
     ],
     [
      [
@@ -11303,39 +11318,39 @@
     ],
     [
      [
-      "Ornn",
-      "Diana",
-      "Hecarim",
+      "Shen",
       "Kha'Zix",
       "Fiddlesticks",
-      "Ezreal",
-      "Soraka"
+      "Vi",
+      "Soraka",
+      "Kennen",
+      "Maokai"
      ],
-     75
+     80
     ],
     [
      [
-      "Ornn",
-      "Diana",
-      "Hecarim",
+      "Shen",
       "Kha'Zix",
       "Fiddlesticks",
-      "Ezreal",
-      "Soraka"
+      "Vi",
+      "Soraka",
+      "Kennen",
+      "Maokai"
      ],
-     75
+     80
     ],
     [
      [
-      "Ornn",
-      "Diana",
-      "Hecarim",
+      "Shen",
       "Kha'Zix",
       "Fiddlesticks",
-      "Ezreal",
-      "Soraka"
+      "Vi",
+      "Soraka",
+      "Kennen",
+      "Maokai"
      ],
-     75
+     80
     ]
    ],
    "board": [
@@ -11377,7 +11392,7 @@
     [
      "Ivern",
      3,
-     6
+     3
     ],
     [
      "Alune",
@@ -11390,17 +11405,17 @@
     [
      "Soraka",
      [
-      "Blue Buff",
-      "Jeweled Gauntlet",
+      "Giant Slayer",
+      "Nashor's Tooth",
       "Rabadon's Deathcap"
      ]
     ],
     [
      "Amumu",
      [
-      "Crownguard",
+      "Dragon's Claw",
       "Gargoyle Stoneplate",
-      "Gargoyle Stoneplate"
+      "Warmog's Armor"
      ]
     ],
     [
@@ -11408,7 +11423,7 @@
      [
       "Edge of Night",
       "Hand Of Justice",
-      "Ionic Spark"
+      "Rabadon's Deathcap"
      ]
     ]
    ],
@@ -11435,11 +11450,11 @@
     [
      [
       "Akali",
-      "Leona",
+      "Ornn",
       "Varus",
       "Shen",
-      "Ornn",
       "Xayah",
+      "Leona",
       "Kayle",
       "Sejuani",
       "Diana",
@@ -11450,11 +11465,11 @@
     [
      [
       "Akali",
-      "Leona",
+      "Ornn",
       "Varus",
       "Shen",
-      "Ornn",
       "Xayah",
+      "Leona",
       "Kayle",
       "Sejuani",
       "Diana",
@@ -11465,59 +11480,59 @@
     [
      [
       "Akali",
-      "Leona",
+      "Ornn",
       "Varus",
       "Shen",
-      "Ornn",
       "Xayah",
+      "Leona",
       "Kayle",
       "Sejuani",
       "Diana",
       "Aphelios"
      ],
-     52.1
+     43.1
     ],
     [
      [
       "Akali",
-      "Leona",
+      "Ornn",
       "Varus",
       "Shen",
-      "Ornn",
       "Xayah",
+      "Leona",
       "Kayle",
       "Sejuani",
       "Diana",
       "Aphelios"
      ],
-     52.1
+     43.1
     ],
     [
      [
       "Akali",
-      "Leona",
+      "Ornn",
       "Varus",
       "Shen"
      ],
-     52.1
+     43.1
     ],
     [
      [
       "Akali",
-      "Leona",
+      "Ornn",
       "Varus",
       "Shen"
      ],
-     52.1
+     43.1
     ],
     [
      [
       "Akali",
-      "Leona",
+      "Ornn",
       "Varus",
       "Shen"
      ],
-     52.1
+     43.1
     ],
     [
      [
@@ -11527,7 +11542,7 @@
       "Xayah",
       "Shen"
      ],
-     57.9
+     63.5
     ],
     [
      [
@@ -11537,7 +11552,7 @@
       "Xayah",
       "Shen"
      ],
-     57.9
+     63.5
     ],
     [
      [
@@ -11547,7 +11562,7 @@
       "Xayah",
       "Shen"
      ],
-     57.9
+     63.5
     ],
     [
      [
@@ -11558,7 +11573,7 @@
       "Sejuani",
       "Shen"
      ],
-     52.4
+     59.5
     ],
     [
      [
@@ -11569,7 +11584,7 @@
       "Sejuani",
       "Shen"
      ],
-     52.4
+     59.5
     ],
     [
      [
@@ -11580,19 +11595,7 @@
       "Sejuani",
       "Shen"
      ],
-     52.4
-    ],
-    [
-     [
-      "Leona",
-      "Varus",
-      "Kayle",
-      "Sejuani",
-      "Shen",
-      "Diana",
-      "Aphelios"
-     ],
-     63.2
+     59.5
     ],
     [
      [
@@ -11604,7 +11607,7 @@
       "Diana",
       "Aphelios"
      ],
-     63.2
+     61.9
     ],
     [
      [
@@ -11616,7 +11619,19 @@
       "Diana",
       "Aphelios"
      ],
-     63.2
+     61.9
+    ],
+    [
+     [
+      "Leona",
+      "Varus",
+      "Kayle",
+      "Sejuani",
+      "Shen",
+      "Diana",
+      "Aphelios"
+     ],
+     61.9
     ]
    ],
    "board": [
@@ -11671,9 +11686,9 @@
     [
      "Amumu",
      [
-      "Vanguard Emblem",
       "Gargoyle Stoneplate",
-      "Warmog's Armor"
+      "Spirit Visage",
+      "Spirit Visage"
      ]
     ],
     [
@@ -11681,7 +11696,7 @@
      [
       "Guinsoo's Rageblade",
       "Infinity Edge",
-      "Striker's Flail"
+      "Last Whisper"
      ]
     ],
     [
@@ -11708,8 +11723,8 @@
   {
    "name": "Vanguard Elise Cassiopeia",
    "tier": "D",
-   "avg": 5.26,
-   "win": 11.1,
+   "avg": 5.25,
+   "win": 11.2,
    "plan": "lvl 6",
    "steps": [],
    "early": [
@@ -11726,7 +11741,7 @@
       "Sentinel",
       "Alune"
      ],
-     31.2
+     31.4
     ],
     [
      [
@@ -11741,22 +11756,7 @@
       "Sentinel",
       "Alune"
      ],
-     31.2
-    ],
-    [
-     [
-      "Camille",
-      "Caitlyn",
-      "Elise",
-      "Cassiopeia",
-      "Rakan",
-      "Diana",
-      "Hecarim",
-      "Morgana",
-      "Sentinel",
-      "Alune"
-     ],
-     29.9
+     31.4
     ],
     [
      [
@@ -11778,6 +11778,21 @@
       "Camille",
       "Caitlyn",
       "Elise",
+      "Cassiopeia",
+      "Rakan",
+      "Diana",
+      "Hecarim",
+      "Morgana",
+      "Sentinel",
+      "Alune"
+     ],
+     29.9
+    ],
+    [
+     [
+      "Camille",
+      "Caitlyn",
+      "Elise",
       "Cassiopeia"
      ],
      29.9
@@ -11808,7 +11823,7 @@
       "Elise",
       "Cassiopeia"
      ],
-     48.1
+     47.7
     ],
     [
      [
@@ -11818,7 +11833,7 @@
       "Elise",
       "Cassiopeia"
      ],
-     48.1
+     47.7
     ],
     [
      [
@@ -11828,7 +11843,7 @@
       "Elise",
       "Cassiopeia"
      ],
-     48.1
+     47.7
     ],
     [
      [
@@ -11839,7 +11854,7 @@
       "Diana",
       "Hecarim"
      ],
-     46.2
+     46.3
     ],
     [
      [
@@ -11850,7 +11865,7 @@
       "Diana",
       "Hecarim"
      ],
-     46.2
+     46.3
     ],
     [
      [
@@ -11861,7 +11876,7 @@
       "Diana",
       "Hecarim"
      ],
-     46.2
+     46.3
     ],
     [
      [
@@ -11873,7 +11888,7 @@
       "Sentinel",
       "Alune"
      ],
-     81.1
+     81.5
     ],
     [
      [
@@ -11885,7 +11900,7 @@
       "Sentinel",
       "Alune"
      ],
-     81.1
+     81.5
     ],
     [
      [
@@ -11897,7 +11912,7 @@
       "Sentinel",
       "Alune"
      ],
-     81.1
+     81.5
     ]
    ],
    "board": [
@@ -11992,8 +12007,8 @@
   {
    "name": "Rival Kha'Zix Fiddlesticks",
    "tier": "D",
-   "avg": 5.65,
-   "win": 4.4,
+   "avg": 5.68,
+   "win": 4.3,
    "plan": "lvl 7",
    "steps": [],
    "early": [
@@ -12015,7 +12030,7 @@
       "Ezreal",
       "Soraka"
      ],
-     25.2
+     24
     ],
     [
      [
@@ -12035,27 +12050,7 @@
       "Ezreal",
       "Soraka"
      ],
-     25.2
-    ],
-    [
-     [
-      "Ornn",
-      "Alistar",
-      "LeBlanc",
-      "Kha'Zix",
-      "Rakan",
-      "Yorick",
-      "Karma",
-      "Yunara",
-      "Rek'Sai",
-      "Azir",
-      "Diana",
-      "Hecarim",
-      "Fiddlesticks",
-      "Ezreal",
-      "Soraka"
-     ],
-     72.7
+     24
     ],
     [
      [
@@ -12082,7 +12077,18 @@
       "Ornn",
       "Alistar",
       "LeBlanc",
-      "Kha'Zix"
+      "Kha'Zix",
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Rek'Sai",
+      "Azir",
+      "Diana",
+      "Hecarim",
+      "Fiddlesticks",
+      "Ezreal",
+      "Soraka"
      ],
      72.7
     ],
@@ -12106,13 +12112,12 @@
     ],
     [
      [
-      "Rakan",
-      "Yorick",
-      "Karma",
-      "Yunara",
+      "Ornn",
+      "Alistar",
+      "LeBlanc",
       "Kha'Zix"
      ],
-     77.8
+     72.7
     ],
     [
      [
@@ -12122,7 +12127,7 @@
       "Yunara",
       "Kha'Zix"
      ],
-     77.8
+     75
     ],
     [
      [
@@ -12132,7 +12137,17 @@
       "Yunara",
       "Kha'Zix"
      ],
-     77.8
+     75
+    ],
+    [
+     [
+      "Rakan",
+      "Yorick",
+      "Karma",
+      "Yunara",
+      "Kha'Zix"
+     ],
+     75
     ],
     [
      [
@@ -12177,7 +12192,7 @@
       "Ezreal",
       "Soraka"
      ],
-     78.3
+     88.2
     ],
     [
      [
@@ -12189,7 +12204,7 @@
       "Ezreal",
       "Soraka"
      ],
-     78.3
+     88.2
     ],
     [
      [
@@ -12201,7 +12216,7 @@
       "Ezreal",
       "Soraka"
      ],
-     78.3
+     88.2
     ]
    ],
    "board": [
@@ -12221,7 +12236,7 @@
      4
     ],
     [
-     "Amumu",
+     "Rakan",
      0,
      5
     ],
@@ -12236,14 +12251,14 @@
      0
     ],
     [
-     "Rakan",
-     2,
-     4
-    ],
-    [
-     "Alune",
+     "Aphelios",
      3,
      1
+    ],
+    [
+     "Nidalee",
+     3,
+     2
     ]
    ],
    "three": [
@@ -12261,26 +12276,28 @@
     [
      "Fiddlesticks",
      [
+      "Crownguard",
       "Gargoyle Stoneplate",
-      "Spirit Visage",
       "Warmog's Armor"
      ]
     ],
     [
-     "Diana",
+     "Aphelios",
      [
-      "Tacticians Crown"
+      "Guinsoo's Rageblade",
+      "Kraken's Fury",
+      "Red Buff"
      ]
     ]
    ],
    "units": [
     "Kha'Zix",
     "Fiddlesticks",
-    "Diana",
-    "Alune",
+    "Aphelios",
     "Lillia",
-    "Amumu",
-    "Gromp",
+    "Nidalee",
+    "Diana",
+    "Master Yi",
     "Akali",
     "Rakan"
    ]
@@ -12288,7 +12305,7 @@
   {
    "name": "Fae Xayah",
    "tier": "D",
-   "avg": 5.87,
+   "avg": 5.84,
    "win": 3.8,
    "plan": "lvl 5",
    "steps": [],
@@ -12304,7 +12321,7 @@
       "Tristana",
       "Lillia"
      ],
-     20.3
+     20.6
     ],
     [
      [
@@ -12317,7 +12334,7 @@
       "Tristana",
       "Lillia"
      ],
-     20.3
+     20.6
     ],
     [
      [
@@ -12330,7 +12347,7 @@
       "Tristana",
       "Lillia"
      ],
-     33.3
+     35.5
     ],
     [
      [
@@ -12343,7 +12360,7 @@
       "Tristana",
       "Lillia"
      ],
-     33.3
+     35.5
     ],
     [
      [
@@ -12352,7 +12369,7 @@
       "Varus",
       "Xayah"
      ],
-     33.3
+     35.5
     ],
     [
      [
@@ -12361,7 +12378,7 @@
       "Varus",
       "Xayah"
      ],
-     33.3
+     35.5
     ],
     [
      [
@@ -12370,7 +12387,7 @@
       "Varus",
       "Xayah"
      ],
-     33.3
+     35.5
     ],
     [
      [
@@ -12380,7 +12397,7 @@
       "Xayah",
       "Hecarim"
      ],
-     67.2
+     65.3
     ],
     [
      [
@@ -12390,7 +12407,7 @@
       "Xayah",
       "Hecarim"
      ],
-     67.2
+     65.3
     ],
     [
      [
@@ -12400,18 +12417,7 @@
       "Xayah",
       "Hecarim"
      ],
-     67.2
-    ],
-    [
-     [
-      "Ornn",
-      "Rakan",
-      "Varus",
-      "Xayah",
-      "Shen",
-      "Hecarim"
-     ],
-     67.6
+     65.3
     ],
     [
      [
@@ -12422,7 +12428,7 @@
       "Shen",
       "Hecarim"
      ],
-     67.6
+     67.1
     ],
     [
      [
@@ -12433,7 +12439,18 @@
       "Shen",
       "Hecarim"
      ],
-     67.6
+     67.1
+    ],
+    [
+     [
+      "Ornn",
+      "Rakan",
+      "Varus",
+      "Xayah",
+      "Shen",
+      "Hecarim"
+     ],
+     67.1
     ],
     [
      [
@@ -12445,7 +12462,7 @@
       "Tristana",
       "Lillia"
      ],
-     60.6
+     63.4
     ],
     [
      [
@@ -12457,7 +12474,7 @@
       "Tristana",
       "Lillia"
      ],
-     60.6
+     63.4
     ],
     [
      [
@@ -12469,12 +12486,12 @@
       "Tristana",
       "Lillia"
      ],
-     60.6
+     63.4
     ]
    ],
    "board": [
     [
-     "Hecarim",
+     "Amumu",
      0,
      1
     ],
@@ -12494,9 +12511,9 @@
      5
     ],
     [
-     "Amumu",
-     0,
-     7
+     "Hecarim",
+     1,
+     5
     ],
     [
      "Xayah",
@@ -12524,24 +12541,24 @@
     [
      "Xayah",
      [
-      "Deathblade",
       "Giant Slayer",
-      "Guinsoo's Rageblade"
+      "Guinsoo's Rageblade",
+      "Infinity Edge"
      ]
     ],
     [
      "Rakan",
      [
+      "Crownguard",
       "Gargoyle Stoneplate",
-      "Spirit Visage",
-      "Warmog's Armor"
+      "Spirit Visage"
      ]
     ],
     [
      "Ornn",
      [
       "Gargoyle Stoneplate",
-      "Gargoyle Stoneplate",
+      "Spirit Visage",
       "Warmog's Armor"
      ]
     ],
@@ -12569,7 +12586,7 @@
    "name": "Vanguard Elise",
    "tier": "D",
    "avg": 6.06,
-   "win": 3,
+   "win": 3.1,
    "plan": "lvl 6",
    "steps": [],
    "early": [
@@ -12583,7 +12600,19 @@
       "Diana",
       "Hecarim"
      ],
-     38.2
+     38.5
+    ],
+    [
+     [
+      "Camille",
+      "Rakan",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
+      "Diana",
+      "Hecarim"
+     ],
+     38.5
     ],
     [
      [
@@ -12607,19 +12636,7 @@
       "Diana",
       "Hecarim"
      ],
-     36.9
-    ],
-    [
-     [
-      "Camille",
-      "Rakan",
-      "Caitlyn",
-      "Elise",
-      "Cassiopeia",
-      "Diana",
-      "Hecarim"
-     ],
-     36.9
+     38.2
     ],
     [
      [
@@ -12628,7 +12645,7 @@
       "Caitlyn",
       "Elise"
      ],
-     36.9
+     38.2
     ],
     [
      [
@@ -12637,7 +12654,7 @@
       "Caitlyn",
       "Elise"
      ],
-     36.9
+     38.2
     ],
     [
      [
@@ -12646,37 +12663,37 @@
       "Caitlyn",
       "Elise"
      ],
-     36.9
+     38.2
     ],
     [
      [
       "Camille",
-      "Rakan",
       "Caitlyn",
       "Elise",
-      "Cassiopeia"
+      "Cassiopeia",
+      "Diana"
      ],
-     39.3
+     51.7
     ],
     [
      [
       "Camille",
-      "Rakan",
       "Caitlyn",
       "Elise",
-      "Cassiopeia"
+      "Cassiopeia",
+      "Diana"
      ],
-     39.3
+     51.7
     ],
     [
      [
       "Camille",
-      "Rakan",
       "Caitlyn",
       "Elise",
-      "Cassiopeia"
+      "Cassiopeia",
+      "Diana"
      ],
-     39.3
+     51.7
     ],
     [
      [
@@ -12687,7 +12704,7 @@
       "Diana",
       "Hecarim"
      ],
-     40.3
+     41
     ],
     [
      [
@@ -12698,7 +12715,7 @@
       "Diana",
       "Hecarim"
      ],
-     40.3
+     41
     ],
     [
      [
@@ -12709,19 +12726,7 @@
       "Diana",
       "Hecarim"
      ],
-     40.3
-    ],
-    [
-     [
-      "Camille",
-      "Rakan",
-      "Caitlyn",
-      "Elise",
-      "Cassiopeia",
-      "Diana",
-      "Hecarim"
-     ],
-     49.6
+     41
     ],
     [
      [
@@ -12733,7 +12738,7 @@
       "Diana",
       "Hecarim"
      ],
-     49.6
+     54.3
     ],
     [
      [
@@ -12745,7 +12750,19 @@
       "Diana",
       "Hecarim"
      ],
-     49.6
+     54.3
+    ],
+    [
+     [
+      "Camille",
+      "Rakan",
+      "Caitlyn",
+      "Elise",
+      "Cassiopeia",
+      "Diana",
+      "Hecarim"
+     ],
+     54.3
     ]
    ],
    "board": [
@@ -12802,21 +12819,21 @@
      [
       "Hand Of Justice",
       "Jeweled Gauntlet",
-      "Striker's Flail"
+      "Titan's Resolve"
      ]
     ],
     [
      "Cassiopeia",
      [
-      "Blue Buff",
       "Hextech Gunblade",
-      "Rabadon's Deathcap"
+      "Spear of Shojin",
+      "Void Staff"
      ]
     ],
     [
      "Hecarim",
      [
-      "Dragon's Claw",
+      "Gargoyle Stoneplate",
       "Gargoyle Stoneplate",
       "Spirit Visage"
      ]
@@ -13115,8 +13132,8 @@
     "GargoyleStoneplate",
     "WarmogsArmor"
    ],
-   "avg": 4.3279,
-   "games": 674607
+   "avg": 4.3235,
+   "games": 684425
   },
   {
    "unit": "Amumu",
@@ -13125,8 +13142,8 @@
     "WarmogsArmor",
     "SpiritVisage"
    ],
-   "avg": 4.4167,
-   "games": 536549
+   "avg": 4.4177,
+   "games": 535747
   },
   {
    "unit": "Fiddlesticks",
@@ -13135,8 +13152,8 @@
     "GargoyleStoneplate",
     "IonicSpark"
    ],
-   "avg": 4.4393,
-   "games": 424507
+   "avg": 4.4321,
+   "games": 434568
   },
   {
    "unit": "Diana",
@@ -13145,8 +13162,8 @@
     "IonicSpark",
     "HandOfJustice"
    ],
-   "avg": 4.4768,
-   "games": 422737
+   "avg": 4.4784,
+   "games": 429812
   },
   {
    "unit": "Taric",
@@ -13155,8 +13172,8 @@
     "WarmogsArmor",
     "SpiritVisage"
    ],
-   "avg": 3.9793,
-   "games": 418634
+   "avg": 3.9786,
+   "games": 423122
   },
   {
    "unit": "Kennen",
@@ -13165,8 +13182,8 @@
     "EdgeOfNight",
     "HandOfJustice"
    ],
-   "avg": 4.0387,
-   "games": 337502
+   "avg": 4.0313,
+   "games": 338948
   },
   {
    "unit": "Maokai",
@@ -13175,8 +13192,8 @@
     "WarmogsArmor",
     "SpiritVisage"
    ],
-   "avg": 4.2418,
-   "games": 316670
+   "avg": 4.2356,
+   "games": 316999
   },
   {
    "unit": "Ivern",
@@ -13185,8 +13202,8 @@
     "GuinsoosRageblade",
     "AdaptiveHelm"
    ],
-   "avg": 3.9864,
-   "games": 310891
+   "avg": 3.9806,
+   "games": 312721
   },
   {
    "unit": "Ornn",
@@ -13195,8 +13212,8 @@
     "WarmogsArmor",
     "SpiritVisage"
    ],
-   "avg": 4.4785,
-   "games": 307053
+   "avg": 4.4744,
+   "games": 311047
   },
   {
    "unit": "Vi",
@@ -13205,8 +13222,8 @@
     "WarmogsArmor",
     "SpiritVisage"
    ],
-   "avg": 4.6695,
-   "games": 304055
+   "avg": 4.6622,
+   "games": 303483
   },
   {
    "unit": "Krug",
@@ -13215,8 +13232,8 @@
     "WarmogsArmor",
     "SpiritVisage"
    ],
-   "avg": 4.4039,
-   "games": 294419
+   "avg": 4.4019,
+   "games": 298664
   },
   {
    "unit": "Hecarim",
@@ -13225,8 +13242,8 @@
     "WarmogsArmor",
     "SpiritVisage"
    ],
-   "avg": 4.603,
-   "games": 290388
+   "avg": 4.6026,
+   "games": 297707
   },
   {
    "unit": "Soraka",
@@ -13235,8 +13252,8 @@
     "RabadonsDeathcap",
     "JeweledGauntlet"
    ],
-   "avg": 4.2575,
-   "games": 282906
+   "avg": 4.2481,
+   "games": 288435
   },
   {
    "unit": "Ezreal",
@@ -13245,8 +13262,8 @@
     "LastWhisper",
     "Deathblade"
    ],
-   "avg": 4.3456,
-   "games": 281391
+   "avg": 4.3477,
+   "games": 285145
   },
   {
    "unit": "Aphelios",
@@ -13255,8 +13272,8 @@
     "KrakensFury",
     "InfinityEdge"
    ],
-   "avg": 4.2846,
-   "games": 278928
+   "avg": 4.2847,
+   "games": 279940
   },
   {
    "unit": "GnarSmall",
@@ -13265,8 +13282,8 @@
     "SteraksGage",
     "Bloodthirster"
    ],
-   "avg": 3.8491,
-   "games": 276512
+   "avg": 3.8508,
+   "games": 279552
   },
   {
    "unit": "Alistar",
@@ -13275,8 +13292,18 @@
     "WarmogsArmor",
     "SpiritVisage"
    ],
-   "avg": 4.4912,
-   "games": 270280
+   "avg": 4.4923,
+   "games": 273932
+  },
+  {
+   "unit": "Yorick",
+   "items": [
+    "GargoyleStoneplate",
+    "WarmogsArmor",
+    "SunfireCape"
+   ],
+   "avg": 4.6937,
+   "games": 251420
   },
   {
    "unit": "Sentry",
@@ -13285,8 +13312,8 @@
     "BlueBuff",
     "ArchangelsStaff"
    ],
-   "avg": 4.3458,
-   "games": 237844
+   "avg": 4.3459,
+   "games": 240941
   },
   {
    "unit": "Sett",
@@ -13295,18 +13322,8 @@
     "WarmogsArmor",
     "SpiritVisage"
    ],
-   "avg": 4.4967,
-   "games": 236767
-  },
-  {
-   "unit": "Yorick",
-   "items": [
-    "GargoyleStoneplate",
-    "WarmogsArmor",
-    "ThiefsGloves"
-   ],
-   "avg": 4.7004,
-   "games": 234930
+   "avg": 4.5015,
+   "games": 236694
   },
   {
    "unit": "Morgana",
@@ -13315,8 +13332,8 @@
     "Morellonomicon",
     "RedBuff"
    ],
-   "avg": 4.493,
-   "games": 232755
+   "avg": 4.4983,
+   "games": 236035
   },
   {
    "unit": "ElderDragon",
@@ -13325,18 +13342,8 @@
     "LastWhisper",
     "SteraksGage"
    ],
-   "avg": 4.028,
-   "games": 229826
-  },
-  {
-   "unit": "Zyra",
-   "items": [
-    "VoidStaff",
-    "ArchangelsStaff",
-    "SpearOfShojin"
-   ],
-   "avg": 4.3796,
-   "games": 227129
+   "avg": 4.0268,
+   "games": 234980
   },
   {
    "unit": "Azir",
@@ -13345,18 +13352,8 @@
     "HextechGunblade",
     "RabadonsDeathcap"
    ],
-   "avg": 4.4047,
-   "games": 226020
-  },
-  {
-   "unit": "Veigar",
-   "items": [
-    "JeweledGauntlet",
-    "BlueBuff",
-    "HextechGunblade"
-   ],
-   "avg": 4.3502,
-   "games": 218642
+   "avg": 4.3759,
+   "games": 233952
   },
   {
    "unit": "LeBlanc",
@@ -13365,8 +13362,28 @@
     "SpearOfShojin",
     "Morellonomicon"
    ],
-   "avg": 4.4924,
-   "games": 216063
+   "avg": 4.4985,
+   "games": 232404
+  },
+  {
+   "unit": "Zyra",
+   "items": [
+    "VoidStaff",
+    "ArchangelsStaff",
+    "SpearOfShojin"
+   ],
+   "avg": 4.3729,
+   "games": 227147
+  },
+  {
+   "unit": "Veigar",
+   "items": [
+    "JeweledGauntlet",
+    "BlueBuff",
+    "HextechGunblade"
+   ],
+   "avg": 4.3498,
+   "games": 224475
   },
   {
    "unit": "Alune",
@@ -13375,8 +13392,8 @@
     "JeweledGauntlet",
     "ArchangelsStaff"
    ],
-   "avg": 3.6949,
-   "games": 213280
+   "avg": 3.7063,
+   "games": 215920
   },
   {
    "unit": "KogMaw",
@@ -13385,8 +13402,8 @@
     "SpearOfShojin",
     "GuinsoosRageblade"
    ],
-   "avg": 4.3624,
-   "games": 208675
+   "avg": 4.3599,
+   "games": 211626
   },
   {
    "unit": "Ahri",
@@ -13395,8 +13412,8 @@
     "SpearOfShojin",
     "StrikersFlail"
    ],
-   "avg": 4.4411,
-   "games": 207888
+   "avg": 4.4489,
+   "games": 206831
   },
   {
    "unit": "Scuttlecrab",
@@ -13405,8 +13422,8 @@
     "WarmogsArmor",
     "SpiritVisage"
    ],
-   "avg": 4.6014,
-   "games": 200130
+   "avg": 4.5874,
+   "games": 201975
   },
   {
    "unit": "Draven",
@@ -13415,8 +13432,8 @@
     "KrakensFury",
     "InfinityEdge"
    ],
-   "avg": 4.2281,
-   "games": 198740
+   "avg": 4.2254,
+   "games": 200732
   },
   {
    "unit": "Nidalee",
@@ -13425,28 +13442,8 @@
     "SteraksGage",
     "SpearOfShojin"
    ],
-   "avg": 4.4274,
-   "games": 195561
-  },
-  {
-   "unit": "Varus",
-   "items": [
-    "SpearOfShojin",
-    "InfinityEdge",
-    "LastWhisper"
-   ],
-   "avg": 4.4756,
-   "games": 184369
-  },
-  {
-   "unit": "Lux",
-   "items": [
-    "SpearOfShojin",
-    "JeweledGauntlet",
-    "VoidStaff"
-   ],
-   "avg": 3.5812,
-   "games": 183183
+   "avg": 4.4186,
+   "games": 197490
   },
   {
    "unit": "Sejuani",
@@ -13455,8 +13452,28 @@
     "WarmogsArmor",
     "SpiritVisage"
    ],
-   "avg": 4.6122,
-   "games": 178661
+   "avg": 4.6083,
+   "games": 193814
+  },
+  {
+   "unit": "Varus",
+   "items": [
+    "SpearOfShojin",
+    "InfinityEdge",
+    "LastWhisper"
+   ],
+   "avg": 4.4765,
+   "games": 185659
+  },
+  {
+   "unit": "Lux",
+   "items": [
+    "SpearOfShojin",
+    "JeweledGauntlet",
+    "VoidStaff"
+   ],
+   "avg": 3.5796,
+   "games": 184763
   },
   {
    "unit": "Rakan",
@@ -13465,8 +13482,8 @@
     "ThiefsGloves",
     "SpiritVisage"
    ],
-   "avg": 4.9331,
-   "games": 175600
+   "avg": 4.9292,
+   "games": 175712
   },
   {
    "unit": "Brambleback",
@@ -13475,28 +13492,8 @@
     "SteraksGage",
     "Quicksilver"
    ],
-   "avg": 4.2172,
-   "games": 170535
-  },
-  {
-   "unit": "Rammus",
-   "items": [
-    "GargoyleStoneplate",
-    "WarmogsArmor",
-    "SpiritVisage"
-   ],
-   "avg": 4.438,
-   "games": 167227
-  },
-  {
-   "unit": "Cassiopeia",
-   "items": [
-    "HextechGunblade",
-    "ArchangelsStaff",
-    "SpearOfShojin"
-   ],
-   "avg": 4.5982,
-   "games": 167184
+   "avg": 4.2114,
+   "games": 173583
   },
   {
    "unit": "Karma",
@@ -13505,8 +13502,28 @@
     "BlueBuff",
     "RabadonsDeathcap"
    ],
-   "avg": 4.6828,
-   "games": 154858
+   "avg": 4.6787,
+   "games": 172667
+  },
+  {
+   "unit": "Cassiopeia",
+   "items": [
+    "HextechGunblade",
+    "ArchangelsStaff",
+    "SpearOfShojin"
+   ],
+   "avg": 4.5931,
+   "games": 171709
+  },
+  {
+   "unit": "Rammus",
+   "items": [
+    "GargoyleStoneplate",
+    "WarmogsArmor",
+    "SpiritVisage"
+   ],
+   "avg": 4.4317,
+   "games": 170872
   },
   {
    "unit": "Leona",
@@ -13515,8 +13532,8 @@
     "WarmogsArmor",
     "SpiritVisage"
    ],
-   "avg": 4.5393,
-   "games": 152598
+   "avg": 4.5381,
+   "games": 167978
   },
   {
    "unit": "Lillia",
@@ -13525,48 +13542,8 @@
     "ProtectorsVow",
     "WarmogsArmor"
    ],
-   "avg": 4.5835,
-   "games": 145120
-  },
-  {
-   "unit": "RekSai",
-   "items": [
-    "GargoyleStoneplate",
-    "ThiefsGloves",
-    "WarmogsArmor"
-   ],
-   "avg": 4.5092,
-   "games": 135825
-  },
-  {
-   "unit": "Murkwolf",
-   "items": [
-    "EdgeOfNight",
-    "HandOfJustice",
-    "InfinityEdge"
-   ],
-   "avg": 4.3557,
-   "games": 135061
-  },
-  {
-   "unit": "Ashe",
-   "items": [
-    "SpearOfShojin",
-    "RedBuff",
-    "LastWhisper"
-   ],
-   "avg": 4.2235,
-   "games": 132653
-  },
-  {
-   "unit": "Sivir",
-   "items": [
-    "InfinityEdge",
-    "LastWhisper",
-    "SpearOfShojin"
-   ],
-   "avg": 4.7469,
-   "games": 129700
+   "avg": 4.5852,
+   "games": 145811
   },
   {
    "unit": "Kayle",
@@ -13575,38 +13552,48 @@
     "JeweledGauntlet",
     "RabadonsDeathcap"
    ],
-   "avg": 4.4026,
-   "games": 127321
+   "avg": 4.3903,
+   "games": 141537
   },
   {
-   "unit": "Teemo",
+   "unit": "Murkwolf",
    "items": [
-    "JeweledGauntlet",
-    "SpearOfShojin",
-    "VoidStaff"
+    "EdgeOfNight",
+    "HandOfJustice",
+    "InfinityEdge"
    ],
-   "avg": 4.331,
-   "games": 119334
+   "avg": 4.3578,
+   "games": 138990
   },
   {
-   "unit": "Xayah",
-   "items": [
-    "GuinsoosRageblade",
-    "InfinityEdge",
-    "KrakensFury"
-   ],
-   "avg": 4.6763,
-   "games": 112024
-  },
-  {
-   "unit": "Malphite",
+   "unit": "RekSai",
    "items": [
     "GargoyleStoneplate",
-    "WarmogsArmor",
-    "Crownguard"
+    "ThiefsGloves",
+    "WarmogsArmor"
    ],
-   "avg": 4.6281,
-   "games": 110698
+   "avg": 4.504,
+   "games": 136851
+  },
+  {
+   "unit": "Ashe",
+   "items": [
+    "SpearOfShojin",
+    "RedBuff",
+    "LastWhisper"
+   ],
+   "avg": 4.2241,
+   "games": 129640
+  },
+  {
+   "unit": "Sivir",
+   "items": [
+    "InfinityEdge",
+    "LastWhisper",
+    "SpearOfShojin"
+   ],
+   "avg": 4.7464,
+   "games": 126979
   },
   {
    "unit": "Yunara",
@@ -13615,18 +13602,38 @@
     "LastWhisper",
     "Deathblade"
    ],
-   "avg": 4.6794,
-   "games": 109095
+   "avg": 4.6697,
+   "games": 125894
   },
   {
-   "unit": "Cinderling",
+   "unit": "Teemo",
    "items": [
-    "InfinityEdge",
-    "LastWhisper",
-    "SpearOfShojin"
+    "JeweledGauntlet",
+    "SpearOfShojin",
+    "VoidStaff"
    ],
-   "avg": 4.4852,
-   "games": 105793
+   "avg": 4.3312,
+   "games": 123979
+  },
+  {
+   "unit": "Xayah",
+   "items": [
+    "GuinsoosRageblade",
+    "InfinityEdge",
+    "KrakensFury"
+   ],
+   "avg": 4.6818,
+   "games": 111888
+  },
+  {
+   "unit": "Malphite",
+   "items": [
+    "GargoyleStoneplate",
+    "WarmogsArmor",
+    "Crownguard"
+   ],
+   "avg": 4.6369,
+   "games": 108387
   },
   {
    "unit": "Elise",
@@ -13635,8 +13642,18 @@
     "GuinsoosRageblade",
     "TitansResolve"
    ],
-   "avg": 5.0678,
-   "games": 103604
+   "avg": 5.0521,
+   "games": 107807
+  },
+  {
+   "unit": "Cinderling",
+   "items": [
+    "InfinityEdge",
+    "LastWhisper",
+    "SpearOfShojin"
+   ],
+   "avg": 4.4858,
+   "games": 107529
   },
   {
    "unit": "Shen",
@@ -13645,8 +13662,8 @@
     "WarmogsArmor",
     "SpiritVisage"
    ],
-   "avg": 4.7188,
-   "games": 99948
+   "avg": 4.7319,
+   "games": 97988
   },
   {
    "unit": "KhaZix",
@@ -13655,8 +13672,8 @@
     "RabadonsDeathcap",
     "EdgeOfNight"
    ],
-   "avg": 4.4027,
-   "games": 92403
+   "avg": 4.3875,
+   "games": 93899
   },
   {
    "unit": "CrimsonRaptor",
@@ -13665,8 +13682,8 @@
     "LastWhisper",
     "KrakensFury"
    ],
-   "avg": 4.5516,
-   "games": 71218
+   "avg": 4.5447,
+   "games": 70634
   },
   {
    "unit": "Gromp",
@@ -13675,18 +13692,18 @@
     "SpearOfShojin",
     "VoidStaff"
    ],
-   "avg": 4.3669,
-   "games": 65413
+   "avg": 4.3563,
+   "games": 67898
   },
   {
    "unit": "Rengar",
    "items": [
     "GuinsoosRageblade",
-    "TitansResolve",
-    "EdgeOfNight"
+    "EdgeOfNight",
+    "TitansResolve"
    ],
-   "avg": 4.5862,
-   "games": 54738
+   "avg": 4.5765,
+   "games": 55686
   },
   {
    "unit": "Camille",
@@ -13695,8 +13712,8 @@
     "InfinityEdge",
     "EdgeOfNight"
    ],
-   "avg": 5.4079,
-   "games": 48466
+   "avg": 5.3879,
+   "games": 50578
   },
   {
    "unit": "Akali",
@@ -13705,18 +13722,8 @@
     "EdgeOfNight",
     "JeweledGauntlet"
    ],
-   "avg": 4.8999,
-   "games": 45450
-  },
-  {
-   "unit": "Tristana",
-   "items": [
-    "GuinsoosRageblade",
-    "InfinityEdge",
-    "HextechGunblade"
-   ],
-   "avg": 5.0762,
-   "games": 41309
+   "avg": 4.8892,
+   "games": 47146
   },
   {
    "unit": "Kobuko",
@@ -13725,8 +13732,18 @@
     "WarmogsArmor",
     "ThiefsGloves"
    ],
-   "avg": 4.8196,
-   "games": 39901
+   "avg": 4.805,
+   "games": 41147
+  },
+  {
+   "unit": "Tristana",
+   "items": [
+    "GuinsoosRageblade",
+    "InfinityEdge",
+    "HextechGunblade"
+   ],
+   "avg": 5.0787,
+   "games": 41066
   },
   {
    "unit": "MasterYi",
@@ -13735,8 +13752,8 @@
     "EdgeOfNight",
     "18_EmblemBrawler"
    ],
-   "avg": 4.6263,
-   "games": 39148
+   "avg": 4.6316,
+   "games": 40361
   },
   {
    "unit": "Caitlyn",
@@ -13745,8 +13762,8 @@
     "KrakensFury",
     "HextechGunblade"
    ],
-   "avg": 5.8758,
-   "games": 29316
+   "avg": 5.8861,
+   "games": 29301
   },
   {
    "unit": "Warwick",
@@ -13755,18 +13772,18 @@
     "TitansResolve",
     "SteraksGage"
    ],
-   "avg": 4.6712,
-   "games": 28029
+   "avg": 4.6641,
+   "games": 28473
   },
   {
    "unit": "Gromp",
    "items": [
-    "18_EmblemLunar",
-    "BlueBuff",
-    "JeweledGauntlet"
+    "JeweledGauntlet",
+    "NashorsTooth",
+    "RedBuff"
    ],
-   "avg": 6.75,
-   "games": 12
+   "avg": 5.75,
+   "games": 8
   }
  ],
  "unitTiers": [
@@ -13775,7 +13792,7 @@
    "tier": "S",
    "avg": 3.59,
    "win": 24.7,
-   "freq": 10.8,
+   "freq": 10.7,
    "items": [
     "Spear of Shojin",
     "Jeweled Gauntlet",
@@ -13794,16 +13811,16 @@
     "Spear of Shojin",
     "Jeweled Gauntlet",
     "Archangel's Staff",
-    "Void Staff",
-    "Blue Buff"
+    "Blue Buff",
+    "Void Staff"
    ]
   },
   {
    "unit": "Gnar",
    "tier": "S",
    "avg": 3.77,
-   "win": 19.9,
-   "freq": 18.1,
+   "win": 19.8,
+   "freq": 18,
    "items": [
     "Thief's Gloves",
     "Sterak's Gage",
@@ -13831,7 +13848,7 @@
    "tier": "S",
    "avg": 3.89,
    "win": 21.1,
-   "freq": 26,
+   "freq": 25.8,
    "items": [
     "Gargoyle Stoneplate",
     "Warmog's Armor",
@@ -13844,8 +13861,8 @@
    "unit": "Ivern",
    "tier": "S",
    "avg": 3.93,
-   "win": 22,
-   "freq": 18.1,
+   "win": 22.1,
+   "freq": 17.9,
    "items": [
     "Spear of Shojin",
     "Guinsoo's Rageblade",
@@ -13857,9 +13874,9 @@
   {
    "unit": "Kennen",
    "tier": "S",
-   "avg": 3.96,
-   "win": 20,
-   "freq": 20.8,
+   "avg": 3.95,
+   "win": 20.1,
+   "freq": 20.5,
    "items": [
     "Thief's Gloves",
     "Edge of Night",
@@ -13873,7 +13890,7 @@
    "tier": "S",
    "avg": 4.15,
    "win": 19,
-   "freq": 20.5,
+   "freq": 20.2,
    "items": [
     "Gargoyle Stoneplate",
     "Warmog's Armor",
@@ -13885,9 +13902,9 @@
   {
    "unit": "Brambleback",
    "tier": "S",
-   "avg": 4.16,
+   "avg": 4.15,
    "win": 12.5,
-   "freq": 11.4,
+   "freq": 11.3,
    "items": [
     "Edge of Night",
     "Sterak's Gage",
@@ -13897,24 +13914,10 @@
    ]
   },
   {
-   "unit": "Draven",
-   "tier": "S",
-   "avg": 4.17,
-   "win": 21.2,
-   "freq": 12.7,
-   "items": [
-    "Guinsoo's Rageblade",
-    "Kraken's Fury",
-    "Infinity Edge",
-    "Deathblade",
-    "Last Whisper"
-   ]
-  },
-  {
    "unit": "Soraka",
    "tier": "S",
-   "avg": 4.17,
-   "win": 13.9,
+   "avg": 4.16,
+   "win": 14,
    "freq": 16.9,
    "items": [
     "Spear of Shojin",
@@ -13925,11 +13928,25 @@
    ]
   },
   {
+   "unit": "Draven",
+   "tier": "S",
+   "avg": 4.16,
+   "win": 21.2,
+   "freq": 12.6,
+   "items": [
+    "Guinsoo's Rageblade",
+    "Kraken's Fury",
+    "Infinity Edge",
+    "Deathblade",
+    "Last Whisper"
+   ]
+  },
+  {
    "unit": "Ashe",
    "tier": "S",
    "avg": 4.17,
-   "win": 15.6,
-   "freq": 9.4,
+   "win": 15.5,
+   "freq": 9.2,
    "items": [
     "Spear of Shojin",
     "Red Buff",
@@ -13941,9 +13958,9 @@
   {
    "unit": "Aphelios",
    "tier": "A",
-   "avg": 4.2,
-   "win": 12.3,
-   "freq": 17.1,
+   "avg": 4.21,
+   "win": 12.2,
+   "freq": 16.8,
    "items": [
     "Guinsoo's Rageblade",
     "Kraken's Fury",
@@ -13957,7 +13974,7 @@
    "tier": "A",
    "avg": 4.26,
    "win": 13.1,
-   "freq": 13,
+   "freq": 12.8,
    "items": [
     "Void Staff",
     "Archangel's Staff",
@@ -13971,7 +13988,7 @@
    "tier": "A",
    "avg": 4.27,
    "win": 14.4,
-   "freq": 39.3,
+   "freq": 39.2,
    "items": [
     "Protector's Vow",
     "Gargoyle Stoneplate",
@@ -13983,23 +14000,23 @@
   {
    "unit": "Teemo",
    "tier": "A",
-   "avg": 4.29,
+   "avg": 4.28,
    "win": 12.7,
    "freq": 9.2,
    "items": [
     "Jeweled Gauntlet",
     "Spear of Shojin",
     "Void Staff",
-    "Rabadon's Deathcap",
-    "Archangel's Staff"
+    "Striker's Flail",
+    "Rabadon's Deathcap"
    ]
   },
   {
    "unit": "Ezreal",
    "tier": "A",
-   "avg": 4.29,
-   "win": 15.1,
-   "freq": 17.5,
+   "avg": 4.3,
+   "win": 15.2,
+   "freq": 17.4,
    "items": [
     "Spear of Shojin",
     "Last Whisper",
@@ -14013,7 +14030,7 @@
    "tier": "A",
    "avg": 4.3,
    "win": 9.6,
-   "freq": 10.9,
+   "freq": 10.8,
    "items": [
     "Red Buff",
     "Spear of Shojin",
@@ -14026,8 +14043,8 @@
    "unit": "Pebbles",
    "tier": "A",
    "avg": 4.31,
-   "win": 12.2,
-   "freq": 13.6,
+   "win": 12.1,
+   "freq": 13.5,
    "items": [
     "Jeweled Gauntlet",
     "Blue Buff",
@@ -14054,8 +14071,8 @@
    "unit": "Amumu",
    "tier": "A",
    "avg": 4.34,
-   "win": 14.6,
-   "freq": 30.9,
+   "win": 14.5,
+   "freq": 30.3,
    "items": [
     "Gargoyle Stoneplate",
     "Warmog's Armor",
@@ -14069,41 +14086,55 @@
    "tier": "A",
    "avg": 4.36,
    "win": 8.7,
-   "freq": 10.3,
+   "freq": 10.2,
    "items": [
     "Infinity Edge",
     "Sterak's Gage",
     "Spear of Shojin",
-    "Guinsoo's Rageblade",
-    "Edge of Night"
+    "Edge of Night",
+    "Guinsoo's Rageblade"
    ]
   },
   {
-   "unit": "Krug",
+   "unit": "Azir",
    "tier": "A",
-   "avg": 4.38,
-   "win": 11.3,
-   "freq": 17.2,
+   "avg": 4.36,
+   "win": 12.4,
+   "freq": 14.2,
    "items": [
-    "Gargoyle Stoneplate",
-    "Warmog's Armor",
-    "Spirit Visage",
-    "Sunfire Cape",
-    "Dragon's Claw"
+    "Guinsoo's Rageblade",
+    "Hextech Gunblade",
+    "Rabadon's Deathcap",
+    "Archangel's Staff",
+    "Jeweled Gauntlet"
    ]
   },
   {
    "unit": "Gromp",
    "tier": "A",
-   "avg": 4.38,
-   "win": 11.3,
-   "freq": 4.4,
+   "avg": 4.37,
+   "win": 11.2,
+   "freq": 4.5,
    "items": [
     "Jeweled Gauntlet",
     "Spear of Shojin",
     "Void Staff",
     "Blue Buff",
     "Rabadon's Deathcap"
+   ]
+  },
+  {
+   "unit": "Krug",
+   "tier": "A",
+   "avg": 4.37,
+   "win": 11.3,
+   "freq": 17.1,
+   "items": [
+    "Gargoyle Stoneplate",
+    "Warmog's Armor",
+    "Spirit Visage",
+    "Sunfire Cape",
+    "Dragon's Claw"
    ]
   },
   {
@@ -14121,25 +14152,11 @@
    ]
   },
   {
-   "unit": "Azir",
-   "tier": "A",
-   "avg": 4.39,
-   "win": 12.1,
-   "freq": 14,
-   "items": [
-    "Guinsoo's Rageblade",
-    "Hextech Gunblade",
-    "Rabadon's Deathcap",
-    "Archangel's Staff",
-    "Jeweled Gauntlet"
-   ]
-  },
-  {
    "unit": "Kayle",
    "tier": "A",
-   "avg": 4.4,
+   "avg": 4.39,
    "win": 12.7,
-   "freq": 9,
+   "freq": 9.6,
    "items": [
     "Guinsoo's Rageblade",
     "Jeweled Gauntlet",
@@ -14151,8 +14168,8 @@
   {
    "unit": "Rammus",
    "tier": "B",
-   "avg": 4.42,
-   "win": 11.7,
+   "avg": 4.41,
+   "win": 11.8,
    "freq": 12.9,
    "items": [
     "Gargoyle Stoneplate",
@@ -14177,24 +14194,10 @@
    ]
   },
   {
-   "unit": "Varus",
-   "tier": "B",
-   "avg": 4.46,
-   "win": 9.7,
-   "freq": 11.2,
-   "items": [
-    "Spear of Shojin",
-    "Infinity Edge",
-    "Last Whisper",
-    "Deathblade",
-    "Guinsoo's Rageblade"
-   ]
-  },
-  {
    "unit": "Fiddlesticks",
    "tier": "B",
-   "avg": 4.46,
-   "win": 11.9,
+   "avg": 4.45,
+   "win": 12,
    "freq": 25.8,
    "items": [
     "Thief's Gloves",
@@ -14207,9 +14210,9 @@
   {
    "unit": "Diana",
    "tier": "B",
-   "avg": 4.46,
+   "avg": 4.47,
    "win": 12.2,
-   "freq": 26.6,
+   "freq": 26.5,
    "items": [
     "Thief's Gloves",
     "Ionic Spark",
@@ -14219,23 +14222,23 @@
    ]
   },
   {
-   "unit": "Ahri",
+   "unit": "Varus",
    "tier": "B",
-   "avg": 4.46,
-   "win": 11.4,
-   "freq": 11.3,
+   "avg": 4.47,
+   "win": 9.6,
+   "freq": 11,
    "items": [
-    "Jeweled Gauntlet",
     "Spear of Shojin",
-    "Striker's Flail",
-    "Rabadon's Deathcap",
-    "Invoker Emblem"
+    "Infinity Edge",
+    "Last Whisper",
+    "Deathblade",
+    "Guinsoo's Rageblade"
    ]
   },
   {
    "unit": "Mama Beak",
    "tier": "B",
-   "avg": 4.48,
+   "avg": 4.47,
    "win": 10.7,
    "freq": 5.5,
    "items": [
@@ -14247,11 +14250,25 @@
    ]
   },
   {
-   "unit": "Sett",
+   "unit": "Ahri",
    "tier": "B",
    "avg": 4.48,
+   "win": 11.3,
+   "freq": 11.1,
+   "items": [
+    "Jeweled Gauntlet",
+    "Spear of Shojin",
+    "Striker's Flail",
+    "Rabadon's Deathcap",
+    "Invoker Emblem"
+   ]
+  },
+  {
+   "unit": "Sett",
+   "tier": "B",
+   "avg": 4.49,
    "win": 10.5,
-   "freq": 13.4,
+   "freq": 13.2,
    "items": [
     "Gargoyle Stoneplate",
     "Warmog's Armor",
@@ -14265,7 +14282,7 @@
    "tier": "B",
    "avg": 4.5,
    "win": 11.7,
-   "freq": 10.8,
+   "freq": 11.4,
    "items": [
     "Gargoyle Stoneplate",
     "Warmog's Armor",
@@ -14279,7 +14296,7 @@
    "tier": "B",
    "avg": 4.5,
    "win": 13.5,
-   "freq": 16.6,
+   "freq": 16.4,
    "items": [
     "Gargoyle Stoneplate",
     "Warmog's Armor",
@@ -14291,9 +14308,9 @@
   {
    "unit": "Kha'Zix",
    "tier": "B",
-   "avg": 4.52,
+   "avg": 4.51,
    "win": 11.3,
-   "freq": 6.5,
+   "freq": 6.4,
    "items": [
     "Hand Of Justice",
     "Rabadon's Deathcap",
@@ -14307,7 +14324,7 @@
    "tier": "B",
    "avg": 4.54,
    "win": 11.4,
-   "freq": 8.9,
+   "freq": 8.8,
    "items": [
     "Gargoyle Stoneplate",
     "Protector's Vow",
@@ -14321,7 +14338,7 @@
    "tier": "B",
    "avg": 4.54,
    "win": 12.2,
-   "freq": 13.8,
+   "freq": 14.3,
    "items": [
     "Void Staff",
     "Spear of Shojin",
@@ -14349,7 +14366,7 @@
    "tier": "B",
    "avg": 4.56,
    "win": 11.7,
-   "freq": 18.9,
+   "freq": 18.8,
    "items": [
     "Gargoyle Stoneplate",
     "Warmog's Armor",
@@ -14363,7 +14380,7 @@
    "tier": "B",
    "avg": 4.57,
    "win": 11.4,
-   "freq": 12.1,
+   "freq": 12.6,
    "items": [
     "Gargoyle Stoneplate",
     "Warmog's Armor",
@@ -14376,8 +14393,8 @@
    "unit": "Scuttlecrab",
    "tier": "B",
    "avg": 4.57,
-   "win": 10.2,
-   "freq": 12.8,
+   "win": 10.1,
+   "freq": 12.6,
    "items": [
     "Gargoyle Stoneplate",
     "Warmog's Armor",
@@ -14389,13 +14406,13 @@
   {
    "unit": "Rengar",
    "tier": "B",
-   "avg": 4.58,
+   "avg": 4.57,
    "win": 11.6,
    "freq": 3.6,
    "items": [
     "Guinsoo's Rageblade",
-    "Titan's Resolve",
     "Edge of Night",
+    "Titan's Resolve",
     "Defender Emblem",
     "Sterak's Gage"
    ]
@@ -14403,28 +14420,14 @@
   {
    "unit": "Hecarim",
    "tier": "C",
-   "avg": 4.62,
-   "win": 11.8,
+   "avg": 4.61,
+   "win": 11.9,
    "freq": 19.1,
    "items": [
     "Gargoyle Stoneplate",
     "Warmog's Armor",
     "Spirit Visage",
-    "Sunfire Cape",
-    "Protector's Vow"
-   ]
-  },
-  {
-   "unit": "Vi",
-   "tier": "C",
-   "avg": 4.64,
-   "win": 9.1,
-   "freq": 18.3,
-   "items": [
-    "Gargoyle Stoneplate",
-    "Warmog's Armor",
-    "Spirit Visage",
-    "Thief's Gloves",
+    "Protector's Vow",
     "Sunfire Cape"
    ]
   },
@@ -14432,8 +14435,8 @@
    "unit": "Rek'Sai",
    "tier": "C",
    "avg": 4.64,
-   "win": 10,
-   "freq": 7.9,
+   "win": 9.9,
+   "freq": 7.7,
    "items": [
     "Gargoyle Stoneplate",
     "Thief's Gloves",
@@ -14443,11 +14446,25 @@
    ]
   },
   {
+   "unit": "Vi",
+   "tier": "C",
+   "avg": 4.64,
+   "win": 9.1,
+   "freq": 17.9,
+   "items": [
+    "Gargoyle Stoneplate",
+    "Warmog's Armor",
+    "Spirit Visage",
+    "Thief's Gloves",
+    "Sunfire Cape"
+   ]
+  },
+  {
    "unit": "Malphite",
    "tier": "C",
    "avg": 4.65,
    "win": 8.9,
-   "freq": 6.6,
+   "freq": 6.4,
    "items": [
     "Gargoyle Stoneplate",
     "Warmog's Armor",
@@ -14459,9 +14476,9 @@
   {
    "unit": "Shen",
    "tier": "C",
-   "avg": 4.65,
+   "avg": 4.66,
    "win": 10.7,
-   "freq": 8.5,
+   "freq": 8.3,
    "items": [
     "Gargoyle Stoneplate",
     "Warmog's Armor",
@@ -14474,8 +14491,8 @@
    "unit": "Sivir",
    "tier": "C",
    "avg": 4.66,
-   "win": 10.6,
-   "freq": 8.7,
+   "win": 10.5,
+   "freq": 8.4,
    "items": [
     "Infinity Edge",
     "Last Whisper",
@@ -14487,9 +14504,9 @@
   {
    "unit": "Yunara",
    "tier": "C",
-   "avg": 4.71,
-   "win": 10.1,
-   "freq": 6.5,
+   "avg": 4.69,
+   "win": 10.4,
+   "freq": 7.3,
    "items": [
     "Spear of Shojin",
     "Last Whisper",
@@ -14501,23 +14518,23 @@
   {
    "unit": "Yorick",
    "tier": "C",
-   "avg": 4.71,
-   "win": 9.8,
-   "freq": 13.6,
+   "avg": 4.7,
+   "win": 9.9,
+   "freq": 14.2,
    "items": [
     "Gargoyle Stoneplate",
     "Warmog's Armor",
-    "Thief's Gloves",
     "Sunfire Cape",
+    "Thief's Gloves",
     "Spirit Visage"
    ]
   },
   {
    "unit": "Karma",
    "tier": "C",
-   "avg": 4.71,
-   "win": 10.1,
-   "freq": 8.1,
+   "avg": 4.7,
+   "win": 10.2,
+   "freq": 8.9,
    "items": [
     "Jeweled Gauntlet",
     "Blue Buff",
@@ -14545,7 +14562,7 @@
    "tier": "C",
    "avg": 4.72,
    "win": 11.3,
-   "freq": 9.1,
+   "freq": 9,
    "items": [
     "Guinsoo's Rageblade",
     "Infinity Edge",
@@ -14557,9 +14574,9 @@
   {
    "unit": "Cassiopeia",
    "tier": "C",
-   "avg": 4.78,
-   "win": 12.2,
-   "freq": 11.8,
+   "avg": 4.77,
+   "win": 12.3,
+   "freq": 11.9,
    "items": [
     "Hextech Gunblade",
     "Archangel's Staff",
@@ -14572,8 +14589,8 @@
    "unit": "Warwick",
    "tier": "C",
    "avg": 4.79,
-   "win": 7.4,
-   "freq": 2.5,
+   "win": 7.3,
+   "freq": 2.4,
    "items": [
     "Spear of Shojin",
     "Titan's Resolve",
@@ -14585,8 +14602,8 @@
   {
    "unit": "Kobuko",
    "tier": "D",
-   "avg": 4.82,
-   "win": 6.9,
+   "avg": 4.81,
+   "win": 6.8,
    "freq": 3.9,
    "items": [
     "Gargoyle Stoneplate",
@@ -14601,19 +14618,19 @@
    "tier": "D",
    "avg": 4.92,
    "win": 9.9,
-   "freq": 11,
+   "freq": 10.8,
    "items": [
     "Gargoyle Stoneplate",
     "Thief's Gloves",
     "Spirit Visage",
-    "Protector's Vow",
-    "Warmog's Armor"
+    "Warmog's Armor",
+    "Protector's Vow"
    ]
   },
   {
    "unit": "Akali",
    "tier": "D",
-   "avg": 4.96,
+   "avg": 4.95,
    "win": 7.7,
    "freq": 3.7,
    "items": [
@@ -14629,7 +14646,7 @@
    "tier": "D",
    "avg": 4.98,
    "win": 7.5,
-   "freq": 4.1,
+   "freq": 4,
    "items": [
     "Guinsoo's Rageblade",
     "Infinity Edge",
@@ -14641,9 +14658,9 @@
   {
    "unit": "Elise",
    "tier": "D",
-   "avg": 5.13,
-   "win": 11.7,
-   "freq": 9.1,
+   "avg": 5.11,
+   "win": 11.8,
+   "freq": 9.2,
    "items": [
     "Gargoyle Stoneplate",
     "Guinsoo's Rageblade",
@@ -14656,14 +14673,14 @@
    "unit": "Camille",
    "tier": "D",
    "avg": 5.59,
-   "win": 6.5,
+   "win": 6.6,
    "freq": 5.1,
    "items": [
     "Sterak's Gage",
     "Infinity Edge",
     "Edge of Night",
     "Hand Of Justice",
-    "Titan's Resolve"
+    "Bloodthirster"
    ]
   },
   {
@@ -14741,6 +14758,11 @@
    "name": "Explosive Growth",
    "tier": "S",
    "icon": "explosive-growth"
+  },
+  {
+   "name": "Hustler",
+   "tier": "S",
+   "icon": "hustler"
   },
   {
    "name": "Item Extraction",
@@ -15048,11 +15070,6 @@
    "icon": "heroicgrabbag"
   },
   {
-   "name": "Hustler",
-   "tier": "A",
-   "icon": "hustler"
-  },
-  {
    "name": "Investment Strategy I",
    "tier": "A",
    "icon": "investmentstrategy"
@@ -15196,6 +15213,11 @@
    "name": "Level Up!",
    "tier": "A",
    "icon": "levelup_gold_big"
+  },
+  {
+   "name": "Master of All Origins",
+   "tier": "A",
+   "icon": "masterofallorigins"
   },
   {
    "name": "Nesting Anvils",
